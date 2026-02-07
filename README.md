@@ -23,9 +23,9 @@ This repository contains code and analysis for investigating the economic ties a
 ├── data/                      # Data files (not tracked in git)
 ├── archive/                   # Archived/deprecated code (not tracked in git)
 ├── figures/                   # Generated plots and visualizations
-├── Registry OCR.ipynb        # Scripts for extracting structured data from Rowell's American Newspaper Directories (1869-1890)
-├── coverage_trends.ipynb     # Misc. scripts
-├── data_exploration.ipynb    # Scripts for linking Newspaper directory data with American Stories
+├── registry_data_extraction.ipynb        # Scripts for extracting structured data from Rowell's American Newspaper Directories (1869-1890)
+├── exploration.ipynb     # Misc. scripts
+├── american_stories_merger.ipynb    # Scripts for linking Newspaper directory data with American Stories
 └── README.md
 ```
 
