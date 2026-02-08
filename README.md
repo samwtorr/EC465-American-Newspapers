@@ -24,6 +24,7 @@ This repository contains code and analysis for investigating the economic ties a
 ├── archive/                   # Archived/deprecated code (not tracked in git)
 ├── figures/                   # Generated plots and visualizations
 ├── registry_data_extraction.ipynb        # Scripts for extracting structured data from Rowell's American Newspaper Directories (1869-1890)
+├── editor_publisher_change_did.ipynb     # Script for building panel data and running DiD on newspapers with changes in editor/owner
 ├── exploration.ipynb     # Misc. scripts
 ├── american_stories_merger.ipynb    # Scripts for linking Newspaper directory data with American Stories
 └── README.md
@@ -33,6 +34,9 @@ This repository contains code and analysis for investigating the economic ties a
 
 - [Melissa Dell's American Stories Dataset](https://github.com/dell-research-harvard/americanstories)
 - Historical newspaper directories (1870-1890)
+
+Geo. P. Rowell and Co.’s American Newspaper Directory was a directory to US newspapers and periodicals published in the mid-to-late 19th century, first published in 1869. 14 total scanned editions were used to assemble a dataset of American newspapers over
+time from 1869 to 1890.3 This contains newspapers listed in Rowell’s, with their location, circulation, frequency of distribution, and most importantly, editors and owners for each year in the dataset.
 
 ## Setup
 ```bash
