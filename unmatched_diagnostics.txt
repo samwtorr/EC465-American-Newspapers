@@ -1,0 +1,5334 @@
+UNMATCHED NEWSPAPERS DIAGNOSTICS
+============================================================
+
+Total unmatched: 217
+
+--- Entry 1 ---
+Name:  st. paul daily globe
+Town:  saint paul
+State: MINN
+ISSN:  2168-0116
+LCCN:  sn90059522
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 2 ---
+Name:  savannah morning news
+Town:  savannah
+State: georgia
+ISSN:  2693-5732
+LCCN:  sn82015137
+Town found in master: Yes
+Master candidates in town:
+  - ECHO (master_id: 12474)
+  - EVENING RECORDER (master_id: 12475)
+  - FARM AND HOME (master_id: 12476)
+  - GG. TIMES (master_id: 12477)
+  - H. SOUTHERN FARMERS' MONTHLY (master_id: 12478)
+  - INDEPENDENT AND BROTHERHOOD (master_id: 12479)
+  - ISHMAELITE AND TIMES AND PLANTER (master_id: 12480)
+  - J. GEORGIA FAMILIEN -JOURNAL (master_id: 12481)
+  - LOCAL (master_id: 12482)
+  - MYSTIC BROTHERHOOD (master_id: 12483)
+  - OLD HOMESTEAD (master_id: 12484)
+  - PENNY LOCAL (master_id: 12485)
+  - PHENIX (master_id: 12486)
+  - SUNBEAM (master_id: 12487)
+  - SUNDAY (master_id: 12488)
+  - SUNDAY MORNING TELEGRAM (master_id: 12489)
+  - SUNDAY TIMES (master_id: 12490)
+  - SWEET HOME (master_id: 12491)
+  - TRIBUNE (master_id: 12492)
+  - Abend Zeitung (master_id: 12528)
+  - Southern Cross (master_id: 12529)
+  - Southern Musical Journal (master_id: 12530)
+
+--- Entry 3 ---
+Name:  the silver state
+Town:  unionville
+State: NEV
+ISSN:  2766-4880
+LCCN:  sn84022060
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 4 ---
+Name:  the morning news
+Town:  savannah
+State: Georgia
+ISSN:  2693-5767
+LCCN:  sn86063034
+Town found in master: Yes
+Master candidates in town:
+  - ECHO (master_id: 12474)
+  - EVENING RECORDER (master_id: 12475)
+  - FARM AND HOME (master_id: 12476)
+  - GG. TIMES (master_id: 12477)
+  - H. SOUTHERN FARMERS' MONTHLY (master_id: 12478)
+  - INDEPENDENT AND BROTHERHOOD (master_id: 12479)
+  - ISHMAELITE AND TIMES AND PLANTER (master_id: 12480)
+  - J. GEORGIA FAMILIEN -JOURNAL (master_id: 12481)
+  - LOCAL (master_id: 12482)
+  - MYSTIC BROTHERHOOD (master_id: 12483)
+  - OLD HOMESTEAD (master_id: 12484)
+  - PENNY LOCAL (master_id: 12485)
+  - PHENIX (master_id: 12486)
+  - SUNBEAM (master_id: 12487)
+  - SUNDAY (master_id: 12488)
+  - SUNDAY MORNING TELEGRAM (master_id: 12489)
+  - SUNDAY TIMES (master_id: 12490)
+  - SWEET HOME (master_id: 12491)
+  - TRIBUNE (master_id: 12492)
+  - Abend Zeitung (master_id: 12528)
+  - Southern Cross (master_id: 12529)
+  - Southern Musical Journal (master_id: 12530)
+
+--- Entry 5 ---
+Name:  boletiìn mercantil de puerto rico
+Town:  san juan
+State: P.R
+ISSN:  2766-7936
+LCCN:  sn91099739
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 6 ---
+Name:  daily republican
+Town:  wilmington
+State: WILMINGTON, DEL
+ISSN:  2476-2725
+LCCN:  sn84038114
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 7 ---
+Name:  telegram-herald
+Town:  grand rapids
+State: MICH
+ISSN:  2378-0703
+LCCN:  sn98066392
+Town found in master: Yes
+Master candidates in town:
+  - AGRICULTURAL WORLD (master_id: 24864)
+  - AGRICULTURAL WORLD AND MICHIGAN STANDARD (master_id: 24865)
+  - CRAWFORD AVALANCHE (master_id: 24866)
+  - ENQUIRER (master_id: 24867)
+  - ENQUIRER AND GREENBACK (master_id: 24868)
+  - F. CLIPPER (master_id: 24869)
+  - GERMAN -AMERICAN (master_id: 24870)
+  - GERMANIA (master_id: 24871)
+  - GREENBACK (master_id: 24872)
+  - HEARTH AND HALL (master_id: 24873)
+  - I I. EVENING LEADER (master_id: 24874)
+  - I. MEDICAL COUNSELOR (master_id: 24875)
+  - I. MICHIGAN ARTISAN (master_id: 24876)
+  - I. MICHIGAN TRADE JOURNAL (master_id: 24877)
+  - I. WEST SIDE CLIPPER (master_id: 24878)
+  - I. WOLVERINE CYCLONE (master_id: 24879)
+  - II. MICHIGAN SUNDAY CALL (master_id: 24880)
+  - II. MICHIGAN TRADESMAN (master_id: 24881)
+  - JJ. SOCIETY NEWS (master_id: 24882)
+  - L MORNING TELEGRAM (master_id: 24883)
+  - LEADER (master_id: 24884)
+  - LEVER (master_id: 24885)
+  - MICHIGAN SCHOOL MODERATOR (master_id: 24886)
+  - MORNING DEMOCRAT (master_id: 24887)
+  - MUSICAL JOURNAL (master_id: 24888)
+  - NATIONAL ENQUIRER (master_id: 24889)
+  - NEWS (master_id: 24890)
+  - POST (master_id: 24891)
+  - SATURDAY GLOBE (master_id: 24892)
+  - SATURDAY POST (master_id: 24893)
+  - SATURDAY REVIEW (master_id: 24894)
+  - SCHOOL NEWSPAPER (master_id: 24895)
+  - SOLDIER'S RECORD (master_id: 24896)
+  - SONNTAGSBLATT (master_id: 24897)
+  - STAATS -ZEITUNG (master_id: 24898)
+  - De Standard (master_id: 24917)
+  - Eagle (master_id: 24918)
+  - Michigan Staats-Zei- tung (master_id: 24919)
+  - Saturday Evening Post (master_id: 24920)
+  - Times (master_id: 24921)
+  - Vrijhcids Banier (master_id: 24922)
+
+--- Entry 8 ---
+Name:  the daily bulletin
+Town:  honolulu
+State: HAWAII
+ISSN:  2157-2127
+LCCN:  sn82016412
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 9 ---
+Name:  the pacific commercial advertiser
+Town:  honolulu
+State: HAWAIIAN ISLANDS
+ISSN:  2375-3137
+LCCN:  sn85047084
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 10 ---
+Name:  nashville union and american
+Town:  nashville
+State: TENN
+ISSN:  2166-6105
+LCCN:  sn85033699
+Town found in master: Yes
+Master candidates in town:
+  - ADVOCATE OF MISSIONS (master_id: 43640)
+  - AMERICAN JOURNAL OF EDUCATION (master_id: 43641)
+  - AND TOBACCO COTTON RECORD (master_id: 43642)
+  - ANZEIGER DES SUDENS (master_id: 43643)
+  - ARTISAN (master_id: 43644)
+  - BANNER (master_id: 43645)
+  - BAPTIST REFLECTOR (master_id: 43646)
+  - BUDGET (master_id: 43647)
+  - CRITERION (master_id: 43648)
+  - DENTAL HEADLIGHT (master_id: 43649)
+  - DIXIE FARMER (master_id: 43650)
+  - E. VANDERBILT OBSERVER (master_id: 43651)
+  - EDUCATIONAL RECORD (master_id: 43652)
+  - FISK HERALD (master_id: 43653)
+  - G. MORNING WORLD (master_id: 43654)
+  - G. WORLD (master_id: 43655)
+  - GOOD TEMPLAR AND TEMPERANCE REVIEW (master_id: 43656)
+  - HAPPY HOME (master_id: 43657)
+  - HH. MISSIONARY BAPTIST (master_id: 43658)
+  - I. REPORTER (master_id: 43659)
+  - I. SCROLL (master_id: 43660)
+  - I. SOUTHERN PRACTITIONER (master_id: 43661)
+  - I. SOUTHWESTERN JOURNAL OF EDUCATION (master_id: 43662)
+  - II. SOUTHERN MINER AND MANUFACTURER (master_id: 43663)
+  - II. SOUTHERN NORMALIST (master_id: 43664)
+  - IMMACULATE BANNER (master_id: 43665)
+  - J. BROADAXE (master_id: 43666)
+  - LEGAL REPORTER (master_id: 43667)
+  - MAYFIELD'S HAPPY HOME (master_id: 43668)
+  - MEDICINE AND JOURNAL OF SURGERY (master_id: 43669)
+  - MONTHLY (master_id: 43670)
+  - OF SURGERY (master_id: 43671)
+  - PIRIT OF REFORM (master_id: 43672)
+  - QUARTERLY REVIEW (master_id: 43673)
+  - ROCK CITY BROADAXE (master_id: 43674)
+  - ROGER WILLIAMS' RECORD (master_id: 43675)
+  - SOUTHERN COACH MAKER (master_id: 43676)
+  - SOUTHERN HUSBANDMAN (master_id: 43677)
+  - SOUTHERN INDUSTRIES (master_id: 43678)
+  - SOUTHERN LUMBERMAN (master_id: 43679)
+  - SOUTHERN MILLER (master_id: 43680)
+  - SOUTHERN REPORTER (master_id: 43681)
+  - SPIRIT OF THE FARM (master_id: 43682)
+  - STUDENT WORLD (master_id: 43683)
+  - SUNDAY JOURNAL (master_id: 43684)
+  - SUNFLOWER (master_id: 43685)
+  - TEMPERANCE ALLIANCE (master_id: 43686)
+  - TEMPLAR (master_id: 43687)
+  - TENNESSEE GOOD TEMPLAR (master_id: 43688)
+  - TENNESSEE POST (master_id: 43689)
+  - TENNESSEE REPUBLICAN (master_id: 43690)
+  - VANDERBILT AUSTRAL (master_id: 43691)
+  - WOMAN AT HOME (master_id: 43692)
+  - WOMAN'S MISSIONARY ADVOCATE (master_id: 43693)
+  - YOUTHS' TREASURY (master_id: 43694)
+  - American (master_id: 43702)
+  - Baptist Watchman (master_id: 43703)
+  - Christian Advocate (master_id: 43704)
+  - Commercial and Legal Re- porter (master_id: 43705)
+  - Cumberland Presbyterian (master_id: 43706)
+  - Good Templar (master_id: 43707)
+  - Gospel Advocate (master_id: 43708)
+  - Journal of Medicine and Surgery (master_id: 43709)
+  - Ladies' Pearl (master_id: 43710)
+  - Rural Sun (master_id: 43711)
+  - Sunday Morning (master_id: 43712)
+  - Sunday School Magazine (master_id: 43713)
+  - Sunday School Visitor (master_id: 43714)
+  - Theological Medium (master_id: 43715)
+
+--- Entry 11 ---
+Name:  the cincinnati daily star
+Town:  cincinnati
+State: CINCINNATI, OHIO
+ISSN:  2376-0397
+LCCN:  sn85025759
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 12 ---
+Name:  burlington weekly free press
+Town:  burlington
+State: Vermont
+ISSN:  2166-2037
+LCCN:  sn86072143
+Town found in master: Yes
+Master candidates in town:
+  - EARTH (master_id: 45209)
+  - MEDICAL ADVERTISER (master_id: 45210)
+  - MERCHANTS' HOME VISITOR (master_id: 45211)
+  - NORTH STAR (master_id: 45212)
+  - SATURDAY EVENING REVIEW (master_id: 45213)
+  - SUNDAY REVIEW (master_id: 45214)
+  - WITNESS (master_id: 45215)
+  - Clipper (master_id: 45228)
+  - Democrat and Sentinel (master_id: 45229)
+  - Free Press and Times (master_id: 45230)
+  - Vermont Witness (master_id: 45231)
+
+--- Entry 13 ---
+Name:  wood county reporter
+Town:  grand rapids
+State: I.E. WISCONSIN RAPIDS
+ISSN:  2572-5904
+LCCN:  sn85033078
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 14 ---
+Name:  press and daily dakotaian
+Town:  yankton
+State: South Dakota
+ISSN:  2473-0416
+LCCN:  sn91099608
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 15 ---
+Name:  idaho semi-weekly world
+Town:  idaho city
+State: IDAHO TERRITORY
+ISSN:  2381-1897
+LCCN:  sn84022135
+Town found in master: Yes
+Master candidates in town:
+  - KEYSTONE (master_id: 12621)
+  - Idaho Worlds (master_id: 12622)
+
+--- Entry 16 ---
+Name:  the anderson intelligencer
+Town:  anderson court house
+State: South Carolina
+ISSN:  2163-4394
+LCCN:  sn84026965
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 17 ---
+Name:  daily yellowstone journal
+Town:  miles city
+State: MONT
+ISSN:  2163-4912
+LCCN:  sn86075021
+Town found in master: Yes
+Master candidates in town:
+  - J. STOCK -GROWERS' JOURNAL (master_id: 29227)
+
+--- Entry 18 ---
+Name:  the daily intelligencer
+Town:  seattle
+State: I.E. WASH
+ISSN:  2376-9025
+LCCN:  sn83045610
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 19 ---
+Name:  the daily times
+Town:  richmond
+State: Virginia
+ISSN:  2157-5029
+LCCN:  sn86071854
+Town found in master: Yes
+Master candidates in town:
+  - ATLANTIC HOMESTEAD (master_id: 45851)
+  - ATLANTIC JOURNAL OF MEDICINE (master_id: 45852)
+  - CAPITAL (master_id: 45853)
+  - CATHOLIC VISITOR (master_id: 45854)
+  - FIELD AND FIRESIDE (master_id: 45855)
+  - HOME VISITOR AND TEMPERANCE ADVOCATE (master_id: 45856)
+  - I I. PLANET (master_id: 45857)
+  - I. FARM PIONEER (master_id: 45858)
+  - INDUSTRIAL SOUTH (master_id: 45859)
+  - JOURNAL OF EDUCATIONAL VIRGINIA (master_id: 45860)
+  - K. COLLEGE MESSENGER (master_id: 45861)
+  - K.K. WHIG (master_id: 45862)
+  - L MISSIONARY (master_id: 45863)
+  - LEADER (master_id: 45864)
+  - MERCANTILE AND MANUFACTURING JOURNAL (master_id: 45865)
+  - OBSERVER (master_id: 45866)
+  - PALM (master_id: 45867)
+  - PYTHIAN HERALD (master_id: 45868)
+  - SATURDAY REVIEW (master_id: 45869)
+  - SOUTHERN CHURCHMAN (master_id: 45870)
+  - SOUTHERN CLINIC (master_id: 45871)
+  - SOUTHERN PLANTER (master_id: 45872)
+  - STAATS GAZETTE (master_id: 45873)
+  - STANDARD (master_id: 45874)
+  - STATE (master_id: 45875)
+  - SUN (master_id: 45876)
+  - TEMPERANCE ADVOCATE (master_id: 45877)
+  - TOBACCO JOURNAL (master_id: 45878)
+  - VIRGINIA PATRON (master_id: 45879)
+  - VIRGINIA STAR (master_id: 45880)
+  - WHIG AND ADVERTISER (master_id: 45881)
+  - WORKER (master_id: 45882)
+  - Anzeiger (master_id: 45900)
+  - Central Presbyterian (master_id: 45901)
+  - Children's Friend (master_id: 45902)
+  - Christian Advocate (master_id: 45903)
+  - Christian Examiner (master_id: 45904)
+  - Commercial and Tobacco Leaf (master_id: 45905)
+  - Dispatch (master_id: 45906)
+  - Earnest Worker (master_id: 45907)
+  - Educational Journal of Vir- ginia (master_id: 45908)
+  - Enquirer (master_id: 45909)
+  - Guide and News (master_id: 45910)
+  - Insurance Advocate (master_id: 45911)
+  - Religious Herald s (master_id: 45912)
+  - Sonntags-Blatt (master_id: 45913)
+  - Southern Historical Society Papers (master_id: 45914)
+  - Southern Planter and Farm- er (master_id: 45915)
+  - Virginia Staats Gazette (master_id: 45916)
+  - Whig (master_id: 45917)
+
+--- Entry 20 ---
+Name:  carson daily appeal
+Town:  carson city
+State: NEV
+ISSN:  2472-0461
+LCCN:  sn86076199
+Town found in master: Yes
+Master candidates in town:
+  - APPEAL (master_id: 30291)
+  - INDEX (master_id: 30292)
+  - MORNING APPEAL (master_id: 30293)
+  - NEVADA TRIBUNE (master_id: 30294)
+  - WHITE PINE NEWS (master_id: 30295)
+
+--- Entry 21 ---
+Name:  the petroleum centre daily record
+Town:  petroleum center
+State: Pennsylvania
+ISSN:  2327-5111
+LCCN:  sn84026005
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 22 ---
+Name:  the rutland daily globe
+Town:  rutland
+State: Vermont
+ISSN:  2328-3432
+LCCN:  sn84022473
+Town found in master: Yes
+Master candidates in town:
+  - CALEDONIAN (master_id: 45308)
+  - EVENING TELEGRAM (master_id: 45309)
+  - H. DEMOCRAT AND COURIER (master_id: 45310)
+  - HERALD AND GLOBE (master_id: 45311)
+  - INQUIRER (master_id: 45312)
+  - KK. STANDARD (master_id: 45313)
+  - MERCHANT'S HOME VISITOR (master_id: 45314)
+  - MESSENGER (master_id: 45315)
+  - REVIEW (master_id: 45316)
+  - REVIEW -INQUIRER (master_id: 45317)
+  - SUNDAY SENTINEL (master_id: 45318)
+  - VERMONT BAPTIST (master_id: 45319)
+  - VERMONT FARMER (master_id: 45320)
+  - VERMONT JOURNAL (master_id: 45321)
+  - Heralds (master_id: 45322)
+
+--- Entry 23 ---
+Name:  mower county transcript
+Town:  lansing
+State: MINN
+ISSN:  2332-7340
+LCCN:  sn85025431
+Town found in master: Yes
+Master candidates in town:
+  - BEACON (master_id: 25115)
+  - CENTER (master_id: 25116)
+  - CLARION (master_id: 25117)
+  - LAPEER CO. DEMOCRAT (master_id: 25118)
+  - MICHIGAN SCHOOL MODERA. TOR (master_id: 25119)
+  - MICHIGAN STAATS ZEITUNG (master_id: 25120)
+  - SENTINEL (master_id: 25121)
+  - State Republicans (master_id: 25174)
+
+--- Entry 24 ---
+Name:  the iowa plain dealer
+Town:  new oregon
+State: IOWA
+ISSN:  2639-6327
+LCCN:  sn83025167
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 25 ---
+Name:  spirit of jefferson
+Town:  charles town
+State: W. VA
+ISSN:  2372-5028
+LCCN:  sn84026788
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 26 ---
+Name:  the aegis &amp; intelligencer
+Town:  bel air
+State: Maryland
+ISSN:  2475-0700
+LCCN:  sn83016107
+Town found in master: Yes
+Master candidates in town:
+  - Harford Democrat (master_id: 22315)
+  - Zgis and Intelligencer (master_id: 22316)
+
+--- Entry 27 ---
+Name:  the new orleans bulletin
+Town:  new orleans
+State: Louisiana
+ISSN:  2381-540X
+LCCN:  sn86079018
+Town found in master: Yes
+Master candidates in town:
+  - ADVOCATE (master_id: 21649)
+  - AMERICAN CITIZEN (master_id: 21650)
+  - AMERICAN LUMBERMAN (master_id: 21651)
+  - AND FARMER'S VINDICATOR COOPERATIVE NEWS (master_id: 21652)
+  - CHRISTIAN PREACHER (master_id: 21653)
+  - CHRISTIAN STANDARD (master_id: 21654)
+  - CITY ITEM (master_id: 21655)
+  - COMMERCIAL INTELLIGENCER AND SHIPPING LIST (master_id: 21656)
+  - COUNTRY VISITOR (master_id: 21657)
+  - COURIER (master_id: 21658)
+  - CURRENT AND PRICE SHIP PING LIST (master_id: 21659)
+  - DEMOCRAT (master_id: 21660)
+  - DEMOCRATIE FRANCAISE (master_id: 21661)
+  - GAZETTE (master_id: 21662)
+  - GRAND ERA (master_id: 21663)
+  - I I. JOURNAL OF COMMERCE (master_id: 21664)
+  - IBERVILLE SOUTH (master_id: 21665)
+  - INDEPENDENT (master_id: 21666)
+  - J. ILLUSTRATED SOUTHERN WEEKLY AND NEW ERA (master_id: 21667)
+  - J. LOUISIANA REPUBLICAN (master_id: 21668)
+  - JEWISH SOUTH (master_id: 21669)
+  - K. SOUTHERN ENGRAVER (master_id: 21670)
+  - KK. SOUTHERN BELLE (master_id: 21671)
+  - L'ABEILLE (master_id: 21672)
+  - LEDGER (master_id: 21673)
+  - LIC MESSENGER (master_id: 21674)
+  - LIQUE (master_id: 21675)
+  - LOUISIANA JOURNAL OF EDUCATION (master_id: 21676)
+  - LOUISIANA SUGAR BOWL (master_id: 21677)
+  - MASCOT (master_id: 21678)
+  - MECHANIC FARMER (master_id: 21679)
+  - MORNING STAR (master_id: 21680)
+  - NEW DELTA (master_id: 21681)
+  - NING CHRONICLE (master_id: 21682)
+  - OBSERVER (master_id: 21683)
+  - PRICE CURRENT AND SHIPPING LIST (master_id: 21684)
+  - PROTECTIONIST (master_id: 21685)
+  - SOUTH-WESTERN CHRISTIAN ADVOCATE (master_id: 21686)
+  - SOUTHERN SPORTSMAN (master_id: 21687)
+  - ST. LANDRY DEMOCRAT (master_id: 21688)
+  - STATES (master_id: 21689)
+  - SUGAR PLANTER (master_id: 21690)
+  - SUNDAY DELTA (master_id: 21691)
+  - TEMPERANCE ADVOCATE (master_id: 21692)
+  - TES (master_id: 21693)
+  - TIMES -DEMOCRAT (master_id: 21694)
+  - WARRINGTONS' MUSICAL REVIEW (master_id: 21695)
+  - WORKMAN (master_id: 21696)
+  - YOUNG MISSIONARY (master_id: 21697)
+  - Budget (master_id: 21702)
+  - Christian Advocate (master_id: 21703)
+  - Deutsche Zeitung (master_id: 21704)
+  - Familienfreund (master_id: 21705)
+  - Iron Preacher (master_id: 21706)
+  - Louisiana State Regis- ter (master_id: 21707)
+  - Louisianian (master_id: 21708)
+  - Medical and Surgical Journal (master_id: 21709)
+  - Morning Star and Cath- olic Messenger (master_id: 21710)
+  - Our Home Journal and Rural Southland (master_id: 21711)
+  - Picayune (master_id: 21712)
+  - Propagateur Catho- lique (master_id: 21713)
+  - Republican (master_id: 21714)
+  - Son of the Soil (master_id: 21715)
+  - Sonntags Blatt (master_id: 21716)
+  - South-Land (master_id: 21717)
+  - Southwestern Presby- terian (master_id: 21718)
+  - Standard (master_id: 21719)
+  - Times (master_id: 21720)
+
+--- Entry 28 ---
+Name:  daily press and dakotaian
+Town:  yankton
+State: South Dakota
+ISSN:  2473-022X
+LCCN:  sn84022144
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 29 ---
+Name:  the weekly thibodaux sentinel and journal of the 8th senatorial district
+Town:  thibodaux
+State: I.E. LA
+ISSN:  2378-0401
+LCCN:  sn88064492
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 30 ---
+Name:  iron county register
+Town:  ironton
+State: Missouri
+ISSN:  2375-4362
+LCCN:  sn84024283
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 31 ---
+Name:  vermont phå“nix
+Town:  brattleboro
+State: Vermont
+ISSN:  2166-9821
+LCCN:  sn98060050
+Town found in master: Yes
+Master candidates in town:
+  - FRANKLIN CO . REFORMER (master_id: 45201)
+  - HOLSTEIN -FRIESIAN REGISTER (master_id: 45202)
+  - REFORMER (master_id: 45203)
+  - SCHOOL ECHOES (master_id: 45204)
+  - WINDHAM CO . REFORMER (master_id: 45205)
+  - WOMANS MAGAZINE (master_id: 45206)
+  - Household (master_id: 45224)
+  - Vermont Journal (master_id: 45225)
+  - Vermont Phenix (master_id: 45226)
+  - Vermont Record and Farmer (master_id: 45227)
+
+--- Entry 32 ---
+Name:  connecticut western news
+Town:  salisbury
+State: CONN
+ISSN:  2642-7362
+LCCN:  sn84027718
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 33 ---
+Name:  the daily state journal
+Town:  alexandria
+State: Virginia
+ISSN:  2163-7229
+LCCN:  sn84024670
+Town found in master: Yes
+Master candidates in town:
+  - AND NATIONAL ECHO (master_id: 45163)
+  - GOOD TEMPLAR'S GAZETTE (master_id: 45164)
+  - SUNDAY TRIBUNE (master_id: 45165)
+  - TEM (master_id: 45166)
+  - ACADEMY JOURNAL (master_id: 45381)
+  - J. NEW ERA (master_id: 45382)
+  - K. SUNDAY PICAYUNE (master_id: 45383)
+  - PEOPLE'S ADVOCATE (master_id: 45384)
+  - PRESS (master_id: 45385)
+  - SUNDAY BULLETIN (master_id: 45386)
+  - Gazette (master_id: 45395)
+  - Southern Churchman (master_id: 45396)
+  - Virginia Sentinel (master_id: 45397)
+
+--- Entry 34 ---
+Name:  catoctin clarion
+Town:  mechanicstown
+State: Maryland
+ISSN:  2471-8874
+LCCN:  sn84026688
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 35 ---
+Name:  the jackson standard
+Town:  jackson c.h.
+State: Ohio
+ISSN:  2376-1547
+LCCN:  sn85038180
+Town found in master: Yes
+Master candidates in town:
+  - JOURNAL (master_id: 38068)
+  - Herald (master_id: 38081)
+  - Standard (master_id: 38082)
+  - Tribune (master_id: 38083)
+
+--- Entry 36 ---
+Name:  frostburg mining journal
+Town:  frostburg
+State: Maryland
+ISSN:  2577-1744
+LCCN:  sn85025350
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 37 ---
+Name:  saint mary&#39;s beacon
+Town:  leonard town
+State: Maryland
+ISSN:  0745-0680
+LCCN:  sn82006687
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 38 ---
+Name:  southern standard
+Town:  mcminnville
+State: TENN
+ISSN:  2374-2062
+LCCN:  sn86090474
+Town found in master: Yes
+Master candidates in town:
+  - NewEra (master_id: 43624)
+
+--- Entry 39 ---
+Name:  the pacific commercial advertiser
+Town:  honolulu
+State: HAWAIIAN ISLANDS
+ISSN:  2332-0656
+LCCN:  sn82015418
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 40 ---
+Name:  wessington springs herald
+Town:  wessington springs
+State: South Dakota
+ISSN:  2475-4439
+LCCN:  sn99067997
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 41 ---
+Name:  the arizona sentinel
+Town:  arizona city
+State: YUMA
+ISSN:  2166-1928
+LCCN:  sn84021912
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 42 ---
+Name:  the hawaiian gazette
+Town:  honolulu
+State: OAHU, HAWAII
+ISSN:  2157-1392
+LCCN:  sn83025121
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 43 ---
+Name:  the florida agriculturist
+Town:  deland
+State: FLA
+ISSN:  1940-7440
+LCCN:  sn96027724
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 44 ---
+Name:  the evening argus
+Town:  rock island
+State: ILL
+ISSN:  2375-2041
+LCCN:  sn84038628
+Town found in master: Yes
+Master candidates in town:
+  - AUGUSTANA OCH MISSIONAREN (master_id: 15282)
+  - I I. VOLKS ZEITUNG (master_id: 15283)
+  - J. ROCK ISLANDER (master_id: 15284)
+  - PEOPLES' FRIEND (master_id: 15285)
+  - UNGDOMS-VANNEN (master_id: 15286)
+  - WESTERN RAILROADER (master_id: 15287)
+  - Argus (master_id: 15329)
+  - Neue Volks Zeitung (master_id: 15330)
+  - Union (master_id: 15331)
+
+--- Entry 45 ---
+Name:  bristol news
+Town:  bristol
+State: VA. &AMP; TENN
+ISSN:  2166-5818
+LCCN:  sn85026955
+Town found in master: Yes
+Master candidates in town:
+  - GAZETTE (master_id: 45207)
+  - K. HERALD (master_id: 45208)
+
+--- Entry 46 ---
+Name:  phillipsburg herald
+Town:  phillipsburg
+State: Kansas
+ISSN:  2329-2598
+LCCN:  sn85029677
+Town found in master: Yes
+Master candidates in town:
+  - CHIEF (master_id: 20449)
+
+--- Entry 47 ---
+Name:  the new north-west
+Town:  deer lodge
+State: MONT
+ISSN:  2332-7596
+LCCN:  sn84038125
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 48 ---
+Name:  lewiston teller
+Town:  lewiston
+State: NORTH IDAHO
+ISSN:  2381-2079
+LCCN:  sn82007023
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 49 ---
+Name:  clearfield republican
+Town:  clearfield
+State: Pennsylvania
+ISSN:  2330-8400
+LCCN:  sn83032199
+Town found in master: Yes
+Master candidates in town:
+  - CITIZEN (master_id: 39856)
+
+--- Entry 50 ---
+Name:  evening journal
+Town:  wilmington
+State: DEL
+ISSN:  2641-6123
+LCCN:  sn85042354
+Town found in master: Yes
+Master candidates in town:
+  - DELAWARE GAZETTE AND STATE JOURNAL (master_id: 11477)
+  - DELAWARE MORNING NEWS (master_id: 11478)
+  - DELAWARE PROHIBITIONIST (master_id: 11479)
+  - EVERY AND COMEVENING MERCIAL (master_id: 11480)
+  - EVERY EVENING AND COMMERCIAL (master_id: 11481)
+  - FREIE PRESSE (master_id: 11482)
+  - G G. SUNDAY TELEGRAM (master_id: 11483)
+  - GAZETTE (master_id: 11484)
+  - H. MORNING NEWS (master_id: 11485)
+  - J. CONFERENCE WORKER (master_id: 11486)
+  - JJ. CONFERENCE STANDARD (master_id: 11487)
+  - K. GAZETTE (master_id: 11488)
+  - PENINSULA METHODIST (master_id: 11489)
+  - PENINSULAR TRADE RECORD (master_id: 11490)
+  - SUNDAY DISPATCH (master_id: 11491)
+  - SUNDAY MORNING STAR (master_id: 11492)
+  - TIMES (master_id: 11493)
+  - WILMINGTONIAN (master_id: 11494)
+  - WORKER (master_id: 11495)
+  - Commercial (master_id: 11496)
+  - Delaware Gazette (master_id: 11497)
+  - Delaware Pioneer (master_id: 11498)
+  - Delaware Republican (master_id: 11499)
+  - Delaware State Journal (master_id: 11500)
+  - Delaware Tribune (master_id: 11501)
+  - Every Evening (master_id: 11502)
+  - Harkness ' Magazine (master_id: 11503)
+  - Morning Herald (master_id: 11504)
+  - Republican (master_id: 11505)
+  - Sunday School Worker (master_id: 11506)
+
+--- Entry 51 ---
+Name:  the meridional
+Town:  abbeville
+State: Louisiana
+ISSN:  2329-4280
+LCCN:  sn88064005
+Town found in master: Yes
+Master candidates in town:
+  - VERMILION BANNER (master_id: 21530)
+
+--- Entry 52 ---
+Name:  hermanner volksblatt
+Town:  hermann
+State: Missouri
+ISSN:  2374-9954
+LCCN:  sn93060116
+Town found in master: Yes
+Master candidates in town:
+  - ADVERTISER-COURIER (master_id: 27695)
+  - FORTSCHRITT (master_id: 27696)
+  - K. GASCONADE DEMOCRAT (master_id: 27697)
+  - K. GASCONADE INDEPENDENT (master_id: 27698)
+  - Hermanner Volksblatt (master_id: 27735)
+
+--- Entry 53 ---
+Name:  salt lake evening democrat
+Town:  salt lake city
+State: UTAH
+ISSN:  2157-3425
+LCCN:  sn85058117
+Town found in master: Yes
+Master candidates in town:
+  - BIKUBEN (master_id: 45133)
+  - CONTRIBUTOR (master_id: 45134)
+  - EARNEST WORKER (master_id: 45135)
+  - EVENING CHRONICLE (master_id: 45136)
+  - H. ANTI POLYGAMY STANDARD (master_id: 45137)
+  - H. UTAH COMMERCIAL.H ROCKY MOUNTAIN CHRISTIAN ADVOCATE (master_id: 45138)
+  - H. VOMAN'S EXPONENT (master_id: 45139)
+  - J. UTAH REVIEW (master_id: 45140)
+  - LAKE TRIBUNE (master_id: 45141)
+  - MORGENSTJERNEN (master_id: 45142)
+  - OUR DESERET HOME (master_id: 45143)
+  - PARRY'S LITERARY JOURNAL (master_id: 45144)
+  - POSTEN (master_id: 45145)
+  - ROCKY MOUNTAIN CHRISTIAN ADVOCATE (master_id: 45146)
+  - SALT LAKE EVENING CHRONICLE (master_id: 45147)
+  - SOCIETY RECORD (master_id: 45148)
+  - TIAN ADVOCATE (master_id: 45149)
+  - TIMES (master_id: 45150)
+  - UTAH CHRISTIAN ADVOCATE (master_id: 45151)
+  - UTAH COMMERCIAL (master_id: 45152)
+  - UTAH EVANGELIST (master_id: 45153)
+  - UTAH FARMER (master_id: 45154)
+  - Deseret Evening News (master_id: 45156)
+  - Deseret News (master_id: 45157)
+  - Juvenile Instructor (master_id: 45158)
+  - Salt Lake Herald (master_id: 45159)
+  - Salt Lake Tribune (master_id: 45160)
+  - Utah Skandinav (master_id: 45161)
+
+--- Entry 54 ---
+Name:  evening capital journal
+Town:  salem
+State: Oregon
+ISSN:  2163-8497
+LCCN:  sn99063952
+Town found in master: Yes
+Master candidates in town:
+  - BUCKEYE VIDETTE (master_id: 38665)
+  - COLUMBIANA CO . HERALD (master_id: 38666)
+  - DER DEMOKRAT (master_id: 38667)
+  - EDUCATIONAL NOTES AND QUERIES (master_id: 38668)
+  - FIRESIDE VISITOR (master_id: 38669)
+  - INDEX (master_id: 38670)
+  - J. RIGHTS OF MAN (master_id: 38671)
+  - JOURNAL AND ERIE CO . NEWS (master_id: 38672)
+  - MUTUALUNDERWRITER (master_id: 38673)
+  - NATIONAL GREENBACK (master_id: 38674)
+  - NEWS-VIDETTE (master_id: 38675)
+  - OHIO EDUCATIONAL MONTHLY AND NATIONAL TEACHER (master_id: 38676)
+  - Era (master_id: 38805)
+  - Republican (master_id: 38806)
+  - APPEAL (master_id: 39444)
+  - DAILY TALK (master_id: 39445)
+  - H. URNAL (master_id: 39446)
+  - MORNING TRIBUNE (master_id: 39447)
+  - MOUNTAINEER (master_id: 39448)
+  - OREGON CAPITAL (master_id: 39449)
+  - OREGON TRIBUNE (master_id: 39450)
+  - OREGON VIDETTE AND ANTIMONOPOLIST (master_id: 39451)
+  - TALK (master_id: 39452)
+  - TESMAN (master_id: 39453)
+  - Evening Mercury (master_id: 39467)
+  - Mercury (master_id: 39468)
+  - Oregon Statesman (master_id: 39469)
+  - Record (master_id: 39470)
+  - Willamette Farmer (master_id: 39471)
+
+--- Entry 55 ---
+Name:  weekly expositor
+Town:  brockway centre
+State: MICH
+ISSN:  2332-6190
+LCCN:  sn2006060001
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 56 ---
+Name:  union county courier
+Town:  elk point
+State: South Dakota
+ISSN:  2689-6338
+LCCN:  sn84022137
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 57 ---
+Name:  the daily state register
+Town:  carson city
+State: NEV
+ISSN:  2474-2155
+LCCN:  sn84020345
+Town found in master: Yes
+Master candidates in town:
+  - APPEAL (master_id: 30291)
+  - INDEX (master_id: 30292)
+  - MORNING APPEAL (master_id: 30293)
+  - NEVADA TRIBUNE (master_id: 30294)
+  - WHITE PINE NEWS (master_id: 30295)
+
+--- Entry 58 ---
+Name:  the weekly union times
+Town:  union c.h.
+State: SOUTH CAROLINA
+ISSN:  2471-0644
+LCCN:  sn84026918
+Town found in master: Yes
+Master candidates in town:
+  - COLLETON PRESS (master_id: 43030)
+  - COLLETON STANDARD (master_id: 43031)
+  - HAMPTON DEMOCRAT (master_id: 43032)
+  - KEOWEE COURIER (master_id: 43033)
+  - MESSENGER (master_id: 43034)
+  - Times , (master_id: 43035)
+
+--- Entry 59 ---
+Name:  wheeling sunday register
+Town:  wheeling
+State: W. VA
+ISSN:  2640-5164
+LCCN:  sn86092523
+Town found in master: Yes
+Master candidates in town:
+  - ABENDBLATT DER DEUTSCHE ZEITUNG (master_id: 46663)
+  - DEUTSCHE ZEITUNG (master_id: 46664)
+  - G G. PAN-HANDLE GROCER MERCHANTS' GUIDE (master_id: 46665)
+  - G. WHEELINGER VOLKSBLATT (master_id: 46666)
+  - HH. SATURDAY EVENING JOURNAL (master_id: 46667)
+  - NEWS LETTER (master_id: 46668)
+  - QUARBULLETIN (master_id: 46669)
+  - QUARTERLY (master_id: 46670)
+  - SATURDAY JOURNAL (master_id: 46671)
+  - TERLY (master_id: 46672)
+  - YOUNG AMERICA'S ADVOCATE (master_id: 46673)
+  - Evening Standard (master_id: 46683)
+  - Intelligencer (master_id: 46684)
+  - Register (master_id: 46685)
+  - Sunday Leader (master_id: 46686)
+  - United States Post-Office Bulletin (master_id: 46687)
+
+--- Entry 60 ---
+Name:  the anti-monopolist
+Town:  saint paul
+State: MINN
+ISSN:  2694-3352
+LCCN:  sn85025587
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 61 ---
+Name:  the kimball graphic
+Town:  kimball
+State: South Dakota
+ISSN:  2475-353X
+LCCN:  sn99068076
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 62 ---
+Name:  western kansas world
+Town:  wakeeney
+State: Kansas
+ISSN:  2163-6877
+LCCN:  sn82015485
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 63 ---
+Name:  the new bloomfield, pa. times
+Town:  new bloomfield
+State: Pennsylvania
+ISSN:  2327-6894
+LCCN:  sn90069164
+Town found in master: Yes
+Master candidates in town:
+  - ADVOCATE AND PEOPLE'S PRESS (master_id: 40801)
+  - BEAVER VALLEY NEWS (master_id: 40802)
+  - DEMOCRATIC ENTERPRISE (master_id: 40803)
+  - ENTERPRISE (master_id: 40804)
+  - JJ. FIELD AND RIVER (master_id: 40805)
+  - PERRY CO . TIMES (master_id: 40806)
+  - People's Advocate and Press (master_id: 40861)
+  - Perry Co. Democrat (master_id: 40862)
+  - Perry Co. Freeman (master_id: 40863)
+  - Times (master_id: 40864)
+
+--- Entry 64 ---
+Name:  the bloomfield times
+Town:  new bloomfield
+State: Pennsylvania
+ISSN:  2327-5170
+LCCN:  sn84026050
+Town found in master: Yes
+Master candidates in town:
+  - ADVOCATE AND PEOPLE'S PRESS (master_id: 40801)
+  - BEAVER VALLEY NEWS (master_id: 40802)
+  - DEMOCRATIC ENTERPRISE (master_id: 40803)
+  - ENTERPRISE (master_id: 40804)
+  - JJ. FIELD AND RIVER (master_id: 40805)
+  - PERRY CO . TIMES (master_id: 40806)
+  - People's Advocate and Press (master_id: 40861)
+  - Perry Co. Democrat (master_id: 40862)
+  - Perry Co. Freeman (master_id: 40863)
+  - Times (master_id: 40864)
+
+--- Entry 65 ---
+Name:  the progressive farmer
+Town:  winston
+State: N.C
+ISSN:  2376-0087
+LCCN:  sn92073049
+Town found in master: Yes
+Master candidates in town:
+  - BAPTIST PILOT (master_id: 36734)
+  - CASWELL NEWS (master_id: 36735)
+  - CHURCH MESSENGER (master_id: 36736)
+  - LEADER (master_id: 36737)
+  - NEWS AND ADVOCATE (master_id: 36738)
+  - PIEDMONT ADVERTISER (master_id: 36739)
+  - PILOT (master_id: 36740)
+  - SCHOOL TEACHER (master_id: 36741)
+  - TWIN CITY DAILY (master_id: 36742)
+  - Union Republican (master_id: 36754)
+  - Western Sentinels (master_id: 36755)
+
+--- Entry 66 ---
+Name:  wiarus
+Town:  winona
+State: MINN
+ISSN:  2576-8980
+LCCN:  sn90060823
+Town found in master: Yes
+Master candidates in town:
+  - I. TRIBUNE (master_id: 26654)
+  - J. NOVELTY PRESS (master_id: 26655)
+  - J. WESTLICHER HEROLD (master_id: 26656)
+  - JOURNAL (master_id: 26657)
+  - Adler (master_id: 26671)
+  - Democrat (master_id: 26672)
+  - Herald (master_id: 26673)
+  - Parish Messenger (master_id: 26674)
+  - Republican (master_id: 26675)
+  - FREE PRESS (master_id: 27162)
+  - J. ARGUS (master_id: 27163)
+  - TIMES (master_id: 27164)
+  - Advance (master_id: 27172)
+
+--- Entry 67 ---
+Name:  keowee courier
+Town:  pickens court house
+State: South Carolina
+ISSN:  2163-7253
+LCCN:  sn84026912
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 68 ---
+Name:  the orangeburg news
+Town:  orangeburg
+State: South Carolina
+ISSN:  2163-436X
+LCCN:  sn84026920
+Town found in master: Yes
+Master candidates in town:
+  - DEMOCRAT.H TIMES (master_id: 42987)
+  - EDISTO CLARION (master_id: 42988)
+  - TAX-PAYER (master_id: 42989)
+  - TIMES AND DEMOCRAT (master_id: 42990)
+  - News and Times (master_id: 42991)
+  - Times (master_id: 42992)
+
+--- Entry 69 ---
+Name:  maryland independent
+Town:  port tobacco
+State: Maryland
+ISSN:  2577-1760
+LCCN:  sn85025407
+Town found in master: Yes
+Master candidates in town:
+  - INDEPENDENT (master_id: 22504)
+  - Times and Charles Co. Advertiser (master_id: 22507)
+
+--- Entry 70 ---
+Name:  the pascagoula democrat-star
+Town:  pascagoula
+State: MISS
+ISSN:  2378-1831
+LCCN:  sn87065532
+Town found in master: Yes
+Master candidates in town:
+  - CALHOUN DEMOCRAT (master_id: 27035)
+  - Star of Pascagoula (master_id: 27056)
+
+--- Entry 71 ---
+Name:  arizona citizen
+Town:  tucson
+State: I.E. ARIZ
+ISSN:  2165-8862
+LCCN:  sn82014896
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 72 ---
+Name:  the river press
+Town:  fort benton
+State: MONT
+ISSN:  2332-9726
+LCCN:  sn85053157
+Town found in master: Yes
+Master candidates in town:
+  - BENTON RECORD (master_id: 29195)
+
+--- Entry 73 ---
+Name:  minnesota staats-zeitung
+Town:  saint paul
+State: MINN
+ISSN:  2372-8647
+LCCN:  sn84031595
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 74 ---
+Name:  the semi-weekly miner
+Town:  butte
+State: MONT
+ISSN:  2470-4210
+LCCN:  sn84036033
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 75 ---
+Name:  the daily morning astorian
+Town:  astoria
+State: OREGON
+ISSN:  2163-7970
+LCCN:  sn96061150
+Town found in master: Yes
+Master candidates in town:
+  - INDEPENDENT (master_id: 39253)
+  - MORNING ASTORIAN (master_id: 39254)
+  - Astorian (master_id: 39263)
+
+--- Entry 76 ---
+Name:  arizona silver belt
+Town:  globe city
+State: ARIZ
+ISSN:  2157-1341
+LCCN:  sn84021913
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 77 ---
+Name:  fayette county herald
+Town:  washington
+State: WASHINGTON COURT HOUSE
+ISSN:  2470-654X
+LCCN:  sn85038145
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 78 ---
+Name:  orange county observer
+Town:  hillsborough
+State: N.C
+ISSN:  2475-1650
+LCCN:  sn85042052
+Town found in master: Yes
+Master candidates in town:
+  - Recorders (master_id: 36435)
+
+--- Entry 79 ---
+Name:  thomas county cat
+Town:  colby
+State: Kansas
+ISSN:  2163-4564
+LCCN:  sn85032814
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 80 ---
+Name:  the news-herald
+Town:  hillsboro
+State: Ohio
+ISSN:  2159-3787
+LCCN:  sn85038161
+Town found in master: Yes
+Master candidates in town:
+  - INDEPENDENT (master_id: 39321)
+  - WASHINGTON DEMOCRAT (master_id: 39322)
+  - Washington Independent (master_id: 39323)
+
+--- Entry 81 ---
+Name:  iowa voter
+Town:  knoxville
+State: IOWA
+ISSN:  2643-7473
+LCCN:  sn84027183
+Town found in master: Yes
+Master candidates in town:
+  - KNOX CO. REVIEW (master_id: 14466)
+  - Diocese (master_id: 14474)
+  - Knox Co. Republican (master_id: 14475)
+  - Zion's Banner (master_id: 14476)
+  - INDEPENDENT HERALD (master_id: 18440)
+  - J J. MARION CO . EXPRESS (master_id: 18441)
+  - J J. MARION CO. REPORTER (master_id: 18442)
+  - Journal (master_id: 18450)
+  - Marion Co. Democrat (master_id: 18451)
+
+--- Entry 82 ---
+Name:  the andrew county republican
+Town:  savannah
+State: Missouri
+ISSN:  2166-7624
+LCCN:  sn85034076
+Town found in master: Yes
+Master candidates in town:
+  - ANDREW CO . ADVANCE (master_id: 28562)
+  - BAZOO (master_id: 28563)
+  - BEACON (master_id: 28564)
+  - DEMOCRAT (master_id: 28565)
+  - DISTRICT TIMES (master_id: 28566)
+  - EAGLE (master_id: 28567)
+  - EDUCATIONAL JOURNAL (master_id: 28568)
+  - FARMER'S JOURNAL (master_id: 28569)
+  - H. REGISTER (master_id: 28570)
+  - I. SUN (master_id: 28571)
+  - REPORTER (master_id: 28572)
+  - SATURDAY EVENING CALL (master_id: 28573)
+  - SUNDAY MORNING EAGLE (master_id: 28574)
+  - WIND MILL (master_id: 28575)
+  - Journal (master_id: 29043)
+
+--- Entry 83 ---
+Name:  the fairfield herald
+Town:  winnsboro
+State: South Carolina
+ISSN:  2330-8648
+LCCN:  sn84026923
+Town found in master: Yes
+Master candidates in town:
+  - NEWS AND HERALD (master_id: 43042)
+
+--- Entry 84 ---
+Name:  the dillon tribune
+Town:  dillon
+State: MONT
+ISSN:  2470-3400
+LCCN:  sn85053040
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 85 ---
+Name:  idaho news
+Town:  blackfoot
+State: IDAHO
+ISSN:  2574-7118
+LCCN:  sn88056018
+Town found in master: Yes
+Master candidates in town:
+  - REGISTER (master_id: 12594)
+
+--- Entry 86 ---
+Name:  the londonderry sifter
+Town:  south londonderry
+State: Vermont
+ISSN:  1053-5195
+LCCN:  sn90000523
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 87 ---
+Name:  indian chieftain
+Town:  vinita
+State: OKLA
+ISSN:  2158-8910
+LCCN:  sn83025010
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 88 ---
+Name:  the pioneer express
+Town:  pembina
+State: N.D
+ISSN:  2379-1241
+LCCN:  sn88076741
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 89 ---
+Name:  the camden journal
+Town:  camden
+State: South Carolina
+ISSN:  2379-5093
+LCCN:  sn86053067
+Town found in master: Yes
+Master candidates in town:
+  - Kershaw Gazette (master_id: 42856)
+
+--- Entry 90 ---
+Name:  ashtabula telegraph
+Town:  ashtabula
+State: Ohio
+ISSN:  2327-4956
+LCCN:  sn88078580
+Town found in master: Yes
+Master candidates in town:
+  - ADVANCE (master_id: 36888)
+  - BEACON (master_id: 36889)
+  - DEMOCRATIC STANDARD (master_id: 36890)
+  - J J. MESSENGER (master_id: 36891)
+  - JJ. SHORE HOME MAGALAKE ZINE (master_id: 36892)
+  - JOURNAL (master_id: 36893)
+  - LAKE SHORE HOME MAGAZINE (master_id: 36894)
+  - REPUBLICAN (master_id: 36895)
+  - YHDYSWALTAIN SANOMAT (master_id: 36896)
+  - News (master_id: 36922)
+
+--- Entry 91 ---
+Name:  butte semi-weekly miner
+Town:  butte
+State: MONT
+ISSN:  2470-329X
+LCCN:  sn84036034
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 92 ---
+Name:  the press
+Town:  stafford springs
+State: CONN
+ISSN:  2643-5039
+LCCN:  sn92051501
+Town found in master: Yes
+Master candidates in town:
+  - ADVOCATE (master_id: 10765)
+  - HERALD (master_id: 10766)
+  - POSTAL CARD (master_id: 10767)
+  - Tolland County Press (master_id: 10778)
+
+--- Entry 93 ---
+Name:  the lake county star
+Town:  chase
+State: MICH
+ISSN:  2472-0178
+LCCN:  sn85026421
+Town found in master: Yes
+Master candidates in town:
+  - ECLIPSE (master_id: 24464)
+
+--- Entry 94 ---
+Name:  süd california deutsche zeitung
+Town:  san diego
+State: CALIF
+ISSN:  2693-7956
+LCCN:  sn86064439
+Town found in master: Yes
+Master candidates in town:
+  - A VOZ PORTUGUEZA (master_id: 9352)
+  - ABEND POST (master_id: 9353)
+  - ALTA CALIFORNIA (master_id: 9354)
+  - AMERICAN UNION (master_id: 9355)
+  - AND MECHANIC (master_id: 9356)
+  - ARGONAUT (master_id: 9357)
+  - AVALANCHE (master_id: 9358)
+  - BREEDER AND SPORTSMAN (master_id: 9359)
+  - CALIFORNIA CHRISTIAN ADVOCATE (master_id: 9360)
+  - CALIFORNIA DEMOKRAT (master_id: 9361)
+  - CALIFORNIA FARMER (master_id: 9362)
+  - CALIFORNIA INDEPENDENT (master_id: 9363)
+  - CALIFORNIA JOURNAL (master_id: 9364)
+  - CALIFORNIA KNIGHTS OF HONOR JOURNAL (master_id: 9365)
+  - CALIFORNIA MAIL BAG (master_id: 9366)
+  - CALIFORNIA MEDICAL TIMES (master_id: 9367)
+  - CALIFORNIA PATRON (master_id: 9368)
+  - CALIFORNIA POSTEN (master_id: 9369)
+  - CALIFORNIA SPIRIT OF THE TIMES AND UNDERWRITER'S JOURNAL (master_id: 9370)
+  - CHRONICK (master_id: 9371)
+  - CHRONICLE (master_id: 9372)
+  - CITY ARGUS (master_id: 9373)
+  - COAST POSTAL PACIFIC INDEX (master_id: 9374)
+  - COAST REVIEW (master_id: 9375)
+  - COMMERCIAL (master_id: 9376)
+  - COMMERCIAL ADVOCATE (master_id: 9377)
+  - COMMERCIAL HERALD MARKET REVIEW (master_id: 9378)
+  - COMMERCIALNEWSANDSHIP. HPPING LIST (master_id: 9379)
+  - COURRIER DE SAN FRANCISCO (master_id: 9380)
+  - D LA SCINTILLA ITALIANA (master_id: 9381)
+  - D.NEWS AND COMMERCIAL SHIPPING LIST (master_id: 9382)
+  - DRY GOODS REPORTER (master_id: 9383)
+  - E. REPORT (master_id: 9384)
+  - EL CRONISTA (master_id: 9385)
+  - EL ECO DE LA RAZA LATINA (master_id: 9386)
+  - EL JORNAL DEL COMERCIO DE SAN FRANCISCO (master_id: 9387)
+  - EL TECOLOTE (master_id: 9388)
+  - ELEVATOR (master_id: 9389)
+  - ENGINEER OF THE PACIFIC (master_id: 9390)
+  - EQUAL RIGHTS (master_id: 9391)
+  - EVANGEL (master_id: 9392)
+  - EVENING BULLETIN (master_id: 9393)
+  - EVENING POST (master_id: 9394)
+  - EXAMINER (master_id: 9395)
+  - EXCHANGE (master_id: 9396)
+  - F. KNIGHTS OF HONOR JOURNAL (master_id: 9397)
+  - F. MUSIC AND DRAMA (master_id: 9398)
+  - FAMILY JOURNAL (master_id: 9399)
+  - FARMER (master_id: 9400)
+  - FARMER AND DEALER (master_id: 9401)
+  - FF. WEST COAST REPORTER (master_id: 9402)
+  - FIELD AND FIRESIDE (master_id: 9403)
+  - FIGARO (master_id: 9404)
+  - FITZGERALD'S HOME NEWSPAPER AND EDUCATIONAL JOURNAL (master_id: 9405)
+  - FOOTLIGHT (master_id: 9406)
+  - FRATERNAL RECORD (master_id: 9407)
+  - G. ARBEITER-ZEITUNG (master_id: 9408)
+  - G. CALIFORNIA ARCHITECT AND BUILDING REVIEW (master_id: 9409)
+  - G. CHANT (master_id: 9410)
+  - GG. L'INDIPENDENTE (master_id: 9411)
+  - GG. LIGHT FOR ALL (master_id: 9412)
+  - GG. RESCUE (master_id: 9413)
+  - GG. VOCATE (master_id: 9414)
+  - GICAL JOURNAL (master_id: 9415)
+  - GOLDEN DAWN (master_id: 9416)
+  - GOLDEN ERA (master_id: 9417)
+  - GROCER AND COUNTRY MERCHANT (master_id: 9418)
+  - GUIDE (master_id: 9419)
+  - H. AMERICAN AND CHINESE COMMERCIAL NEWS (master_id: 9420)
+  - H. JOURNAL OF FREEDOM AND RIGHTS (master_id: 9421)
+  - H. MINING RECORD (master_id: 9422)
+  - H. POOR RICHARD (master_id: 9423)
+  - HALL'S LAND JOURNAL (master_id: 9424)
+  - HEALD'S COLLEGE JOURNAL (master_id: 9425)
+  - HEBREW (master_id: 9426)
+  - HEBREW OBSERVER (master_id: 9427)
+  - HERALD AND MARKET REVIEW (master_id: 9428)
+  - HERALD OF TRADE (master_id: 9429)
+  - HH. HAYES VALLEY ADVERTISER (master_id: 9430)
+  - HOME STANDARD (master_id: 9431)
+  - HOMES IN CALIFORNIA (master_id: 9432)
+  - HORTICULTURIST AND FLORAL MAGAZINE (master_id: 9433)
+  - HOTEL GAZETTE (master_id: 9434)
+  - HUMORIST (master_id: 9435)
+  - I I. BIEN (master_id: 9436)
+  - I I. PACIFIC COAST (master_id: 9437)
+  - I. CALIFORNIA FREIE PRESSE (master_id: 9438)
+  - I. CALIFORNIA GROCER AND CANNER (master_id: 9439)
+  - I. CALIFORNIAN (master_id: 9440)
+  - I. L'ELVEZIA (master_id: 9441)
+  - I. LA REPUBLICA (master_id: 9442)
+  - I. PACIFIC (master_id: 9443)
+  - I. PACIFIC COAST POSTAL INDEX (master_id: 9444)
+  - II. PACIFIC TRADE JOURNAL AND TRAVELERS ' GUIDE (master_id: 9445)
+  - ILLUSTRATED PACIFIC PRESS (master_id: 9446)
+  - ILLUSTRATED WASP (master_id: 9447)
+  - INGLESIDE (master_id: 9448)
+  - IRISH WORLD (master_id: 9449)
+  - J J. JOURNAL OF COMMERCE (master_id: 9450)
+  - J. AMERICAN DRUIDS' JOURNAL (master_id: 9451)
+  - J. CALIFORNIA LEGAL RECORD (master_id: 9452)
+  - J. EL HISPANO-AMERIKANO MERCHANT (master_id: 9453)
+  - J. ISCHE GROCER (master_id: 9454)
+  - J. JEWISH TIMES (master_id: 9455)
+  - J. MONITOR AND GUARDIAN (master_id: 9456)
+  - J. OLYMPIAN (master_id: 9457)
+  - J. OUR CHOSEN FRIEND (master_id: 9458)
+  - J. VANITY FAIR AND THE GOLDEN ERA (master_id: 9459)
+  - JEWISH PROGRESS (master_id: 9460)
+  - JOURNAL OF COMMERCE AND PRICE CURRENT (master_id: 9461)
+  - JOURNAL UND SONNTAGS GAST (master_id: 9462)
+  - JOURNALIST UND HUMORIST (master_id: 9463)
+  - K. PACIFIC SCHOOL AND HOME JOURNAL (master_id: 9464)
+  - K. SHERMAN & HYDE'S MUSICAL REVIEW (master_id: 9465)
+  - K. WOMAN'S HERALD OF INDUSTRY (master_id: 9466)
+  - KK. UNION (master_id: 9467)
+  - L. OVERLAND MONTHLY (master_id: 9468)
+  - LA SOCIEDAD (master_id: 9469)
+  - LA VOCE DEL POPOLO (master_id: 9470)
+  - LADIES ' HOME JOURNAL (master_id: 9471)
+  - LAVOZDEL NUEVO MUNDO (master_id: 9472)
+  - LAW JOURPACIFIC COAST NAL (master_id: 9473)
+  - LE PETIT JOURNAL (master_id: 9474)
+  - MARKET REVIEW (master_id: 9475)
+  - MEDICO-LITERARY JOURNAL (master_id: 9476)
+  - MERCHANT (master_id: 9477)
+  - METROPOLITAN BANNER AND EVANGEL (master_id: 9478)
+  - MINING AND SCIENTIFIC PRESS (master_id: 9479)
+  - MINING EXCHANGE (master_id: 9480)
+  - MIRROR (master_id: 9481)
+  - MISSION JOURNAL (master_id: 9482)
+  - MISSION MIRROR (master_id: 9483)
+  - MONITOR (master_id: 9484)
+  - MORNING CALL (master_id: 9485)
+  - MUSICAL JOURANTISELL'S NAL (master_id: 9486)
+  - NAL (master_id: 9487)
+  - NATIONAL AND LOCAL (master_id: 9488)
+  - NEW AGE (master_id: 9489)
+  - NEWS (master_id: 9490)
+  - NEWS LETTER AND CALIFORNIA ADVERTISER (master_id: 9491)
+  - OCCIDENT (master_id: 9492)
+  - OPROGRESSO CALIFORNIENSE (master_id: 9493)
+  - PACIFC LIFE (master_id: 9494)
+  - PACIFIC APPEAL (master_id: 9495)
+  - PACIFIC CHURCHMAN (master_id: 9496)
+  - PACIFIC COAST LAW JOURNAL (master_id: 9497)
+  - PACIFIC COAST WINE AND LIQUOR HERALD (master_id: 9498)
+  - PACIFIC EVANGEL (master_id: 9499)
+  - PACIFIC GRAPHIC (master_id: 9500)
+  - PACIFIC GREENBACKER (master_id: 9501)
+  - PACIFIC LAW REPORTER (master_id: 9502)
+  - PACIFIC LIBERAL (master_id: 9503)
+  - PACIFIC MEDICAL AND SURGICAL JOURNAL (master_id: 9504)
+  - PACIFIC MEDICAL AND SURGICAL JOURNAL AND WESTERN LANCET (master_id: 9505)
+  - PACIFIC METHODIST (master_id: 9506)
+  - PACIFIC MUTUAL (master_id: 9507)
+  - PACIFIC PILOTE (master_id: 9508)
+  - PACIFIC PRINTER (master_id: 9509)
+  - PACIFIC RURAL PRESS (master_id: 9510)
+  - PACIFIC STATES WATCHMAN (master_id: 9511)
+  - PAPER (master_id: 9512)
+  - PATRIOT (master_id: 9513)
+  - PATRON AND AGRICULTURIST (master_id: 9514)
+  - PING LIST (master_id: 9515)
+  - POLITICAL RECORD (master_id: 9516)
+  - PROGRESS (master_id: 9517)
+  - PUBLIC OPINION (master_id: 9518)
+  - PYTHIAN TRIANGLE RECORD (master_id: 9519)
+  - QUOR HERALD (master_id: 9520)
+  - RAILROAD GAZETTEER (master_id: 9521)
+  - REAL ESTATE CIRCULAR (master_id: 9522)
+  - RESOURCES OF CALIFORNIA (master_id: 9523)
+  - SAN FRANCI-CAN (master_id: 9524)
+  - SATURDAY LOCAL (master_id: 9525)
+  - SCHOOL JOURNAL (master_id: 9526)
+  - SCIENTIFIC CALIFORNIAN (master_id: 9527)
+  - SER WECKER (master_id: 9528)
+  - STAATS ZEITUNG (master_id: 9529)
+  - STANDARD (master_id: 9530)
+  - STAR (master_id: 9531)
+  - STATIONER AND LITHOGRAPHER (master_id: 9532)
+  - STOCK REPORT (master_id: 9533)
+  - STOCK REPORT AND CALIFORNIA STREET JOURNAL (master_id: 9534)
+  - SUN (master_id: 9535)
+  - SUNDAY CHRONICLE (master_id: 9536)
+  - THISTLETON'S ILLUSTRATED JOLLY GIANT (master_id: 9537)
+  - TIMES AND JOURNAL (master_id: 9538)
+  - TRUTH (master_id: 9539)
+  - TUNG (master_id: 9540)
+  - UNIVERSE (master_id: 9541)
+  - VINDICATOR (master_id: 9542)
+  - WASP (master_id: 9543)
+  - WESTERN LANCET (master_id: 9544)
+  - WINE AND TOBACCO JOURNAL (master_id: 9545)
+  - WINE DEALERS' GAZETTE (master_id: 9546)
+  - X. SCHOOL RECORD (master_id: 9547)
+  - X. VALKYRIEN (master_id: 9548)
+  - ZEIPRESS (master_id: 9549)
+  - Union (master_id: 9765)
+  - World (master_id: 9766)
+
+--- Entry 95 ---
+Name:  wilmington journal
+Town:  wilmington
+State: N.C
+ISSN:  2379-0296
+LCCN:  sn84026536
+Town found in master: Yes
+Master candidates in town:
+  - ADVANCE (master_id: 36720)
+  - BANNER-ENTERPRISE (master_id: 36721)
+  - DEMOCRAT (master_id: 36722)
+  - I. AFRICO -AMERICAN PRESBYTERIAN (master_id: 36723)
+  - NEW SOUTH (master_id: 36724)
+  - NORTH CAROLINA MEDICAL JOURNAL (master_id: 36725)
+  - PRESBYTERIAN (master_id: 36726)
+  - REVIEW (master_id: 36727)
+  - SOUTH-ATLANTIC (master_id: 36728)
+  - SUN (master_id: 36729)
+  - ZION'S LANDMARK (master_id: 36730)
+  - Carolina Farmer (master_id: 36747)
+  - Morning Star (master_id: 36748)
+  - North Carolina Presby- terian (master_id: 36749)
+  - Post (master_id: 36750)
+  - Star (master_id: 36751)
+
+--- Entry 96 ---
+Name:  the arizona champion
+Town:  peach springs
+State: ARIZ
+ISSN:  2157-2178
+LCCN:  sn82016246
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 97 ---
+Name:  mohave county miner
+Town:  mineral park
+State: ARIZ
+ISSN:  2151-4003
+LCCN:  sn84024828
+Town found in master: Yes
+Master candidates in town:
+  - ARIZONA CHAMPION (master_id: 8070)
+
+--- Entry 98 ---
+Name:  the daily astorian
+Town:  astoria
+State: Oregon
+ISSN:  2163-7911
+LCCN:  sn96061149
+Town found in master: Yes
+Master candidates in town:
+  - INDEPENDENT (master_id: 39253)
+  - MORNING ASTORIAN (master_id: 39254)
+  - Astorian (master_id: 39263)
+
+--- Entry 99 ---
+Name:  the irish standard
+Town:  minneapolis
+State: MINN. ;
+ISSN:  2475-2894
+LCCN:  sn90059959
+Town found in master: Yes
+Master candidates in town:
+  - COMMERCIAL BULLETIN (master_id: 26266)
+  - DEMOCRAT (master_id: 26267)
+  - DIE PRESSE (master_id: 26268)
+  - ECHO DE L'OUEST (master_id: 26269)
+  - EVENING JOURNAL (master_id: 26270)
+  - FARMAND HOME (master_id: 26271)
+  - FARMERS' TRIBUNE (master_id: 26272)
+  - FARMERS' UNION AND TRIBUNE (master_id: 26273)
+  - FF. EVENING NEWS (master_id: 26274)
+  - FF. HERALD (master_id: 26275)
+  - FOLKEBLADET (master_id: 26276)
+  - FREE BAPTIST (master_id: 26277)
+  - FREE FLAG (master_id: 26278)
+  - HOTEL GAZETTE (master_id: 26279)
+  - I. MINNESOTA TRIBUNE (master_id: 26280)
+  - LE PROGRES (master_id: 26281)
+  - LIBERTY BLADE (master_id: 26282)
+  - MARKET REPORTER (master_id: 26283)
+  - MINNESOTA FARMER (master_id: 26284)
+  - MINNESOTA MIRROR (master_id: 26285)
+  - MINNESOTA STATS TIDNING (master_id: 26286)
+  - MIRROR (master_id: 26287)
+  - PIONEER PRESS (master_id: 26288)
+  - TIDNING (master_id: 26289)
+  - Budstikken (master_id: 26313)
+  - Citizen (master_id: 26314)
+  - Freie Presse (master_id: 26315)
+  - Tribune (master_id: 26316)
+
+--- Entry 100 ---
+Name:  pokrok
+Town:  chicago
+State: ILL
+ISSN:  2376-9009
+LCCN:  sn83035546
+Town found in master: Yes
+Master candidates in town:
+  - A. O. H. EMERALD (master_id: 13137)
+  - ABENDPOST (master_id: 13138)
+  - ACKER UND GARTENBAU ZEITUNG (master_id: 13139)
+  - AMATEUR (master_id: 13140)
+  - AMERICA (master_id: 13141)
+  - AMERICAN ANTIQUARIAN (master_id: 13142)
+  - AMERICAN ANTIQUARIAN AND ORIENTAL JOURNAL (master_id: 13143)
+  - AMERICAN ARTISAN AND TINNER AND HOUSE FURNISHER (master_id: 13144)
+  - AMERICAN BUILDING ASSOCIATION NEWS (master_id: 13145)
+  - AMERICAN CABINET MAKER AND UPHOLSTERER (master_id: 13146)
+  - AMERICAN CATTLE JOURNAL (master_id: 13147)
+  - AMERICAN CHECKER REVIEW (master_id: 13148)
+  - AMERICAN CHEMICAL REVIEW (master_id: 13149)
+  - AMERICAN COMMERCIAL TRAVELER (master_id: 13150)
+  - AMERICAN CONTRACTOR (master_id: 13151)
+  - AMERICAN ELECTRO-CLINICAL (master_id: 13152)
+  - AMERICAN ELEVATOR AND GRAIN TRADE (master_id: 13153)
+  - AMERICAN FLORIST (master_id: 13154)
+  - AMERICAN FURNITURE GAZETTE (master_id: 13155)
+  - AMERICAN HARNESS AND HORSE JOURNAL (master_id: 13156)
+  - AMERICAN HOME (master_id: 13157)
+  - AMERICAN HOMEOPATHIST (master_id: 13158)
+  - AMERICAN HORSESHOER AND HARDWARE JOURNAL (master_id: 13159)
+  - AMERICAN HOUSEKEEPING (master_id: 13160)
+  - AMERICAN JEWELER (master_id: 13161)
+  - AMERICAN LIVERYMAN AND HORSE-OWNER (master_id: 13162)
+  - AMERICAN MERCHANT (master_id: 13163)
+  - AMERICAN MONTHLY (master_id: 13164)
+  - AMERICAN REVIEW (master_id: 13165)
+  - AMERICAN STOREKEEPER (master_id: 13166)
+  - AMERICAN TRAVELER TOURIST (master_id: 13167)
+  - AMERIKANISCHE JAGD SCHUETZEN ZEITUNG (master_id: 13168)
+  - ANCHOR AND SHIELD (master_id: 13169)
+  - AND ART PICTURE FURNITURE TRADE (master_id: 13170)
+  - AND BUILDER (master_id: 13171)
+  - AND REVIEW (master_id: 13172)
+  - AND THEATRICAL SPORTING JOURNAL (master_id: 13173)
+  - APPEAL (master_id: 13174)
+  - APPLETON'S IN THE SWIM (master_id: 13175)
+  - ARCADE ADVERTISER (master_id: 13176)
+  - ARGUS (master_id: 13177)
+  - ARKANSAW TRAVELER (master_id: 13178)
+  - ASSEMBLY RECORD (master_id: 13179)
+  - B. FAIR PLAY (master_id: 13180)
+  - BAKER (master_id: 13181)
+  - BAKERS ' HELPER (master_id: 13182)
+  - BANNER (master_id: 13183)
+  - BB. PHOTO (master_id: 13184)
+  - BEACON (master_id: 13185)
+  - BEE JOURNAL (master_id: 13186)
+  - BETHANY RECORD (master_id: 13187)
+  - BLACK DIAMOND (master_id: 13188)
+  - BLADET (master_id: 13189)
+  - BLAZES (master_id: 13190)
+  - BOARD OF TRADE (master_id: 13191)
+  - BOYS' PROTECTOR (master_id: 13192)
+  - BOZ (master_id: 13193)
+  - BREEDERS' GAZETTE (master_id: 13194)
+  - BRICKMAKER (master_id: 13195)
+  - BRIDAL BELLS (master_id: 13196)
+  - BROTHERHOOD MAGAZINE (master_id: 13197)
+  - BROWN AND HOLLAND SHORTHAND NEWS (master_id: 13198)
+  - BUDGET (master_id: 13199)
+  - BUILDING ASSOCIATION JOURNAL (master_id: 13200)
+  - BUILDING BUDGET (master_id: 13201)
+  - BUILDING SOCIETY ADVOCATE (master_id: 13202)
+  - BULLETIN (master_id: 13203)
+  - BULLETIN OF COMMERCE (master_id: 13204)
+  - BUNDES -POSAUNE (master_id: 13205)
+  - BUNDES BANNER (master_id: 13206)
+  - BUSINESS (master_id: 13207)
+  - BUSINESS MAN'S MAGAZINE (master_id: 13208)
+  - BUSINESS RECORD (master_id: 13209)
+  - C C. FOLKE-VENNEN (master_id: 13210)
+  - C. FREEMAN (master_id: 13211)
+  - C. SHOE AND LEATHER REVIEW (master_id: 13212)
+  - C. WESTERN STATIONER AND PRINTER (master_id: 13213)
+  - CALL (master_id: 13214)
+  - CANADIAN AMERICAN (master_id: 13215)
+  - CARL PRETZEL'S NATIONAL WEEKLY (master_id: 13216)
+  - CARRIAGE JOURNAL (master_id: 13217)
+  - CATHOLIC HOME (master_id: 13218)
+  - CENTENNIAL STATE (master_id: 13219)
+  - CHAFF (master_id: 13220)
+  - CHEEK (master_id: 13221)
+  - CHICAGOER ARBEITER ZEITUNG (master_id: 13222)
+  - CHICAGOER HANDELS-ZEITUNG (master_id: 13223)
+  - CHICAGOER NEUE FREIE PRESSE (master_id: 13224)
+  - CHICAGOER SOCIALIST (master_id: 13225)
+  - CHICAGOER VOLKS-ZEITUNG (master_id: 13226)
+  - CHICAGSKE LISTY (master_id: 13227)
+  - CHICAGSKY VESTNIK (master_id: 13228)
+  - CHIMNEY CORNER (master_id: 13229)
+  - CHRISTIAN HELPER (master_id: 13230)
+  - CHRISTIAN INSTRUCTOR (master_id: 13231)
+  - CHRISTIAN INSTRUCTOR AND WESTERN UNITED PRESBYTERIAN (master_id: 13232)
+  - CHRISTIAN LIFE (master_id: 13233)
+  - CHRISTIAN ORACLE (master_id: 13234)
+  - CHRISTIAN SCIENCE (master_id: 13235)
+  - CHRISTIAN SUNDAY SCHOOL TEACHER (master_id: 13236)
+  - CHRYSOSTOMIAN (master_id: 13237)
+  - CHURCH (master_id: 13238)
+  - CHURCH AND SCHOOL (master_id: 13239)
+  - CIAL GAZETTE (master_id: 13240)
+  - CIGAR AND TOBACCO WORLD (master_id: 13241)
+  - CIGAR WORLD (master_id: 13242)
+  - CITIZEN (master_id: 13243)
+  - CLIMAX (master_id: 13244)
+  - CLINIQUE (master_id: 13245)
+  - COMMERCIAL GRAPHIC (master_id: 13246)
+  - COMMERCIAL PRICE CURRENT (master_id: 13247)
+  - COMMERCIAL UNION (master_id: 13248)
+  - CONFECTIONER AND BAKER (master_id: 13249)
+  - CONSERVATOR (master_id: 13250)
+  - CORRESPONDENCE UNIVERSITY JOURNAL (master_id: 13251)
+  - COSMOPOLITAN (master_id: 13252)
+  - COURRIER DE L'ILLINOIS (master_id: 13253)
+  - CREDIT REVIEW (master_id: 13254)
+  - CURRENT (master_id: 13255)
+  - D. NORTHWESTERN GROCER AND TRADE BULLETIN (master_id: 13256)
+  - D. TRUTH (master_id: 13257)
+  - DAGBLADET (master_id: 13258)
+  - DAIRY WORLD (master_id: 13259)
+  - DANNEBROG (master_id: 13260)
+  - DAY MORNING AND OF REFORM (master_id: 13261)
+  - DD. PENCILINGS (master_id: 13262)
+  - DE NEDERLANDER (master_id: 13263)
+  - DEAF MAN'S FRIEND (master_id: 13264)
+  - DEN CHRISTELIGE TALSMAND (master_id: 13265)
+  - DEN NORSK-AMERIKANSKE INDEPENDENT (master_id: 13266)
+  - DEN NYE TID (master_id: 13267)
+  - DENTAL REVIEW (master_id: 13268)
+  - DER BOTE BETHESDA'S (master_id: 13269)
+  - DER BRAUER UND MALZER (master_id: 13270)
+  - DER DEUTSCH -AMERIKANISCHE MUELLER (master_id: 13271)
+  - DER DEUTSCH AMERIKANER (master_id: 13272)
+  - DER DEUTSCHE FARMER (master_id: 13273)
+  - DER POSTILLION (master_id: 13274)
+  - DER VOLKSFREUND (master_id: 13275)
+  - DER WELTBUERGER (master_id: 13276)
+  - DET FLYGANDE BREFVET (master_id: 13277)
+  - DEUTSCHE ALLGEMEINE ZEITUNG (master_id: 13278)
+  - DEUTSCHE WARTE (master_id: 13279)
+  - DIAL (master_id: 13280)
+  - DIE BUEHNE (master_id: 13281)
+  - DIE FACKEL (master_id: 13282)
+  - DIE GEGENWART (master_id: 13283)
+  - DIE NEUE ZEIT (master_id: 13284)
+  - DIE RUNDSCHAU (master_id: 13285)
+  - DOLLAR TRIBUNE (master_id: 13286)
+  - DRUGGIST (master_id: 13287)
+  - DRUGGIST AND PAINT AND OIL REVIEW (master_id: 13288)
+  - DRUGGISTS ' GAZETTE (master_id: 13289)
+  - DRUGGISTS' JOURNAL (master_id: 13290)
+  - DRY GOODS BULLETIN AND HOTEL REGISTER (master_id: 13291)
+  - DRY GOODS REPORTER AND WHOLESALE PRICE LIST (master_id: 13292)
+  - DUCH CASU (master_id: 13293)
+  - DUNTON'S SPIRIT OF THE TURF (master_id: 13294)
+  - E E. PRESENT AGE AND EDUCATIONAL WEEKLY (master_id: 13295)
+  - E. ALARM (master_id: 13296)
+  - E. SOUTH CHICAGO INDEPEND ENT (master_id: 13297)
+  - E. STAR AND COVENANT (master_id: 13298)
+  - E. SUNDAY HERALD (master_id: 13299)
+  - EAGLE (master_id: 13300)
+  - ECONOMIST (master_id: 13301)
+  - EDUCATIONAL WEEKLY (master_id: 13302)
+  - EE. FIELD (master_id: 13303)
+  - ELECTRICAL INDUSTRIES (master_id: 13304)
+  - ELITE NEWS (master_id: 13305)
+  - EMERALD (master_id: 13306)
+  - ESBLAD (master_id: 13307)
+  - EVANGELIST (master_id: 13308)
+  - EVENING CALL (master_id: 13309)
+  - EVENING MAIL (master_id: 13310)
+  - EVENING TELEGRAM (master_id: 13311)
+  - EXPRESS (master_id: 13312)
+  - EYE (master_id: 13313)
+  - F F. ADVANCE (master_id: 13314)
+  - F. AND COMMERINDUSTRIAL CIAL GAZETTE (master_id: 13315)
+  - F. HIGHWAY PAPERS (master_id: 13316)
+  - F. LAW JOURNAL (master_id: 13317)
+  - F. UNITY (master_id: 13318)
+  - FACTORY AND FARM (master_id: 13319)
+  - FAEDERNESLANDET (master_id: 13320)
+  - FAMILY GAZETTE (master_id: 13321)
+  - FANCY GROCER (master_id: 13322)
+  - FARM IMPLEMENT (master_id: 13323)
+  - FARMERS ' VOICE (master_id: 13324)
+  - FARMERS' ADVANCE (master_id: 13325)
+  - FARMERS' REVIEW (master_id: 13326)
+  - FF. GAZETA KATOLICKA (master_id: 13327)
+  - FF. HARUGARI ORDENS -BLATT (master_id: 13328)
+  - FIELD AND FIRESIDE (master_id: 13329)
+  - FIELD AND STOCKMAN (master_id: 13330)
+  - FLAMING SWORD (master_id: 13331)
+  - FOLKETS AVIS (master_id: 13332)
+  - FOR FAMILIE KREDSEN (master_id: 13333)
+  - FORESTER (master_id: 13334)
+  - FRAMAT (master_id: 13335)
+  - FREIE STIMMEN AUS DEM REICHE GOTTES (master_id: 13336)
+  - FRIENDS ' MISSIONARY ADVOCATE (master_id: 13337)
+  - FURNITURE (master_id: 13338)
+  - FURNITURE TRADE JOURNAL (master_id: 13339)
+  - G G FARMERS' JOURWESTERN NAL (master_id: 13340)
+  - G G. AMERICAN SHEEP BREEDER AND WOOL GROWER (master_id: 13341)
+  - G G. SHORT-HAND WRITER (master_id: 13342)
+  - G G. SVEA (master_id: 13343)
+  - G. AMERICAN CRITIC (master_id: 13344)
+  - G. CHRISTIAN WORKER (master_id: 13345)
+  - G. CHRISTIAN WORKER AND GOSPEL EXPOSITOR (master_id: 13346)
+  - G. EDITORS' EYE (master_id: 13347)
+  - G. ERIFOLUNGSSTUNDEN (master_id: 13348)
+  - G. EVANGELISTIC RECORD (master_id: 13349)
+  - G. GROCERS ' BULLETIN (master_id: 13350)
+  - G. GROCERS' CRITERION (master_id: 13351)
+  - G. HOUSE AND LOT (master_id: 13352)
+  - G. ILLINOIS NATIONAL GUARDSMAN AND VETERAN SOLDIERS' JOURNAL (master_id: 13353)
+  - G. ILLUSTRERET UGEBLAD (master_id: 13354)
+  - G. MEDICAL REVIEW (master_id: 13355)
+  - G. MINING JOURNAL (master_id: 13356)
+  - G. MIRROR OF AMERICAN SPORTS (master_id: 13357)
+  - G. NATIONAL HARNESS REVIEW (master_id: 13358)
+  - G. TILSKUEREN (master_id: 13359)
+  - G. WESTERN MEDICAL REPORTER (master_id: 13360)
+  - G.. DZIENSWIETY (master_id: 13361)
+  - GALLERY FOR PICTURE YOUNG FOLKS (master_id: 13362)
+  - GAMLA HEMLAN. OCH NYA DET (master_id: 13363)
+  - GENERAL MANAGER (master_id: 13364)
+  - GERMAN -AMERICAN MILLER (master_id: 13365)
+  - GG. AMERICAN TRADE JOURNAL (master_id: 13366)
+  - GG. SKANDINAVISK FARMER JOURNAL (master_id: 13367)
+  - GLOBE (master_id: 13368)
+  - GLOS WOLNY (master_id: 13369)
+  - GOOD AND POPULAR TIMES EDUCATOR (master_id: 13370)
+  - GRAIN AND PROVISION REVIEW (master_id: 13371)
+  - GRAPHER (master_id: 13372)
+  - GROCER (master_id: 13373)
+  - GROCER AND MERCANTILE REVIEW (master_id: 13374)
+  - H. AMERICAN FIELD (master_id: 13375)
+  - H. AMERICAN MERCANTILE REG. ISTER (master_id: 13376)
+  - H. BARN VANNEN (master_id: 13377)
+  - H. BOOKSELLER AND STATIONER (master_id: 13378)
+  - H. CECHOSLOVAN (master_id: 13379)
+  - H. COMRADE (master_id: 13380)
+  - H. FAMILIE JOURNAL (master_id: 13381)
+  - H. GRAPHIC (master_id: 13382)
+  - H. HOME LIGHT (master_id: 13383)
+  - H. INDICATOR (master_id: 13384)
+  - H. KATHOLISCHER JUGENDFREUND (master_id: 13385)
+  - H. MEDICAL VISITOR (master_id: 13386)
+  - H. NAUTICAL HERALD (master_id: 13387)
+  - H. SONG FRIEND (master_id: 13388)
+  - H. UNIVERSALIST (master_id: 13389)
+  - HEALTH AND HOME (master_id: 13390)
+  - HEBREW STUDENT (master_id: 13391)
+  - HELPING HAND (master_id: 13392)
+  - HERMETIST ST (master_id: 13393)
+  - HERO (master_id: 13394)
+  - HH TELEGRAM (master_id: 13395)
+  - HH. INDUSTRIAL WORLD AND COMMERCIAL ADVERTISER (master_id: 13396)
+  - HH. WESTERN DRUGGIST (master_id: 13397)
+  - HOLZARBEITER (master_id: 13398)
+  - HOME ART (master_id: 13399)
+  - HOME HELPMATE (master_id: 13400)
+  - HOME JOUR ILLUSTRATED NAL (master_id: 13401)
+  - HORSEMAN (master_id: 13402)
+  - HOSANNA (master_id: 13403)
+  - HOURS OF RECREATION (master_id: 13404)
+  - HUMANE JOURNAL (master_id: 13405)
+  - HUMBOLDT HUSTLER (master_id: 13406)
+  - I I. CRUMBS (master_id: 13407)
+  - I I. NEWS (master_id: 13408)
+  - I. CHURCH AND HOME ILLUSTRATED (master_id: 13409)
+  - I. CRUSADER.H DENTAL COSMOS (master_id: 13410)
+  - I. FREE METHODIST (master_id: 13411)
+  - I. SCANDINAVIA (master_id: 13412)
+  - I. SOUTH CHICAGO TRIBUNE (master_id: 13413)
+  - IL MESSAGGIERE (master_id: 13414)
+  - ILLINOIS AGRICULTURIST (master_id: 13415)
+  - IMPLEMENT WORLD (master_id: 13416)
+  - INDEPENDENT (master_id: 13417)
+  - INDEX (master_id: 13418)
+  - INDUSTRIAL AND CIAL GAZETTE (master_id: 13419)
+  - INDUSTRIAL MONITOR (master_id: 13420)
+  - INDUSTRIAL WORLD (master_id: 13421)
+  - INDUSTRIAL WORLD AND IRON WORKER (master_id: 13422)
+  - INK BOTTLE (master_id: 13423)
+  - INK FIEND (master_id: 13424)
+  - INLAND ARCHITECT AND BUILDER (master_id: 13425)
+  - INLAND ARCHITECT AND NEWS RECORD (master_id: 13426)
+  - INLAND PRINTER (master_id: 13427)
+  - INSURANCE HERALD (master_id: 13428)
+  - INTELLIGENCE (master_id: 13429)
+  - INTERNATIONAL FIRE PROOFER (master_id: 13430)
+  - INTERNATIONAL REPUBLICAN (master_id: 13431)
+  - IRISH FREEMAN (master_id: 13432)
+  - IRISH LEADER AND PILOT (master_id: 13433)
+  - IRISH TRIBUNE (master_id: 13434)
+  - J J. DEMOKRAT (master_id: 13435)
+  - J. CHAMPION OF FREEDOM AND RIGHTS (master_id: 13436)
+  - J. NEW ERA (master_id: 13437)
+  - J. PHARMACIST AND CHEMIST (master_id: 13438)
+  - J. PLAY (master_id: 13439)
+  - J. SEWING MACHINE ADVANCE (master_id: 13440)
+  - J. SIGMA CHI (master_id: 13441)
+  - J. SOCIAL SCIENCE JOURNAL (master_id: 13442)
+  - J. TELEGRAPH (master_id: 13443)
+  - JAGD ZEITUNG (master_id: 13444)
+  - JEWELER (master_id: 13445)
+  - JEWELERS' JOURNAL (master_id: 13446)
+  - JEWISH ADVANCE (master_id: 13447)
+  - JJ. DER BAHNBRECHER (master_id: 13448)
+  - JJ. DER BEOBACHTER (master_id: 13449)
+  - JOURNAL OF EDUCATION (master_id: 13450)
+  - JOURNAL OF HEREDITY (master_id: 13451)
+  - JOURNAL OF SCIENCE (master_id: 13452)
+  - JOURNAL OF SCIENCE AND PROGRESS (master_id: 13453)
+  - JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION (master_id: 13454)
+  - JOURNAL OF THE MALT AND HOP TRADES (master_id: 13455)
+  - KATHOLISCHER VOLKSBOTE (master_id: 13456)
+  - KINDERGARTEN (master_id: 13457)
+  - KNIGHTS OF HONOR ASSOCIATE (master_id: 13458)
+  - KNIGHTS OF LABOR (master_id: 13459)
+  - KNIGHTS TRIBUNE (master_id: 13460)
+  - KOCH UND BAECKER ZEITUNG (master_id: 13461)
+  - L'ITALIA (master_id: 13462)
+  - L. SCHOOL HERALD (master_id: 13463)
+  - LA COLONIA (master_id: 13464)
+  - LA TROMPETTE EVANGELIQUE (master_id: 13465)
+  - LADIES ' FASHION JOURNAL AND SHOPPING MAGAZINE (master_id: 13466)
+  - LADIES ' STANDARD MAGAZINE (master_id: 13467)
+  - LAKE VIEW DEMOCRAT (master_id: 13468)
+  - LAKE VIEW INDEPENDENT (master_id: 13469)
+  - LAKE VIEW TELEPHONE (master_id: 13470)
+  - LAKE VIEW TRIBUNE (master_id: 13471)
+  - LAKE VINDICATOR AND COOK COUNTY SUBURBAN NEWS (master_id: 13472)
+  - LAKESIDE WATCH (master_id: 13473)
+  - LANTERN (master_id: 13474)
+  - LAW (master_id: 13475)
+  - LEADER (master_id: 13476)
+  - LEAF (master_id: 13477)
+  - LEATHER SHOE AND REPORTER (master_id: 13478)
+  - LEATHER WORKERS ' JOURNAL OF AMERICA (master_id: 13479)
+  - LEVER (master_id: 13480)
+  - LEVER AND NATIONAL LIBERATOR (master_id: 13481)
+  - LEWIS' RURAL (master_id: 13482)
+  - LIAR (master_id: 13483)
+  - LIGHTNING JOURNAL (master_id: 13484)
+  - LINCOLN PARK CHURCH MONTHLY (master_id: 13485)
+  - LIST (master_id: 13486)
+  - LITERARY LIFE (master_id: 13487)
+  - LITHOGRAPHER AND PRINTER (master_id: 13488)
+  - LITTLE BEE (master_id: 13489)
+  - LIVE COMMERSTOCK AND POULTRY RAISER (master_id: 13490)
+  - LIVE STOCK COMMERCIAL (master_id: 13491)
+  - LIVERYMAN AND AMERICAN JOURHORSE-OWNER (master_id: 13492)
+  - LIVING CHURCH (master_id: 13493)
+  - LKETS ROST (master_id: 13494)
+  - LOVER'S GAZETTE (master_id: 13495)
+  - LUMBER TRADE JOURNAL (master_id: 13496)
+  - LUTHERISCHER FREUND (master_id: 13497)
+  - MAGNET (master_id: 13498)
+  - MALT AND HOP TRADES (master_id: 13499)
+  - MARKETS (master_id: 13500)
+  - MASONRY AND FAMILY VOICE OF MAGAZINE (master_id: 13501)
+  - MASTER STEAM FITTER (master_id: 13502)
+  - MATRIMONIAL NEWS AND SPECIAL ADVERTISER (master_id: 13503)
+  - MEDICAL COUNSELOR (master_id: 13504)
+  - MEDICAL ERA (master_id: 13505)
+  - MEDICAL GAZETTE (master_id: 13506)
+  - MEDICAL STANDARD (master_id: 13507)
+  - METALLURGIST (master_id: 13508)
+  - METHODIST YOUNG PEOPLE (master_id: 13509)
+  - MEXICAN TRADE JOURNAL AND SPANISH AMERICAN ADVERTISER (master_id: 13510)
+  - MILLARD AVENUE RECORD (master_id: 13511)
+  - MIND CURE AND SCIENCE OF LIFE (master_id: 13512)
+  - MINING REVIEW (master_id: 13513)
+  - MIRROR (master_id: 13514)
+  - MISK -WI-NEN-NE (master_id: 13515)
+  - MISSION STAR (master_id: 13516)
+  - MISSION STUDIES (master_id: 13517)
+  - MISSIONS-WANNEN (master_id: 13518)
+  - MIXED DRINKS (master_id: 13519)
+  - MIXED STOCKS (master_id: 13520)
+  - MONTHLY (master_id: 13521)
+  - MONUMENTAL NEWS (master_id: 13522)
+  - MUSIC AND DRAMA (master_id: 13523)
+  - MUSICAL BULLETIN (master_id: 13524)
+  - N. J. SHROUD (master_id: 13525)
+  - NAL (master_id: 13526)
+  - NALLY OFFICIAL RAILWAY AND HAND GUIDE BOOK (master_id: 13527)
+  - NASINEC (master_id: 13528)
+  - NATIONAL BOARD OF TRADE (master_id: 13529)
+  - NATIONAL CLOTHING NAL (master_id: 13530)
+  - NATIONAL CROCKERY AND GLASSWARE REVIEW (master_id: 13531)
+  - NATIONAL DEMOKRAT (master_id: 13532)
+  - NATIONAL FARMER (master_id: 13533)
+  - NATIONAL LAUNDRY JOURNAL (master_id: 13534)
+  - NATIONAL LIBERATOR (master_id: 13535)
+  - NATIONAL MAGAZINE (master_id: 13536)
+  - NATIONAL SCIENTIFIC JOURNAL (master_id: 13537)
+  - NATIONAL STEAMSHIP AND RAILWAY GAZETTE (master_id: 13538)
+  - NATIONAL WEEKLY (master_id: 13539)
+  - NEW CHURCH INDEPENDENT AND REVIEW (master_id: 13540)
+  - NEW THOUGHT (master_id: 13541)
+  - NEWS LETTER (master_id: 13542)
+  - NEWS LETTER AND SOCIETY JOURNAL (master_id: 13543)
+  - NIC (master_id: 13544)
+  - NISHING AND HAT REPORTER (master_id: 13545)
+  - NORDISK FOLKEBLAD (master_id: 13546)
+  - NORDMANNEN (master_id: 13547)
+  - NORTHWESTERN COMMERCIAL TRAVELER (master_id: 13548)
+  - NORTHWESTERN GROCER (master_id: 13549)
+  - NORTHWESTERN ILLUSTRATED MECHANICAL JOURNAL (master_id: 13550)
+  - NOVELIST (master_id: 13551)
+  - NYA WECKO POSTEN (master_id: 13552)
+  - O. STATIONER AND PRINTER (master_id: 13553)
+  - O. VANITY FAIR (master_id: 13554)
+  - OAK AND IVY LEAF (master_id: 13555)
+  - ODD -FELLOW (master_id: 13556)
+  - ODD FELLOWS ' REVIEW (master_id: 13557)
+  - OF THE DUNTON'S SPIRIT TURF (master_id: 13558)
+  - OF THE TURF (master_id: 13559)
+  - OFFICE MEN'S RECORD (master_id: 13560)
+  - OLIVE LEAF (master_id: 13561)
+  - OPBYGGELFESBLAD (master_id: 13562)
+  - OPEN COURT (master_id: 13563)
+  - ORANGE JUDD FARMER (master_id: 13564)
+  - ORDENSBLATT DER HERMANNS -SOEHNE (master_id: 13565)
+  - ORIENTAL AND BIBLICAL JOURNAL (master_id: 13566)
+  - ORKNEY AND SHETLAND AMERICAN (master_id: 13567)
+  - OUR NEW EMPIRE (master_id: 13568)
+  - OUR REST (master_id: 13569)
+  - OUR REST AND SIGNS OF THE TIMES (master_id: 13570)
+  - OUR TRADE (master_id: 13571)
+  - OVER LAND AND SEA (master_id: 13572)
+  - PAINT AND VARNISH JOURNAL (master_id: 13573)
+  - PARISH MESSENGER (master_id: 13574)
+  - PARISH'S REFEREE (master_id: 13575)
+  - PEOPLE'S ILLUSTRATED WEEKLY (master_id: 13576)
+  - PEOPLES' HEALTH JOURNAL (master_id: 13577)
+  - PERSONAL RIGHTS ADVOCATE (master_id: 13578)
+  - PHILATELIC GAZETTE (master_id: 13579)
+  - PHOTOGRAPHIC EYE AND THE EYE (master_id: 13580)
+  - PICTORIAL WEST (master_id: 13581)
+  - PICTURE AND ART TRADE (master_id: 13582)
+  - PICTURE GALLERY FOR YOUNG FOLKS (master_id: 13583)
+  - PLATTDUETSCHE ZEITUNG (master_id: 13584)
+  - POULTR LTRY RAISER (master_id: 13585)
+  - POULTRY KEEPER (master_id: 13586)
+  - POWER (master_id: 13587)
+  - PRACTICAL PHONOGRAPHER (master_id: 13588)
+  - PRACTICAL TEACHER (master_id: 13589)
+  - PRESS AND TYPE (master_id: 13590)
+  - PRESTO (master_id: 13591)
+  - PROGRESSIVE AGE (master_id: 13592)
+  - PUBLIC SCHOOL JOURNAL (master_id: 13593)
+  - PUBLISHERS ' RECORD (master_id: 13594)
+  - PYTHIAN ADVOCATE (master_id: 13595)
+  - PYTHIAN RECORD (master_id: 13596)
+  - R. M. S. BUGLE (master_id: 13597)
+  - RADICAL REVIEW (master_id: 13598)
+  - RAILROAD CONDUCTORS' BROTHERHOOD MAGAZINE (master_id: 13599)
+  - RAILROADER (master_id: 13600)
+  - RAILROADER AND RAILWAY ENTERPRISE (master_id: 13601)
+  - RAILWAY AGE (master_id: 13602)
+  - RAILWAY PURCHASING AGENT (master_id: 13603)
+  - RAILWAY PURCHASING AGENT AND SUPPLY TRADE JOURNAL (master_id: 13604)
+  - RAMBLER (master_id: 13605)
+  - RAPID WRITER AND TACHYGRAPHER (master_id: 13606)
+  - RAPID WRITER AND TACHYWATCHMAKER AND METAL WORKER (master_id: 13607)
+  - REAL ESTATE JOURNAL AND BULLETIN (master_id: 13608)
+  - RECORD (master_id: 13609)
+  - RECORD OF CHRISTIAN WORK (master_id: 13610)
+  - RECREATION (master_id: 13611)
+  - REFEREE (master_id: 13612)
+  - REFORMED EPISCOPALIAN (master_id: 13613)
+  - RETAILER AND BUSINESS ADVOCATE (master_id: 13614)
+  - REVIEW (master_id: 13615)
+  - RICAN ENGINEER (master_id: 13616)
+  - RIVERSIDE RECORD (master_id: 13617)
+  - ROCK ISLAND DISTRICT METHODIST AND WORLD WIDE MISSIONS (master_id: 13618)
+  - ROWELL & GROCERS' CRITERION (master_id: 13619)
+  - SABBATH VISITOR (master_id: 13620)
+  - SACHSEN ZEITUNG (master_id: 13621)
+  - SAMFUNDET (master_id: 13622)
+  - SANDEBUDET OCH VAKTAREN (master_id: 13623)
+  - SANITARY NEWS (master_id: 13624)
+  - SATURDAY BLADE (master_id: 13625)
+  - SATURDAY EVENING POST (master_id: 13626)
+  - SATURDAY EXPRESS (master_id: 13627)
+  - SAXON AND CELT (master_id: 13628)
+  - SCRIBE AND TELEPHONE (master_id: 13629)
+  - SENTINELL (master_id: 13630)
+  - SIFTINGS (master_id: 13631)
+  - SOCIAL HOUR (master_id: 13632)
+  - SOCIAL SWIM (master_id: 13633)
+  - SOCIAL WORLD (master_id: 13634)
+  - SOCIETY NEWS (master_id: 13635)
+  - SOLDIER AND CITIZEN (master_id: 13636)
+  - SOLDIERS ' BULLETIN (master_id: 13637)
+  - SONNTAGSBOTE (master_id: 13638)
+  - SONS OF VETERANS' NATIONAL REVEILLE (master_id: 13639)
+  - SOUTH CHICAGO CALUMET (master_id: 13640)
+  - SOUTH CICERO ADVOCATE (master_id: 13641)
+  - SOUTH SIDE ADVOCATE (master_id: 13642)
+  - SOUTH SIDE EVERY SATURDAY (master_id: 13643)
+  - SOUTHWEST CHICAGOIAN (master_id: 13644)
+  - SOUTHWESTERN RAILWAY ADVANCE (master_id: 13645)
+  - SPORTING JOURNAL (master_id: 13646)
+  - STAATS -ZEITUNG (master_id: 13647)
+  - STATESMAN (master_id: 13648)
+  - STREET RAILWAY GAZETTE (master_id: 13649)
+  - SUBURBAN ENTERPRISE (master_id: 13650)
+  - SUBURBAN TIMES (master_id: 13651)
+  - SUNDAY GLOBE (master_id: 13652)
+  - SUNDAY INTER OCEAN (master_id: 13653)
+  - SUNDAY POST (master_id: 13654)
+  - SUNSET CHIMES (master_id: 13655)
+  - SVENSKA KURIREN (master_id: 13656)
+  - SVENSKA POSTEN (master_id: 13657)
+  - SVENSKA TRIBUNEN (master_id: 13658)
+  - TEL AND AMUSEMENT REGISTER (master_id: 13659)
+  - TEMPERANCE EVANGELIST (master_id: 13660)
+  - TIMBERMAN (master_id: 13661)
+  - TOWN OF LAKE EYE (master_id: 13662)
+  - TRATED (master_id: 13663)
+  - TRONMONGER (master_id: 13664)
+  - TRUE PROTESTANT (master_id: 13665)
+  - TRUE WITNESS (master_id: 13666)
+  - TUNG (master_id: 13667)
+  - U. S. DAIRYMAN (master_id: 13668)
+  - U. S. VETERINARY JOURNAL (master_id: 13669)
+  - UM FEIERABEND (master_id: 13670)
+  - UNGDOMS-VANNEN (master_id: 13671)
+  - UNION SIGNAL (master_id: 13672)
+  - UNIQUE (master_id: 13673)
+  - UNITED STATES MAIL (master_id: 13674)
+  - VERDENS GANG (master_id: 13675)
+  - VIEW (master_id: 13676)
+  - VIM (master_id: 13677)
+  - VOICE OF MASONRY AND FAMILY MAGAZINE (master_id: 13678)
+  - VORE BLAD (master_id: 13679)
+  - WAGON AND HARNESS JOURNAL (master_id: 13680)
+  - WAGON AND MATERIALS JOURNAL (master_id: 13681)
+  - WAGON MAKER (master_id: 13682)
+  - WANDERER (master_id: 13683)
+  - WASHINGTONIAN (master_id: 13684)
+  - WATCHMAKER AND METAL WORKER (master_id: 13685)
+  - WEEK'S CURRENT (master_id: 13686)
+  - WEST CHICAGO BANNER (master_id: 13687)
+  - WEST END ADVOCATE (master_id: 13688)
+  - WEST SIDE VINDICATOR (master_id: 13689)
+  - WESTERN AMERICAN (master_id: 13690)
+  - WESTERN BOOKSELLER (master_id: 13691)
+  - WESTERN BOTTLER (master_id: 13692)
+  - WESTERN BROKER (master_id: 13693)
+  - WESTERN EDUCATIONALJOURNAL (master_id: 13694)
+  - WESTERN ELECTRICIAN (master_id: 13695)
+  - WESTERN FIREMAN (master_id: 13696)
+  - WESTERN HOME JOURNAL (master_id: 13697)
+  - WESTERN JOURNALIST (master_id: 13698)
+  - WESTERN MAGAZINE (master_id: 13699)
+  - WESTERN PENMAN (master_id: 13700)
+  - WESTERN PRINTER (master_id: 13701)
+  - WESTERN RURAL AND AMERICAN STOCKMAN (master_id: 13702)
+  - WESTERN SHOE AND LEATHER REVIEW (master_id: 13703)
+  - WESTERN STATIONER (master_id: 13704)
+  - WESTERN UNDERTAKER (master_id: 13705)
+  - WESTERN WORLD (master_id: 13706)
+  - WIARA I OJCZYZNA (master_id: 13707)
+  - WINE AND SPIRIT REVIEW (master_id: 13708)
+  - WITNESS (master_id: 13709)
+  - WOMAN'S WORLD (master_id: 13710)
+  - WOODLAWN ENTERPRISE (master_id: 13711)
+  - WOOL JOURNAL (master_id: 13712)
+  - WORLD (master_id: 13713)
+  - WORLD MAGAZINE (master_id: 13714)
+  - WORLD WIDE MISSIONS (master_id: 13715)
+  - X. AMERICAN LAW MAGAZINE (master_id: 13716)
+  - X. AMERICAN POULTRY JOURNAL (master_id: 13717)
+  - X. CHAMPION (master_id: 13718)
+  - X. DER ZIONSFREUND (master_id: 13719)
+  - X. FIGARO (master_id: 13720)
+  - X. HEART AND HAND (master_id: 13721)
+  - X. OESTERREICH AMERIKANISCHE ZEITUNG (master_id: 13722)
+  - X. OWL (master_id: 13723)
+  - X. SIGNAL (master_id: 13724)
+  - X. STEAM (master_id: 13725)
+  - Y. M. C. A. WATCHMAN (master_id: 13726)
+  - YOUNG LADIES ' BAZAR (master_id: 13727)
+  - YOUNG MEN'S ERA (master_id: 13728)
+  - YOUNG PEOPLE'S WEEKLY (master_id: 13729)
+  - YOUTHS' EXAMINER (master_id: 13730)
+  - ZGODA (master_id: 13731)
+  - ZION MISSION NEWS (master_id: 13732)
+  - Advances (master_id: 13809)
+  - Advent Christian Times (master_id: 13810)
+  - Advocate (master_id: 13811)
+  - Agents' Guide (master_id: 13812)
+  - Alliance (master_id: 13813)
+  - American Bee Journal (master_id: 13814)
+  - American Cabinet Maker (master_id: 13815)
+  - American Journal of Educa- tion (master_id: 13816)
+  - American Miller (master_id: 13817)
+  - American Poultry Journal and Record (master_id: 13818)
+  - Amerikan (master_id: 13819)
+  - Art Journal (master_id: 13820)
+  - Art Review (master_id: 13821)
+  - Balance (master_id: 13822)
+  - Carl Pretzel's Weekly (master_id: 13823)
+  - Catholic Vindicator (master_id: 13824)
+  - Christian Cynosure (master_id: 13825)
+  - Chronicles (master_id: 13826)
+  - Commercial Advertiser (master_id: 13827)
+  - Commercial Bulletin (master_id: 13828)
+  - Courier (master_id: 13829)
+  - Crusader (master_id: 13830)
+  - Daheim (master_id: 13831)
+  - Democrat (master_id: 13832)
+  - Dental Cosmos (master_id: 13833)
+  - Der Westen (master_id: 13834)
+  - Electrotype Journal (master_id: 13835)
+  - Electrotyper (master_id: 13836)
+  - Engineering News (master_id: 13837)
+  - Eulenspiegel (master_id: 13838)
+  - Evening Journal (master_id: 13839)
+  - Everybody's Paper (master_id: 13840)
+  - Field (master_id: 13841)
+  - Freie Press , (master_id: 13842)
+  - Furniture Trade (master_id: 13843)
+  - Gamla och Nya Hemlandet (master_id: 13844)
+  - Gazeta Polska (master_id: 13845)
+  - Gazeta Polska Katolicka (master_id: 13846)
+  - Guardian (master_id: 13847)
+  - Happy Hours (master_id: 13848)
+  - Hejmdal (master_id: 13849)
+  - Home Visitors (master_id: 13850)
+  - Hotel World (master_id: 13851)
+  - Illinois Staats-Zeitung (master_id: 13852)
+  - Illinois Volks-Zeitung (master_id: 13853)
+  - Illustrated Bible Studies (master_id: 13854)
+  - In Door and Out (master_id: 13855)
+  - IndustrialAge (master_id: 13856)
+  - Insurance Critic (master_id: 13857)
+  - Inter-Ocean (master_id: 13858)
+  - Interior (master_id: 13859)
+  - Investigator (master_id: 13860)
+  - Journal (master_id: 13861)
+  - Journal of Commerce (master_id: 13862)
+  - Katholisches Wochenblatt (master_id: 13863)
+  - Lakeside Library (master_id: 13864)
+  - Land Owner (master_id: 13865)
+  - Ledger (master_id: 13866)
+  - Legal Adviser (master_id: 13867)
+  - Legal Newsy (master_id: 13868)
+  - Little Bouquet (master_id: 13869)
+  - Lutherischer Kirchenfreund (master_id: 13870)
+  - Magazine (master_id: 13871)
+  - Mail (master_id: 13872)
+  - Manford's Magazine (master_id: 13873)
+  - Medical Journal and Examiner (master_id: 13874)
+  - Medical Times (master_id: 13875)
+  - Morning Star (master_id: 13876)
+  - Naer och Fjerran (master_id: 13877)
+  - National Car Builder (master_id: 13878)
+  - National Hotel Reporter (master_id: 13879)
+  - National Live Stock Journal (master_id: 13880)
+  - National Sunday-School Teach- er (master_id: 13881)
+  - New Covenant (master_id: 13882)
+  - News (master_id: 13883)
+  - Newspaper Union (master_id: 13884)
+  - Norden (master_id: 13885)
+  - North-Western ChristianAdvo- cate (master_id: 13886)
+  - North-Western Lumberman (master_id: 13887)
+  - Nya Varlden (master_id: 13888)
+  - Occident (master_id: 13889)
+  - Pharmacist (master_id: 13890)
+  - Pilot (master_id: 13891)
+  - Pomeroy's Democrat (master_id: 13892)
+  - Post (master_id: 13893)
+  - Prairie Farmer (master_id: 13894)
+  - Present Age (master_id: 13895)
+  - Press (master_id: 13896)
+  - Railroad Gazette (master_id: 13897)
+  - Railway Guide (master_id: 13898)
+  - Railway Review (master_id: 13899)
+  - Real Estate and Building Jour- nal (master_id: 13900)
+  - Religio-Philosophical Jour- nal (master_id: 13901)
+  - Reporter (master_id: 13902)
+  - Republican (master_id: 13903)
+  - Round's Printers' Cabinet (master_id: 13904)
+  - Sandebudet (master_id: 13905)
+  - Saturday Evening Herald (master_id: 13906)
+  - Skandinaven (master_id: 13907)
+  - Specimen (master_id: 13908)
+  - Standard (master_id: 13909)
+  - Sun (master_id: 13910)
+  - Sunday School Advocate (master_id: 13911)
+  - Svenska Amerikanaren (master_id: 13912)
+  - Svornost (master_id: 13913)
+  - Teacher (master_id: 13914)
+  - Times (master_id: 13915)
+  - Tribune (master_id: 13916)
+  - Union Park Advocate (master_id: 13917)
+  - United States Medical Investi- gator (master_id: 13918)
+  - United States Review (master_id: 13919)
+  - Volante (master_id: 13920)
+  - Vorbote (master_id: 13921)
+  - Vox Humana (master_id: 13922)
+  - Watchman (master_id: 13923)
+  - Western Catholic (master_id: 13924)
+  - Western Farm Journal (master_id: 13925)
+  - Western Manufacturer (master_id: 13926)
+  - Western Paper Trade (master_id: 13927)
+  - Western Postal Record (master_id: 13928)
+  - Western Rural (master_id: 13929)
+  - Wilson's Reflector (master_id: 13930)
+  - Workingman's Advocate (master_id: 13931)
+  - Young Folks' Monthly (master_id: 13932)
+  - Young Folks' Rural (master_id: 13933)
+
+--- Entry 101 ---
+Name:  the vinton record
+Town:  m&#39;arthur
+State: Ohio
+ISSN:  2330-6149
+LCCN:  sn85038222
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 102 ---
+Name:  the weekly panola star
+Town:  panola
+State: MISS
+ISSN:  2470-2331
+LCCN:  sn83016951
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 103 ---
+Name:  fisherman &amp; farmer
+Town:  edenton
+State: N.C
+ISSN:  2375-8961
+LCCN:  sn91068084
+Town found in master: Yes
+Master candidates in town:
+  - ALBEMARLE ENQUIRER (master_id: 36335)
+  - ALBEMARLE TIMES (master_id: 36336)
+  - CHOWAN GAZETTE (master_id: 36337)
+  - CLARION (master_id: 36338)
+  - TAR HEEL (master_id: 36339)
+
+--- Entry 104 ---
+Name:  the manning times
+Town:  manning
+State: South Carolina
+ISSN:  2330-8826
+LCCN:  sn86063760
+Town found in master: Yes
+Master candidates in town:
+  - CLARENDON ENTERPRISE (master_id: 42958)
+  - KK. TIMES (master_id: 42959)
+  - Clarendon Press (master_id: 42975)
+
+--- Entry 105 ---
+Name:  the warner sun
+Town:  warner
+State: South Dakota
+ISSN:  2766-8258
+LCCN:  sn2001063565
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 106 ---
+Name:  the placer herald
+Town:  rocklin
+State: california
+ISSN:  2693-3268
+LCCN:  sn82014998
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 107 ---
+Name:  claiborne guardian
+Town:  homer
+State: Louisiana
+ISSN:  2163-6346
+LCCN:  sn88064118
+Town found in master: Yes
+Master candidates in town:
+  - Blackburn's Homer Iliad (master_id: 21598)
+
+--- Entry 108 ---
+Name:  the big sandy news
+Town:  louisa
+State: Kentucky
+ISSN:  0739-0149
+LCCN:  sn83004226
+Town found in master: Yes
+Master candidates in town:
+  - LAWRENCE CO . INDEX (master_id: 21204)
+
+--- Entry 109 ---
+Name:  louisiana capitolian
+Town:  baton rouge
+State: Louisiana
+ISSN:  2163-6656
+LCCN:  sn88064592
+Town found in master: Yes
+Master candidates in town:
+  - CAPITOLIAN ADVOCATE (master_id: 21548)
+  - HH. TRUTH (master_id: 21549)
+
+--- Entry 110 ---
+Name:  the highland weekly news
+Town:  hillsborough
+State: HILLSBORO
+ISSN:  2333-0163
+LCCN:  sn85038158
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 111 ---
+Name:  washington journal
+Town:  washington
+State: district of columbia
+ISSN:  1534-2964
+LCCN:  sn82014726
+Town found in master: Yes
+Master candidates in town:
+  - AMERICAN FREEMAN (master_id: 11468)
+  - COMMERCIAL ADVERTISER (master_id: 11469)
+  - CRAFTSMAN (master_id: 11470)
+  - EVENING INTELLIGENCER (master_id: 11471)
+  - G. GRIT (master_id: 11472)
+  - G. HOTEL NEWS (master_id: 11473)
+  - HATCHET (master_id: 11474)
+  - J. AGITATOR (master_id: 11475)
+  - K.K. MORNING SUN (master_id: 11476)
+  - AMERICAN ANNALS OF THE DEAF AND DUMB (master_id: 11576)
+  - AMERICAN GENIUS (master_id: 11577)
+  - AMERICAN WATCHMAN (master_id: 11578)
+  - BEE (master_id: 11579)
+  - CATHOLIC (master_id: 11580)
+  - CLE (master_id: 11581)
+  - CONTRACTOR AND UNITED ADVERTISTATES OFFICIAL SER (master_id: 11582)
+  - EVENING CRITIC (master_id: 11583)
+  - F. UNIONVOLUNTEER (master_id: 11584)
+  - FORNEY'S SUNDAY CHRONICLE (master_id: 11585)
+  - G. POULTRY REVIEW AND STOCK JOURNAL (master_id: 11586)
+  - GG. COMMERCIAL (master_id: 11587)
+  - GG. ROUGH NOTES (master_id: 11588)
+  - GRAND ARMY RECORD (master_id: 11589)
+  - H. NATIONAL MONTHLY (master_id: 11590)
+  - H. SATURDAY ANVIL (master_id: 11591)
+  - H. SUNDAY ITEM (master_id: 11592)
+  - I I. UNITED STATES GAZETTE (master_id: 11593)
+  - I. AMERICA (master_id: 11594)
+  - J. AMERICAN PROTESTANT (master_id: 11595)
+  - J. AMERICAN REGISTER (master_id: 11596)
+  - J. ARMY AND NAVY REGISTER (master_id: 11597)
+  - J. BOARD OF TRADE GAZETTE AND CHAMBER OF COMMERCE JOURNAL (master_id: 11598)
+  - J. COUNCIL FIRE AND ARBITRATOR (master_id: 11599)
+  - J. DEPARTMENTAL REVIEW (master_id: 11600)
+  - J. NATIONAL GAZETTE (master_id: 11601)
+  - K. NATIONAL FREE PRESS (master_id: 11602)
+  - K. NATIONAL WEEKLY (master_id: 11603)
+  - K. ZINE (master_id: 11604)
+  - KK. NATIONAL FARMER (master_id: 11605)
+  - KNIGHTS OF PYTHIAS MAGADE ZINE (master_id: 11606)
+  - NATIONAL MEDICAL REVIEW (master_id: 11607)
+  - NATIONAL TRIBUNE (master_id: 11608)
+  - NATIONAL UNION (master_id: 11609)
+  - NATIONAL VIEW (master_id: 11610)
+  - PEOPLE'S ADVOCATE (master_id: 11611)
+  - REAL ESTATE REVIEW (master_id: 11612)
+  - SCIENTIFIC RECORD (master_id: 11613)
+  - SOLDIER'S TRUE FRIEND (master_id: 11614)
+  - SOVEREIGN BULLETIN (master_id: 11615)
+  - SOVEREIGN HERALD (master_id: 11616)
+  - SUNDAY CHRONICLE (master_id: 11617)
+  - TRUTH (master_id: 11618)
+  - VEDETTE (master_id: 11619)
+  - WOMAN'S WORDS (master_id: 11620)
+  - WORKER AND THINKER (master_id: 11621)
+  - WORLD (master_id: 11622)
+  - WORLD AND CITIZEN SOLDIER (master_id: 11623)
+  - X. NEW SOUTH (master_id: 11624)
+  - African Repository (master_id: 11625)
+  - American Engineer (master_id: 11626)
+  - Capital (master_id: 11627)
+  - Copp's Land Owner (master_id: 11628)
+  - Critic (master_id: 11629)
+  - Der Volks-Tribun (master_id: 11630)
+  - Enquirer (master_id: 11631)
+  - Evening Star (master_id: 11632)
+  - Field and Forest (master_id: 11633)
+  - Forney's Sunday Morn- ing Chronicle (master_id: 11634)
+  - Gazette (master_id: 11635)
+  - Grand Army Journal (master_id: 11636)
+  - Law Reporter (master_id: 11637)
+  - National (master_id: 11638)
+  - National Republican (master_id: 11639)
+  - Official Gazette (master_id: 11640)
+  - Post (master_id: 11641)
+  - Post Office Gazette (master_id: 11642)
+  - Real Estate Record (master_id: 11643)
+  - Republican (master_id: 11644)
+  - Sentinel (master_id: 11645)
+  - Silent World (master_id: 11646)
+  - Sunday Herald (master_id: 11647)
+  - Telegram (master_id: 11648)
+  - United States Record and Gazette (master_id: 11649)
+  - Washingtoner Journal (master_id: 11650)
+
+--- Entry 112 ---
+Name:  the dickinson press
+Town:  dickinson
+State: I.E. N.D
+ISSN:  2475-8728
+LCCN:  sn88076013
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 113 ---
+Name:  the weekly herald
+Town:  cleveland
+State: TENN
+ISSN:  2333-3014
+LCCN:  sn86053402
+Town found in master: Yes
+Master candidates in town:
+  - J. POLK AND BRADLEY NEWS (master_id: 43290)
+  - Banners (master_id: 43319)
+
+--- Entry 114 ---
+Name:  savannah courier
+Town:  savannah
+State: TENN
+ISSN:  2376-6530
+LCCN:  sn89058248
+Town found in master: Yes
+Master candidates in town:
+  - SENTINEL (master_id: 43753)
+  - TENNESSEE TRANSCRIPT (master_id: 43754)
+  - TRANSCRIPT (master_id: 43755)
+
+--- Entry 115 ---
+Name:  the st. johns herald
+Town:  st. johns
+State: ARIZ
+ISSN:  2166-9767
+LCCN:  sn94051692
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 116 ---
+Name:  ashtabula weekly telegraph
+Town:  ashtabula
+State: Ohio
+ISSN:  2327-140X
+LCCN:  sn83035216
+Town found in master: Yes
+Master candidates in town:
+  - ADVANCE (master_id: 36888)
+  - BEACON (master_id: 36889)
+  - DEMOCRATIC STANDARD (master_id: 36890)
+  - J J. MESSENGER (master_id: 36891)
+  - JJ. SHORE HOME MAGALAKE ZINE (master_id: 36892)
+  - JOURNAL (master_id: 36893)
+  - LAKE SHORE HOME MAGAZINE (master_id: 36894)
+  - REPUBLICAN (master_id: 36895)
+  - YHDYSWALTAIN SANOMAT (master_id: 36896)
+  - News (master_id: 36922)
+
+--- Entry 117 ---
+Name:  the middleburgh post
+Town:  middleburgh
+State: Pennsylvania
+ISSN:  2327-6487
+LCCN:  sn86081895
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 118 ---
+Name:  saturday press
+Town:  honolulu
+State: H.I
+ISSN:  2157-2216
+LCCN:  sn82014681
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 119 ---
+Name:  the weekly miner
+Town:  butte
+State: MONT
+ISSN:  2470-4296
+LCCN:  sn84036032
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 120 ---
+Name:  arizona weekly enterprise
+Town:  tucson
+State: arizona
+ISSN:  2377-5769
+LCCN:  sn94052364
+Town found in master: Yes
+Master candidates in town:
+  - ARIZONA JOURNAL (master_id: 8105)
+  - ARIZONA LIVE STOCK JOURNAL (master_id: 8106)
+  - ARIZONA MINING INDEX (master_id: 8107)
+  - ARIZONA MINING JOURNAL (master_id: 8108)
+  - ARIZONA STAR (master_id: 8109)
+  - EL ECO DE SONORA (master_id: 8110)
+  - EL FRONTERIZO (master_id: 8111)
+  - K. EXPOSITOR (master_id: 8112)
+  - LAS DOS REPUBLICAS (master_id: 8113)
+  - SENTINEL (master_id: 8114)
+  - STAR (master_id: 8115)
+  - SUNSHINE AND SILVER (master_id: 8116)
+  - TAILINGS (master_id: 8117)
+  - Arizona Citizen (master_id: 8118)
+
+--- Entry 121 ---
+Name:  national opinion
+Town:  bradford
+State: Vermont
+ISSN:  2376-8355
+LCCN:  sn84022552
+Town found in master: Yes
+Master candidates in town:
+  - J. STANTON'S OPINION (master_id: 45188)
+  - UNITED OPINION (master_id: 45189)
+  - Opinion (master_id: 45221)
+  - Vermont Journal (master_id: 45222)
+
+--- Entry 122 ---
+Name:  clinch valley news
+Town:  jeffersonville
+State: Virginia
+ISSN:  2158-2807
+LCCN:  sn85034357
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 123 ---
+Name:  cheyenne transporter
+Town:  darlington
+State: INDIAN TERR
+ISSN:  2158-8902
+LCCN:  sn83025001
+Town found in master: Yes
+Master candidates in town:
+  - ECHO (master_id: 16111)
+  - JOURNAL (master_id: 16112)
+  - TIMES (master_id: 16113)
+
+--- Entry 124 ---
+Name:  the weekly messenger
+Town:  st. martinsville la.
+State: I.E. ST. MARTINVILLE
+ISSN:  2166-8043
+LCCN:  sn88064454
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 125 ---
+Name:  devils lake inter-ocean
+Town:  devils lake
+State: N.D
+ISSN:  2470-5292
+LCCN:  sn88076514
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 126 ---
+Name:  the sunday morning news
+Town:  jersey city
+State: N.J
+ISSN:  2688-707X
+LCCN:  sn85036014
+Town found in master: Yes
+Master candidates in town:
+  - BEACON (master_id: 31072)
+  - CHURCHMAN (master_id: 31073)
+  - EAGLE (master_id: 31074)
+  - ENTERPRISE (master_id: 31075)
+  - HARRISON DISPATCH (master_id: 31076)
+  - HEDDING HERALD (master_id: 31077)
+  - HUDSON CO . LEDGER (master_id: 31078)
+  - I. ARCHIVES OF PEDIATRICS (master_id: 31079)
+  - J. NEW JERSEY LEDGER (master_id: 31080)
+  - J. RECORD (master_id: 31081)
+  - J. SUNDAY TATTLER (master_id: 31082)
+  - JERSEY TIMES AND BERGEN INDEX (master_id: 31083)
+  - NEW JERSEY ENTERPRISE (master_id: 31084)
+  - NEW JERSEY FREIE PRESSE (master_id: 31085)
+  - NEW JERSEY STAATS ZEITUNG (master_id: 31086)
+  - NEW JERSEY SUNBEAM (master_id: 31087)
+  - SEA SIDE KEY NOTE (master_id: 31088)
+  - SUNBEAM AND CHURCHMAN (master_id: 31089)
+  - SUNDAY EAGLE (master_id: 31090)
+  - TIMES AND JOURNAL (master_id: 31091)
+  - VOLKSBLATT (master_id: 31092)
+  - WARDEN (master_id: 31093)
+  - WEEKLY (master_id: 31094)
+  - Argus (master_id: 31095)
+  - Evening Journal (master_id: 31096)
+  - Herald (master_id: 31097)
+  - Hudson Co. Volksblatt (master_id: 31098)
+  - Wacht am Hudson (master_id: 31099)
+
+--- Entry 127 ---
+Name:  the maryville times
+Town:  maryville
+State: TENN
+ISSN:  2376-628X
+LCCN:  sn89058370
+Town found in master: Yes
+Master candidates in town:
+  - ADELPHIC MIRROR (master_id: 43533)
+  - BLOUNT CO . DEMOCRAT (master_id: 43534)
+  - K. WATCHMAN (master_id: 43535)
+  - Republican (master_id: 43623)
+
+--- Entry 128 ---
+Name:  the bozeman weekly chronicle
+Town:  bozeman
+State: MONT
+ISSN:  2378-6825
+LCCN:  sn86075108
+Town found in master: Yes
+Master candidates in town:
+  - Avant Courier (master_id: 29191)
+  - Times (master_id: 29192)
+
+--- Entry 129 ---
+Name:  the hot springs star
+Town:  hot spings
+State: HOT SPRINGS
+ISSN:  2473-0262
+LCCN:  sn96090256
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 130 ---
+Name:  idaho county free press
+Town:  grangeville
+State: IDAHO TERRITORY
+ISSN:  2574-9153
+LCCN:  sn86091100
+Town found in master: Yes
+Master candidates in town:
+  - CO . FREE PRESS (master_id: 12615)
+
+--- Entry 131 ---
+Name:  the columbia herald
+Town:  columbia
+State: TENN
+ISSN:  2328-0905
+LCCN:  sn85033386
+Town found in master: Yes
+Master candidates in town:
+  - CALL (master_id: 43304)
+  - ECHO (master_id: 43305)
+  - INDEPENDENT (master_id: 43306)
+  - MAURY DEMOCRAT (master_id: 43307)
+  - MAURY SENTINEL (master_id: 43308)
+  - TIMES (master_id: 43309)
+  - TIPTON RECORD (master_id: 43310)
+  - Guardian (master_id: 43322)
+  - Herald and Mail (master_id: 43323)
+  - Journal (master_id: 43324)
+
+--- Entry 132 ---
+Name:  tama county republican
+Town:  toledo
+State: IOWA
+ISSN:  2578-4129
+LCCN:  sn87058333
+Town found in master: Yes
+Master candidates in town:
+  - CUMBERLAND DEMOCRAT (master_id: 15583)
+  - HAPPY PILGRIM (master_id: 15584)
+  - REPUBLICAN (master_id: 15585)
+  - JJ. PALM TREE (master_id: 19154)
+  - PENMAN'S HELP (master_id: 19155)
+  - READER'S FRIEND (master_id: 19156)
+  - TAMA CO . DEMOCRAT (master_id: 19157)
+  - TEACHER AND STUDENT (master_id: 19158)
+  - TIMES (master_id: 19159)
+  - Chronicle (master_id: 19165)
+  - Tama Co. Independent (master_id: 19166)
+
+--- Entry 133 ---
+Name:  orangeburg times
+Town:  orangeburg court house
+State: South Carolina
+ISSN:  2163-7490
+LCCN:  sn93067804
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 134 ---
+Name:  the evening world
+Town:  new york
+State: new york
+ISSN:  1941-0654
+LCCN:  sn83030193
+Town found in master: Yes
+Master candidates in town:
+  - ACKER UND GARTENBAU ZEITUNG (master_id: 33912)
+  - ACTA COLUMBIANA (master_id: 33913)
+  - ADVANCE (master_id: 33914)
+  - ADVOCATE (master_id: 33915)
+  - AGE (master_id: 33916)
+  - AGRICULTURAL REVIEW AND INDUSTRIAL MONTHLY (master_id: 33917)
+  - AGRICULTURAL REVIEW AND THE AMERICAN JOURNAL OF AGRICULTURAL ASSOCIATION (master_id: 33918)
+  - AGRICULTURE (master_id: 33919)
+  - AGRICULTURIST AND NATIONAL WORKING FARMER (master_id: 33920)
+  - ALLIANCE JOURNAL (master_id: 33921)
+  - AMATEUR ARTISAN (master_id: 33922)
+  - AMERICAN (master_id: 33923)
+  - AMERICAN BAZAR (master_id: 33924)
+  - AMERICAN BOTTLER (master_id: 33925)
+  - AMERICAN BREWER'S GAZETTE AND MALT AND HOP TRADES' REVIEW (master_id: 33926)
+  - AMERICAN BREWERS ' HOP MALT AND ZETTE AND TRADES ' REVIEW (master_id: 33927)
+  - AMERICAN BREWGERMAN AND ERS JOURNAL AND MALT AND HOP TRADES REPORTER (master_id: 33928)
+  - AMERICAN BUSINESS GUIDE (master_id: 33929)
+  - AMERICAN CANOEIST (master_id: 33930)
+  - AMERICAN COUNTING ROOM (master_id: 33931)
+  - AMERICAN DAIRYMAN (master_id: 33932)
+  - AMERICAN DRUGGIST (master_id: 33933)
+  - AMERICAN ENTOMOLOGIST (master_id: 33934)
+  - AMERICAN EXPORTER (master_id: 33935)
+  - AMERICAN FASHION REVIEW (master_id: 33936)
+  - AMERICAN GAS LIGHT JOURNAL (master_id: 33937)
+  - AMERICAN GROCER AND DRY GOODS CHRONICLE (master_id: 33938)
+  - AMERICAN HAIRDRESSER AND PERFUMER (master_id: 33939)
+  - AMERICAN HEBREW (master_id: 33940)
+  - AMERICAN IRON NEWS (master_id: 33941)
+  - AMERICAN JOURC. W. SCOTTISH NAL (master_id: 33942)
+  - AMERICAN JOURNAL OF ELECTROLOGY AND NEUROLOGY (master_id: 33943)
+  - AMERICAN JOURNAL OF MIPOPULAR SCIENCE (master_id: 33944)
+  - AMERICAN JOURNAL OF OTOLOGY (master_id: 33945)
+  - AMERICAN JOURNAL OF RAILWAY APPLIANCES (master_id: 33946)
+  - AMERICAN KENNEL REGISTER (master_id: 33947)
+  - AMERICAN KINDERGARTEN MAGAZINE (master_id: 33948)
+  - AMERICAN LIFE ASSURANCE AND JOURNAL MAGAZINE OF ACTUARIES (master_id: 33949)
+  - AMERICAN MACHINIST (master_id: 33950)
+  - AMERICAN MAIL AND EXPORT JOURNAL (master_id: 33951)
+  - AMERICAN MEDICAL DIGEST (master_id: 33952)
+  - AMERICAN MEDICAL WEEKLY (master_id: 33953)
+  - AMERICAN METAL MARKET (master_id: 33954)
+  - AMERICAN MICROSCOPICAL JOURNAL (master_id: 33955)
+  - AMERICAN MODEL PRINTER (master_id: 33956)
+  - AMERICAN MUSIC JOURNAL (master_id: 33957)
+  - AMERICAN PROTECTIONIST (master_id: 33958)
+  - AMERICAN QUEEN (master_id: 33959)
+  - AMERICAN REAL ESTATE GUIDE (master_id: 33960)
+  - AMERICAN REFORMER (master_id: 33961)
+  - AMERICAN RETAIL LIQUOR DEALER (master_id: 33962)
+  - AMERICAN SENTRY (master_id: 33963)
+  - AMERICAN TAILOR (master_id: 33964)
+  - AMERICAN TEMPERANCE UNION (master_id: 33965)
+  - AMERICAN TOURIST GAZETTE (master_id: 33966)
+  - AMERICAN TRADEREPORTER (master_id: 33967)
+  - AMERICAN TRAVELLERS ' JOURNAL (master_id: 33968)
+  - AMERICAN UNDERTAKER (master_id: 33969)
+  - AMERICAN VETERINARY REVIEW (master_id: 33970)
+  - AMERICAN WINE AND GRAPE GROWER (master_id: 33971)
+  - AMERICAN WOOD -WORKER AND SAW AND PLANING-MILL JOURNAL (master_id: 33972)
+  - AMERIKAI NEMZETOR (master_id: 33973)
+  - AMERIKANISCHE SCHWEIZER ZEITUNG (master_id: 33974)
+  - ANALECTIC (master_id: 33975)
+  - ANALYST (master_id: 33976)
+  - AND DRESSMAKER (master_id: 33977)
+  - AND DRESSMAKMILLINER ER (master_id: 33978)
+  - AND EXHIBITION REPORTER (master_id: 33979)
+  - AND FARM (master_id: 33980)
+  - AND HATTER (master_id: 33981)
+  - AND HOME DECORATOR (master_id: 33982)
+  - AND LADIES' SUIT WEAR REVIEW (master_id: 33983)
+  - AND NATIONAL PRESS BOT' ADVOCATE (master_id: 33984)
+  - AND PHARMAPHYSICIAN CIST (master_id: 33985)
+  - AND REAL INSURANCE ESTATE JOURNAL (master_id: 33986)
+  - AND REPORTER (master_id: 33987)
+  - AND STATIONERY PRINTING WORLD (master_id: 33988)
+  - AND STREAM (master_id: 33989)
+  - AND UPHOLSTERER (master_id: 33990)
+  - ANDREW'S AMERICAN QUEEN (master_id: 33991)
+  - ANDREWS' BAZAR (master_id: 33992)
+  - ANGLO AMERICAN (master_id: 33993)
+  - ANTI -MONOPOLIST (master_id: 33994)
+  - ANTI-PROHIBITIONIST AND TRADEJOURNAL (master_id: 33995)
+  - APOTHEKER ZEITUNG (master_id: 33996)
+  - AQUATIC MAGAAMERICAN ZINE (master_id: 33997)
+  - ARBEITER-STIMME (master_id: 33998)
+  - ARCHERY AND TENNIS NEWS (master_id: 33999)
+  - ARCHIVES OF DERMATOLOGY (master_id: 34000)
+  - ARCHIVES OF MEDICINE (master_id: 34001)
+  - ARCHIVES OF OPHTHALMOLOGY (master_id: 34002)
+  - ARM CHAIR (master_id: 34003)
+  - ART AGE (master_id: 34004)
+  - ART AMATEUR (master_id: 34005)
+  - ART CRITIC (master_id: 34006)
+  - ART-WORK MANUALS (master_id: 34007)
+  - AUS AMERIKA (master_id: 34008)
+  - AVALANCHE (master_id: 34009)
+  - BABYHOOD (master_id: 34010)
+  - BAHN FREI (master_id: 34011)
+  - BANK AND UNDERWOOD'S COUNTERFEIT REPORTER (master_id: 34012)
+  - BANKER AND BROKER (master_id: 34013)
+  - BANKERS ' MAGAZINE AND STATISTICAL REGISTER (master_id: 34014)
+  - BANNER STATE WORKMAN (master_id: 34015)
+  - BAPTIST HOME MISSION MONTHLY (master_id: 34016)
+  - BAYERISCHES WOCHENBLATT (master_id: 34017)
+  - BEACON LIGHT (master_id: 34018)
+  - BEADLE'S WEEKLY (master_id: 34019)
+  - BEE AND POULTRY MAGAZINE (master_id: 34020)
+  - BEER GLASS (master_id: 34021)
+  - BIOGRAPHICAL MAGAZINE (master_id: 34022)
+  - BIRD MAGAZINE (master_id: 34023)
+  - BISCHWOCHENBLATT (master_id: 34024)
+  - BLACKSMITH AND WHEELWRIGHT (master_id: 34025)
+  - BOOK-KEEPER (master_id: 34026)
+  - BOOTS AND SHOES (master_id: 34027)
+  - BOSTON HEBREW OBSERVER (master_id: 34028)
+  - BOYCOTTER (master_id: 34029)
+  - BOYS' CHAMPION (master_id: 34030)
+  - BRADSTREET'S (master_id: 34031)
+  - BREWER'S ' GAZETTE AMERICAN AND MALT AND HOP TRADES' REVIEW (master_id: 34032)
+  - BRIEF (master_id: 34033)
+  - BUCHDRUCKER-ZEITUNG (master_id: 34034)
+  - BUILDER (master_id: 34035)
+  - BUILDER AND WOODWORKER (master_id: 34036)
+  - BUILDERS' GUIDE (master_id: 34037)
+  - BUILDING (master_id: 34038)
+  - BULLINGER'S MONITOR GUIDE (master_id: 34039)
+  - BULLION (master_id: 34040)
+  - BYRNE'S DRAMATIC TIMES (master_id: 34041)
+  - CABINET MAKING AND UPHOLSTERY (master_id: 34042)
+  - CAL ENGINEER (master_id: 34043)
+  - CALVERT'S MAGAZINE (master_id: 34044)
+  - CANARD (master_id: 34045)
+  - CANCER JOURNAL (master_id: 34046)
+  - CARPENTER (master_id: 34047)
+  - CARPENTRY AND BUILDING (master_id: 34048)
+  - CATHOLIC FIRESIDE (master_id: 34049)
+  - CECILIA (master_id: 34050)
+  - CELTIC MONTHLY (master_id: 34051)
+  - CENTURY MAGAZINE (master_id: 34052)
+  - CHAMBER OF COMMERCE JOURNAL (master_id: 34053)
+  - CHEESE AND EGG REPORTER (master_id: 34054)
+  - CHILD'S FRIEND (master_id: 34055)
+  - CHILDREN'S MUSEUM (master_id: 34056)
+  - CHINESE AMERICAN (master_id: 34057)
+  - CHIRONIAN (master_id: 34058)
+  - CHOICE LITERATURE (master_id: 34059)
+  - CHRISTIAN GIVER (master_id: 34060)
+  - CHRISTIAN HOME (master_id: 34061)
+  - CHRISTIAN INTELIGENCER (master_id: 34062)
+  - CHRISTIAN THOUGHT (master_id: 34063)
+  - CHROMATIC ART MAGAZINE (master_id: 34064)
+  - CHURCH AND PEOPLE (master_id: 34065)
+  - CHURCH AND SUNDAY SCHOOL WEEKLY (master_id: 34066)
+  - CHURCH MAGAZINE (master_id: 34067)
+  - CHURCH MISSION NEWS (master_id: 34068)
+  - CHURCH PRESS (master_id: 34069)
+  - CHURCH STANDARD (master_id: 34070)
+  - CIGAR JOURNAL AND WINE AND SPIRIT RECORD (master_id: 34071)
+  - CIRCULAR (master_id: 34072)
+  - CITY ITEM (master_id: 34073)
+  - CLOTHIER AND FURNISHER (master_id: 34074)
+  - CLOTHING AND FURNISHING GAZETTE (master_id: 34075)
+  - COACH PAINTER (master_id: 34076)
+  - COAL (master_id: 34077)
+  - COIN COLLECTOR'S JOURNAL (master_id: 34078)
+  - COLLECTION AND CREDIT REPORTER (master_id: 34079)
+  - COLLEGE JOURNAL (master_id: 34080)
+  - COLLEGE MERCURY (master_id: 34081)
+  - COLLEGIAN (master_id: 34082)
+  - COLUMBIA SPECTATOR (master_id: 34083)
+  - COMMERCIAL ENQUIRER (master_id: 34084)
+  - COMMERCIAL GAZETTE (master_id: 34085)
+  - COMMERCIAL REPORTER (master_id: 34086)
+  - COMMERCIAL TRAVELERS JOURNAL (master_id: 34087)
+  - COMMERCIAL WORLD UNITED STATES EXPORTER (master_id: 34088)
+  - COMPLETE PREACHER (master_id: 34089)
+  - CONSULTOR INDUSTRIAL EL Y MERCANTIL (master_id: 34090)
+  - CONTINENT (master_id: 34091)
+  - CONVERTED CATHOLIC (master_id: 34092)
+  - COTTAGE AND FARM (master_id: 34093)
+  - COUNTRY (master_id: 34094)
+  - COUNTRY MERCHANT (master_id: 34095)
+  - COURRIER SUISSE (master_id: 34096)
+  - CREME CREME (master_id: 34097)
+  - CRITIC AND GOOD LITERATURE (master_id: 34098)
+  - CROSCOPY AND GINEER (master_id: 34099)
+  - CUTTER'S JOURNAL OF AMERICA (master_id: 34100)
+  - CYCLIST AND ATHLETE (master_id: 34101)
+  - DAIRY (master_id: 34102)
+  - DAS NEUE HEIM (master_id: 34103)
+  - DAS TELEPHON (master_id: 34104)
+  - DEAF MUTES' JOURNAL (master_id: 34105)
+  - DECORATOR (master_id: 34106)
+  - DECORATOR AND FURNISHER (master_id: 34107)
+  - DELNICKE LISTY (master_id: 34108)
+  - DELNIK AMERICKY (master_id: 34109)
+  - DELTA (master_id: 34110)
+  - DEMOREST'S MAGAZINE (master_id: 34111)
+  - DER FUEHRER (master_id: 34112)
+  - DER KIRCHENBOTE (master_id: 34113)
+  - DER NEUE SUDEN (master_id: 34114)
+  - DER PFALZER IN AMERIKA (master_id: 34115)
+  - DER REPORTER (master_id: 34116)
+  - DER REPUBLIKANER (master_id: 34117)
+  - DER SOZIALIST (master_id: 34118)
+  - DESCRIPTIVE AMERICA (master_id: 34119)
+  - DEUTSCH -AMERIKANISCHE APOTHEKER ZEITUNG (master_id: 34120)
+  - DEUTSCH -AMERIKANISCHE BUCHDRUCKER ZEITUNG (master_id: 34121)
+  - DEUTSCH -AMERIKANISCHER JUGENDFREUND (master_id: 34122)
+  - DEUTSCH AMERICANISCHER COUNTRY STOREKEEPER (master_id: 34123)
+  - DEUTSCH AMERIKANISCHE TABAK-ZEITUNG (master_id: 34124)
+  - DEUTSCH AMERIKANISCHE VOLKS-BIBLIOTHEK (master_id: 34125)
+  - DEUTSCH AMERIKANISCHER GROCER (master_id: 34126)
+  - DEUTSCH-AMERIKANISCHE FAMILIEN BLAETTER (master_id: 34127)
+  - DEUTSCHE-AMERIKANISCHER NOVELLEN KRANZ (master_id: 34128)
+  - DEUTSCHER FAMILIEN SCHATZ (master_id: 34129)
+  - DIAL (master_id: 34130)
+  - DIAMOND (master_id: 34131)
+  - DIE LATERNE (master_id: 34132)
+  - DIE ORDENS PRESSE (master_id: 34133)
+  - DIE SPHINX (master_id: 34134)
+  - DIE WACHT (master_id: 34135)
+  - DINING ROOM MAGAZINE (master_id: 34136)
+  - DISCIPLE'S PULPIT (master_id: 34137)
+  - DORCAS MAGAZINE (master_id: 34138)
+  - DRAKE'S TRAVELLERS ' MAGAZINE (master_id: 34139)
+  - DRAMATIC MAGAZINE (master_id: 34140)
+  - DRAMATIC NEWS AND SOCIETY JOURNAL (master_id: 34141)
+  - DRUG NEWS (master_id: 34142)
+  - DRUG NEWS AND PRICES CURRENT (master_id: 34143)
+  - DRUGGIST'S ADVERTISER AND TRADE JOURNAL (master_id: 34144)
+  - DRY GOODS BULLETIN (master_id: 34145)
+  - DRY GOODS BULLETIN AND TEXTILE MANUFACTURER (master_id: 34146)
+  - DUSTRIAL RECORD (master_id: 34147)
+  - ECLECTIC MEDICAL ADVOCATE (master_id: 34148)
+  - ECLECTIC MEDICAL AND SURGICAL JOURNAL (master_id: 34149)
+  - ECONOMIST (master_id: 34150)
+  - ECONOMIST UNITED STATES AND DRY GOODS REPORTER (master_id: 34151)
+  - EL ANUNCIADOR HISPANOAMERICANO (master_id: 34152)
+  - EL EDUCADOR POPULAR.H FURNITURE TRADE JOURNAL (master_id: 34153)
+  - EL FABRICANTE (master_id: 34154)
+  - EL PROGRESO (master_id: 34155)
+  - EL REPERTORIO MEDICO (master_id: 34156)
+  - EL SEPARATISTA (master_id: 34157)
+  - ELECTRICAL REVIEW (master_id: 34158)
+  - ELECTRICAL WORLD (master_id: 34159)
+  - ELECTRICIAN (master_id: 34160)
+  - ELEVATED RAILWAY JOURNAL (master_id: 34161)
+  - ELITE FASHIONS (master_id: 34162)
+  - ELOCUTIONIST (master_id: 34163)
+  - EMERALD (master_id: 34164)
+  - EMPIRE CITY PHILATELIST (master_id: 34165)
+  - EMPIRE STATE WORKMAN AND FRATERNAL MESSENGER (master_id: 34166)
+  - EMZETOR (master_id: 34167)
+  - ENGINEERING NEWS (master_id: 34168)
+  - ENGINEERING NEWS AND AMERICAN CONTRACT JOURNAL (master_id: 34169)
+  - ENGLISH AMERICAN (master_id: 34170)
+  - ENTERPRISE (master_id: 34171)
+  - ERICAN FASHIONS (master_id: 34172)
+  - ERY TRADE (master_id: 34173)
+  - EVENING REVIEW (master_id: 34174)
+  - EVENING STOCK REPORT (master_id: 34175)
+  - EXAMINER (master_id: 34176)
+  - EXPRESS JOURNAL (master_id: 34177)
+  - EXPRESS RECORD (master_id: 34178)
+  - FAIRY VOICES (master_id: 34179)
+  - FAMILIEN BLAETTER (master_id: 34180)
+  - FAMILIEN DEUTSCHER SCHATZ (master_id: 34181)
+  - FANCIERS' JOURNAL HOMING PIGEON (master_id: 34182)
+  - FANCY GOODS GRAPHIC (master_id: 34183)
+  - FARM (master_id: 34184)
+  - FARMERS' STATION RECORD (master_id: 34185)
+  - FASHION BAZAR (master_id: 34186)
+  - FASHION COURIER (master_id: 34187)
+  - FEDERAL GAZETTE AND CURRENT RECORD (master_id: 34188)
+  - FICTION (master_id: 34189)
+  - FIELD GLASS (master_id: 34190)
+  - FIGARO (master_id: 34191)
+  - FINANCIAL AND MINING NEWS (master_id: 34192)
+  - FIREMAN'S HERALD (master_id: 34193)
+  - FIREMAN'S JOURNAL (master_id: 34194)
+  - FIRESIDE AT HOME (master_id: 34195)
+  - FIRST TEACHING (master_id: 34196)
+  - FISH JOURNAL (master_id: 34197)
+  - FLORAL CABINET LADIES' HOME AND COMPICTORIAL PANION (master_id: 34198)
+  - FLORIDA NEW YORKER (master_id: 34199)
+  - FLORIDA PATHFINDER (master_id: 34200)
+  - FOLLIES AND FANCIES (master_id: 34201)
+  - FOOD AND HEALTH (master_id: 34202)
+  - FORESTERS ' JOURNAL (master_id: 34203)
+  - FOX'S ILLUSTRATED WEEK'S DOINGS (master_id: 34204)
+  - FRANK LADY'S MAGALESLIE'S ZINE (master_id: 34205)
+  - FRANK LESLIE'S CHATTERBOX (master_id: 34206)
+  - FRANK LESLIE'S FACT AND FICTION (master_id: 34207)
+  - FRANK LESLIE'S PICTORIAL (master_id: 34208)
+  - FRANK LESLIE'S PLEASANT HOURS (master_id: 34209)
+  - FRANK SUNDAY MAGALESLIE'S ZINE (master_id: 34210)
+  - FRANK TOUSEY'S BOYS ' WEEKLY (master_id: 34211)
+  - FRATERNAL ADVERTISER (master_id: 34212)
+  - FREEMAN (master_id: 34213)
+  - FREEMAN'S MAGAZINE (master_id: 34214)
+  - FREIHEIT (master_id: 34215)
+  - FREITAG ZU NACHT (master_id: 34216)
+  - FRET SAWYER'S MONTHLY AND HOME DECORATOR (master_id: 34217)
+  - FREUND'S MUSIC AND DRAMA (master_id: 34218)
+  - FREUND'S WEEKLY (master_id: 34219)
+  - FRIENDLY VISITOR (master_id: 34220)
+  - FRIENDS OF HUMANITY JOURNAL (master_id: 34221)
+  - FUER ALLE (master_id: 34222)
+  - FURNITURE TRADE REVIEW (master_id: 34223)
+  - FURNITURE TRADE REVIEW INTERIOR DECORATOR (master_id: 34224)
+  - G GI (master_id: 34225)
+  - GAILLARD'S MEDICAL JOURNAL (master_id: 34226)
+  - GAS AND STEAM (master_id: 34227)
+  - GASTRONOMER (master_id: 34228)
+  - GAZETTE (master_id: 34229)
+  - GEM (master_id: 34230)
+  - GERNER'S WEEKLY AND PATENT GAZETTE (master_id: 34231)
+  - GEWERBE UND INDUSTRIE ZEITUNG UND FORTSCHRITT DER ZEIT (master_id: 34232)
+  - GEYER'S AMERICAN MERCHANT (master_id: 34233)
+  - GEYER'S STATIONER (master_id: 34234)
+  - GIBSON'S REVIEW OF THE CLOTHING AND FURNISHING TRADES (master_id: 34235)
+  - GOETTING'S JOURNAL (master_id: 34236)
+  - GOLDEN ARGOSY (master_id: 34237)
+  - GOLDEN RULE (master_id: 34238)
+  - GOOD LITERATURE (master_id: 34239)
+  - GOOD WORK (master_id: 34240)
+  - GOODS CHRONICLE (master_id: 34241)
+  - GOODS RECORD AND SILK REPORTER (master_id: 34242)
+  - GOODS TRADE FURNISHING REVIEW (master_id: 34243)
+  - GOSPEL IN ALL LANDS (master_id: 34244)
+  - GRAND ARMY GAZETTE AND NATIONAL GUARDSMAN (master_id: 34245)
+  - GROCER AND PACKERS ' JOURNAL (master_id: 34246)
+  - GROCER'S JOURNAL (master_id: 34247)
+  - GROWING WORLD (master_id: 34248)
+  - GUIDE (master_id: 34249)
+  - HAIRDRESSER (master_id: 34250)
+  - HALL'S HEALTH (master_id: 34251)
+  - HALL'S JOURNAL OF (master_id: 34252)
+  - HARLEM RECORD (master_id: 34253)
+  - HARNESS AND SADDLERY AND HARNESS AND CARRIAGE JOURNAL (master_id: 34254)
+  - HARPER'S NEW MAGAZINE (master_id: 34255)
+  - HARPER'S YOUNG PEOPLE (master_id: 34256)
+  - HATTER AND FURRIER (master_id: 34257)
+  - HEADLIGHT (master_id: 34258)
+  - HEARNE'S YOUNG FOLKS' WEEKLY (master_id: 34259)
+  - HEBREW CHRISTIAN (master_id: 34260)
+  - HEBREW JOURNAL (master_id: 34261)
+  - HEBREW STANDARD (master_id: 34262)
+  - HEIRATHS ANZEIGER (master_id: 34263)
+  - HENRY WELSH'S TRADE CIRCULAR (master_id: 34264)
+  - HERALD OF MUSIC (master_id: 34265)
+  - HEROLD DER EHREN RITTER (master_id: 34266)
+  - HOCHZEITS-GLOCKEN (master_id: 34267)
+  - HOME SAFEGUARD (master_id: 34268)
+  - HOME SCIENCE (master_id: 34269)
+  - HOMEOPATHIC JOURNAL OF OBSTETRICS (master_id: 34270)
+  - HOMILETIC REVIEW (master_id: 34271)
+  - HONOR STANDKNIGHTS OF ARD (master_id: 34272)
+  - HOROLOGICAL REVIEW (master_id: 34273)
+  - HOTEL GAZETTE (master_id: 34274)
+  - HOTEL MAIL (master_id: 34275)
+  - HOTEL REGISTER (master_id: 34276)
+  - HOTEL REPORTER (master_id: 34277)
+  - HOUR (master_id: 34278)
+  - HOUSE AND HOME (master_id: 34279)
+  - HOUSE FURNISHER (master_id: 34280)
+  - HOUSE-HUNTER AND UP-TOWN REAL ESTATE JOURNAL (master_id: 34281)
+  - HOUSEHOLD ADVOWOOD'S CATE (master_id: 34282)
+  - HOUSEHOLD COMPANION (master_id: 34283)
+  - HOUSEHOLD GUEST MAGAZINE (master_id: 34284)
+  - HOUSEHOLD JOURNAL (master_id: 34285)
+  - HOUSEHOLD MELODIES (master_id: 34286)
+  - HOUSEKEEPER.H HOUSEKEEPER'S COMPANION (master_id: 34287)
+  - HYDRAULIC AND SANITARY PLUMBER (master_id: 34288)
+  - ICAIN (master_id: 34289)
+  - III (master_id: 34290)
+  - III. LAW JOURNAL (master_id: 34291)
+  - IL MESSAGGIERO DELLA VERITA (master_id: 34292)
+  - IL PROGRESSO ITALO AMERICANO (master_id: 34293)
+  - ILLUSTRATED CATHOLIC AMERICAN (master_id: 34294)
+  - ILLUSTRATED DRAMATIC AND SPORTING NEWS (master_id: 34295)
+  - ILLUSTRATED RAILROAD WORLD (master_id: 34296)
+  - ILLUSTRATED RAMBLER AND DRAMATIC WEEKLY.H ILLUSTRATED TIMES (master_id: 34297)
+  - ILLUSTRATED TIMES (master_id: 34298)
+  - ILLUSTRATOR OF THE INTER NATIONAL SUNDAY SCHOOL LESSONS (master_id: 34299)
+  - ILLUSTRATOR OF THE INTERSUNDAY SCHOOL NATIONAL LESSONS (master_id: 34300)
+  - IMPENDING ISSUE (master_id: 34301)
+  - INDEPENDENT HEBREW (master_id: 34302)
+  - INDEPENDENT JOURNAL (master_id: 34303)
+  - INDEPENDENT OIL AND DRUG JOURNAL AND PAINT REVIEW (master_id: 34304)
+  - INDEPENDENT PRACTITIONER (master_id: 34305)
+  - INDEX MEDICUS (master_id: 34306)
+  - INDOORS AND OUTDOORS (master_id: 34307)
+  - INDUSTRIAL MONTHLY AND COMMERCIAL AND STATISTICAL REVIEW (master_id: 34308)
+  - INDUSTRIAL NEWS (master_id: 34309)
+  - INQUIRER (master_id: 34310)
+  - INSURANCE AND COMMERCIAL MAGAZINE (master_id: 34311)
+  - INSURANCE CRITIC (master_id: 34312)
+  - INTERNAL REVENUE RECORD JOURNAL (master_id: 34313)
+  - INTERNATIONAL JOURNAL OF MEDICINE AND SURGERY (master_id: 34314)
+  - INTERNATIONAL MAGAZINE (master_id: 34315)
+  - INTERNATIONAL REVIEW (master_id: 34316)
+  - IRISH GLOBE (master_id: 34317)
+  - IRISH NATION (master_id: 34318)
+  - IRISH WORLD AND AMERICAN INDUSTRIAL LIBERATOR (master_id: 34319)
+  - IRVING MAGAZINE (master_id: 34320)
+  - IST (master_id: 34321)
+  - JERRY MCAULEY'S NEWS. PAPER (master_id: 34322)
+  - JEWISH ADVOCATE (master_id: 34323)
+  - JEWISH HERALD (master_id: 34324)
+  - JEWISH PROGRESS (master_id: 34325)
+  - JOBBERS ' PRICE-CURRENT (master_id: 34326)
+  - JOHN SWINTON'S PAPER (master_id: 34327)
+  - JOURNAL (master_id: 34328)
+  - JOURNAL AND COURT OFFICIAL DISTRICT COURT RECORD (master_id: 34329)
+  - JOURNAL AND FANCIERS' HOMING PIGEON (master_id: 34330)
+  - JOURNAL OF BANKING LAW (master_id: 34331)
+  - JOURNAL OF COMPARATIVE MEDICINE AND SURGERY (master_id: 34332)
+  - JOURNAL OF CUTANEOUS AND VENEREAL DISEASES (master_id: 34333)
+  - JOURNAL OF HALL'S HEALTH (master_id: 34334)
+  - JOURNAL OF SPECULATIVE PHILOSOPHY (master_id: 34335)
+  - JOURNAL OF THE (master_id: 34336)
+  - JOURNAL OF THE AMERICAN AGRICULTURAL ASSOCIATION (master_id: 34337)
+  - JOURNAL OF THE MILITARY SERVICE INSTITUTION OF THE UNITED STATES (master_id: 34338)
+  - JOURNAL OF THE NEW YORK MICROSCOPICAL SOCIETY (master_id: 34339)
+  - JOURNALIST (master_id: 34340)
+  - JUDGE (master_id: 34341)
+  - JUNGES VOLK (master_id: 34342)
+  - JUSTICE (master_id: 34343)
+  - KLADDERABUMS (master_id: 34344)
+  - KNICKERBOCKER (master_id: 34345)
+  - KNICKERBOCKER READY REFERENCE GUIDE (master_id: 34346)
+  - KNIGHTS OF HONOR STANDARD (master_id: 34347)
+  - L'ART DE LA MODE (master_id: 34348)
+  - L'ECHO DES DEUX-MONDES (master_id: 34349)
+  - L. A. W. GAZETTE (master_id: 34350)
+  - LA AMERICA (master_id: 34351)
+  - LA AMERICA MUSICAL (master_id: 34352)
+  - LA CROIX FEDERALE (master_id: 34353)
+  - LA CUISINE (master_id: 34354)
+  - LA INDUSTRIA (master_id: 34355)
+  - LA LLUMANERA (master_id: 34356)
+  - LA RAZA LATINA (master_id: 34357)
+  - LABOR STANDARD (master_id: 34358)
+  - LADIES ' OWN MAGAZINE (master_id: 34359)
+  - LADIES' FLORAL CABINET (master_id: 34360)
+  - LADIES' REVIEW (master_id: 34361)
+  - LADY'S BAZAR (master_id: 34362)
+  - LADY'S FRANK LESLIE'S MAGAZINE (master_id: 34363)
+  - LAND AND HOME (master_id: 34364)
+  - LANDSBERG'S ILLUSTRIRTES WOCHENBLATT (master_id: 34365)
+  - LANY (master_id: 34366)
+  - LAS NOVEDADES (master_id: 34367)
+  - LATINE (master_id: 34368)
+  - LE CANADIEN DES ETATSUNIS (master_id: 34369)
+  - LEATHER MANUSHOE AND FACTURER (master_id: 34370)
+  - LEISURE (master_id: 34371)
+  - LEISURE HOURS (master_id: 34372)
+  - LESLIE'S BOYS' MAGAZINE (master_id: 34373)
+  - LETIN (master_id: 34374)
+  - LIBRARY JOURNAL (master_id: 34375)
+  - LIBRARY MAGAZINE (master_id: 34376)
+  - LIBRARY TABLE (master_id: 34377)
+  - LIEBER'S MANUAL (master_id: 34378)
+  - LIFE (master_id: 34379)
+  - LIFE AND INTERNADIVINE TIONAL EXPOSITOR (master_id: 34380)
+  - LISTY (master_id: 34381)
+  - LITERARY ENTERPRISE (master_id: 34382)
+  - LITERARY JOURPEOPLE'S NAL (master_id: 34383)
+  - LITERARY NEWS (master_id: 34384)
+  - LLY (master_id: 34385)
+  - LODE AND GULCH (master_id: 34386)
+  - MACKEY'S DRY GOODS PRICE LIST AND MEMORANDUM (master_id: 34387)
+  - MAGAZINE OF AMERICAN HISTORY (master_id: 34388)
+  - MAGNET (master_id: 34389)
+  - MAIL AND EXPRESS (master_id: 34390)
+  - MAKER'S JOURNAL (master_id: 34391)
+  - MALT AND HOP TRADES' REPORTER (master_id: 34392)
+  - MANHATTAN (master_id: 34393)
+  - MANUFACTCRERS' AND BANKERS LEDGER (master_id: 34394)
+  - MARINE JOURNAL (master_id: 34395)
+  - MARITIME REPORTER (master_id: 34396)
+  - MARKET INDEX AND JOURNAL (master_id: 34397)
+  - MARTIN'S CHEMISTS ' AND DRUGGISTS ' BULLETIN (master_id: 34398)
+  - MASONIA (master_id: 34399)
+  - MASONIC NEWSPAPER (master_id: 34400)
+  - MASTERY (master_id: 34401)
+  - MATRIMONIAL RECORD AND SPECIAL ADVERTISER (master_id: 34402)
+  - MECHANICAL ENGINEER (master_id: 34403)
+  - MECHANICAL NEWS (master_id: 34404)
+  - MECHANICS (master_id: 34405)
+  - MECHANICS ' MONEY SAVER (master_id: 34406)
+  - MEDICAL ABSTRACT (master_id: 34407)
+  - MEDICAL ADVOCATE (master_id: 34408)
+  - MEDICAL AND SURGICAL REPORTER (master_id: 34409)
+  - MEDICAL JOURNAL AND STETRICAL REVIEW (master_id: 34410)
+  - MEDICAL TIMES (master_id: 34411)
+  - MEDICAL TRIBUNE (master_id: 34412)
+  - MEDICAL TRUTH (master_id: 34413)
+  - MEDICO-LEGAL JOURNAL (master_id: 34414)
+  - MERCHANT'S JOURNAL (master_id: 34415)
+  - MERCHANTS AND PRODUCERS' WINE AND SPIRIT JOURNAL (master_id: 34416)
+  - MERCHANTS' AND MANUFACTURERS' REVIEW (master_id: 34417)
+  - MERCHANTS' REVIEW (master_id: 34418)
+  - METHODIST REVIEW (master_id: 34419)
+  - METROPOLITAN FASHIONS (master_id: 34420)
+  - METROPOLITAN PULPIT (master_id: 34421)
+  - MILK REPORTER (master_id: 34422)
+  - MILLINER (master_id: 34423)
+  - MILLINERY GUIDE (master_id: 34424)
+  - MINING NEWS (master_id: 34425)
+  - MINING RECORD (master_id: 34426)
+  - MINING STOCK REGISTER AND JOURNAL OF FINANCE (master_id: 34427)
+  - MODERN AGE (master_id: 34428)
+  - MONTHLY (master_id: 34429)
+  - MORFORD'S NEW MAGAZINE (master_id: 34430)
+  - MORNING HOTEL REPORTER AND RAILROAD AND STEAMER GAZETTE (master_id: 34431)
+  - MORNING JOURNAL (master_id: 34432)
+  - MUSIC (master_id: 34433)
+  - MUSIC AND DRAMA (master_id: 34434)
+  - MUSIC TRADE FREE PRESS (master_id: 34435)
+  - MUSICAL AND DRAMATIC COURIER (master_id: 34436)
+  - MUSICAL AND SEWING MA . CHINE COURIER (master_id: 34437)
+  - MUSICAL COURIER (master_id: 34438)
+  - MUSICAL CRITIC AND TRADE REVIEW (master_id: 34439)
+  - MUSICAL GLOBE AND WORLD OF FASHION (master_id: 34440)
+  - MUSICAL NEWS (master_id: 34441)
+  - MUSICAL PEOPLE (master_id: 34442)
+  - MUSICAL REVIEW (master_id: 34443)
+  - MUTUAL BOOKSELLER AND STATIONER (master_id: 34444)
+  - N SOCIAL (master_id: 34445)
+  - N. Y. MCGEE'S ILLUSTRATED WEEKLY (master_id: 34446)
+  - NACHRICHTEN AUS AMERIKA (master_id: 34447)
+  - NAL (master_id: 34448)
+  - NATIONAL BOTTLERS ' GAZETTE (master_id: 34449)
+  - NATIONAL FIREMAN'S JOURNAL (master_id: 34450)
+  - NATIONAL LEADER (master_id: 34451)
+  - NATIONAL PRESS (master_id: 34452)
+  - NATIONAL REPOSITORY (master_id: 34453)
+  - NEW CHURCH MESSENGER (master_id: 34454)
+  - NEW JERSEY AGRICULTURIST AND OUR AMERICAN FARMERS (master_id: 34455)
+  - NEW MAGAZINE (master_id: 34456)
+  - NEW YORK BOYS (master_id: 34457)
+  - NEW YORKER ALLGEMEINE ZEITUNG (master_id: 34458)
+  - NEW YORKER BELLETRISTISCHES JOURNAL (master_id: 34459)
+  - NEW YORKER BUERGER-ZEITUNG (master_id: 34460)
+  - NEW YORKER DEUTSCHES VOLKSBLATT (master_id: 34461)
+  - NEW YORKER DEUTSCHES VOLKSBLATT UND BUERGERZEITUNG (master_id: 34462)
+  - NEW YORKER GERICHTS ZEITUNG (master_id: 34463)
+  - NEW YORKER HANDEL'S ZEITUNG (master_id: 34464)
+  - NEW YORKER HEROLD (master_id: 34465)
+  - NEW YORKER MUSIK UND UNTERHALTUNGS-BLAETTER (master_id: 34466)
+  - NEW YORKER PLATTDUETSCHE POST (master_id: 34467)
+  - NEW YORKER REVUE (master_id: 34468)
+  - NEW YORSKE LISTY (master_id: 34469)
+  - NEWS AND DRAMATIC SOCIETY JOURNAL (master_id: 34470)
+  - NEWS AND INDUSTRIAL INVENTORS' GUIDE (master_id: 34471)
+  - NEWS LETTER (master_id: 34472)
+  - NEWSDEALER AND STATIONER (master_id: 34473)
+  - NEWSDEALERS' BULLETINAND PRICE CURRENT (master_id: 34474)
+  - NEXT OF KIN AND HEIRS-ATLAW GAZETTE (master_id: 34475)
+  - NIEUWS EN HANDELS COURANT (master_id: 34476)
+  - NOAH'S SUNDAY TIMES AND MESSENGER (master_id: 34477)
+  - NORDISKE BLADE (master_id: 34478)
+  - NORTH AMERICAN JOURNAL OF HOMEOPATHY (master_id: 34479)
+  - NORTH AMERICAN REVIEW (master_id: 34480)
+  - NORTHWEST (master_id: 34481)
+  - NOTIONS AND FANCY RECORD AND SILK REPORTER (master_id: 34482)
+  - NOVELIST (master_id: 34483)
+  - NOVELLEN-SCHATZ (master_id: 34484)
+  - NUTIDEN (master_id: 34485)
+  - NYM CRINKLE (master_id: 34486)
+  - OESTERREICH -AMERIKANISCHE ZEITUNG (master_id: 34487)
+  - OIL AND DRUG NEWS (master_id: 34488)
+  - OIL REPORT (master_id: 34489)
+  - ONCE A MONTH (master_id: 34490)
+  - ONTINUED . JOURNAL (master_id: 34491)
+  - OPERATOR AND ELECTRICAL WORLD (master_id: 34492)
+  - ORIENTAL CHURCH MAGAZINE (master_id: 34493)
+  - OTSATIONAL NATIONAL POLICE GAZETTE (master_id: 34494)
+  - OUR ANIMAL FRIENDS (master_id: 34495)
+  - OUR BOYS (master_id: 34496)
+  - OUR DAY (master_id: 34497)
+  - OUR HOME (master_id: 34498)
+  - OUR SECOND CENTURY (master_id: 34499)
+  - OUR SOCIAL JOURNAL (master_id: 34500)
+  - OUR UNION (master_id: 34501)
+  - OUTLOOK (master_id: 34502)
+  - OWL (master_id: 34503)
+  - PACKARD'S SHORTHAND REPORTER AND AMANUENSIS (master_id: 34504)
+  - PAINTERS' JOURNAL (master_id: 34505)
+  - PAPER (master_id: 34506)
+  - PAPER MILL (master_id: 34507)
+  - PASTOR (master_id: 34508)
+  - PATHIC TIMES (master_id: 34509)
+  - PATRIOT (master_id: 34510)
+  - PEN AND PLOW (master_id: 34511)
+  - PENMAN'S ART JOURNAL (master_id: 34512)
+  - PENMAN'S GAZETTE (master_id: 34513)
+  - PEOPLE (master_id: 34514)
+  - PEOPLE'S FIRESIDE JOURNAL (master_id: 34515)
+  - PERFUMER AND MILLINER (master_id: 34516)
+  - PHARMACEUTICAL RECORD (master_id: 34517)
+  - PHARMACEUTISCHE RUNDSCHAU UND ZEITUNG (master_id: 34518)
+  - PHELAN'S CHECKER PLAYER (master_id: 34519)
+  - PHILANTHROPIST (master_id: 34520)
+  - PHONOGRAPHIC NEWS (master_id: 34521)
+  - PHOTOGRAPHIC TIMES (master_id: 34522)
+  - PHRENOLOGICAL JOURNAL AND SCIENCE OF HEALTH (master_id: 34523)
+  - PHYSICIAN (master_id: 34524)
+  - PICTORIAL WAR RECORD (master_id: 34525)
+  - PIGEON AND POULTRY BULLETIN (master_id: 34526)
+  - PILGRIM OF PALESTINE (master_id: 34527)
+  - PINE STREET NEWS (master_id: 34528)
+  - PIONEER (master_id: 34529)
+  - PLANET (master_id: 34530)
+  - PLUMBER AND SANITARY ENGINEER (master_id: 34531)
+  - PLUMBERS' TRADE JOURNAL (master_id: 34532)
+  - POLICE AND FIRE REGISTER (master_id: 34533)
+  - POPULAR MEDICAL EXAMINER (master_id: 34534)
+  - PORTER (master_id: 34535)
+  - POSTAL GAZETTE (master_id: 34536)
+  - POTTERY AND GLASS JOURNAL (master_id: 34537)
+  - POTTERY AND GLASSWARE REPORTER (master_id: 34538)
+  - POWER (master_id: 34539)
+  - PRACTICAL AMERICAN (master_id: 34540)
+  - PRESBYTERIAN HOME MISSIONS (master_id: 34541)
+  - PRESBYTERIAN REVIEW (master_id: 34542)
+  - PRESENT CENTURY (master_id: 34543)
+  - PRESS (master_id: 34544)
+  - PRESSE (master_id: 34545)
+  - PRINTERS' AND LITHOGRAPHERS' GAZETTE AND NEWSPAPER REPORTER (master_id: 34546)
+  - PRO BONO PUBLICO (master_id: 34547)
+  - PROBLEMS OF NATURE (master_id: 34548)
+  - PRODUCE EXCHANGE BULLETIN (master_id: 34549)
+  - PRODUCE EXCHANGE DAILY (master_id: 34550)
+  - PRODUCE EXCHANGE RECORN TRADE PORTER AND LIST (master_id: 34551)
+  - PRODUCE EXCHANGE REPORTER (master_id: 34552)
+  - PROGRESS OF OLIVET (master_id: 34553)
+  - PROOF SHEET (master_id: 34554)
+  - PUBLIC ACCOUNTS (master_id: 34555)
+  - PUCK (master_id: 34556)
+  - PULPIT AND PARSONAGE (master_id: 34557)
+  - PULPIT OF THE DAY (master_id: 34558)
+  - PULPIT TREASURY (master_id: 34559)
+  - PUPILS' COMPANION (master_id: 34560)
+  - PURPLE AND GOLD (master_id: 34561)
+  - QUEEN OF FASHION (master_id: 34562)
+  - RAILROADER (master_id: 34563)
+  - RAINBOW (master_id: 34564)
+  - REAL ESTATE CHRONICLE (master_id: 34565)
+  - RECHTSSCHUTZ (master_id: 34566)
+  - RECORD (master_id: 34567)
+  - RECORD AND TRADE REPORTER (master_id: 34568)
+  - RECORD REAL AND ESTATE BUILDERS' GUIDE (master_id: 34569)
+  - REDPATH'S ILLUSTRATED WEEKLY (master_id: 34570)
+  - REDPATH'S WEEKLY (master_id: 34571)
+  - REFORMER AND JEWISH TIMES (master_id: 34572)
+  - REGISAMERICAN TER (master_id: 34573)
+  - REGISTER REPORTS (master_id: 34574)
+  - REPORTS (master_id: 34575)
+  - RETAIL GROCERS' ADVOCATE (master_id: 34576)
+  - RETAILER (master_id: 34577)
+  - REVEILLE (master_id: 34578)
+  - REVIEW (master_id: 34579)
+  - REVIEW OF THE TELEGRAPH AND TELEPHONE (master_id: 34580)
+  - REVISTA AGRICOLA E INDUSTRIAL (master_id: 34581)
+  - RHODES' JOURNAL (master_id: 34582)
+  - RHODES' JOURNAL OF BANKING (master_id: 34583)
+  - RIDEOUT'S MAGAZINE (master_id: 34584)
+  - RIDLEY'S FASHION MAGAZINE (master_id: 34585)
+  - RINK AND ROLLER (master_id: 34586)
+  - RIVISTA ITALO AMERICANA (master_id: 34587)
+  - RURAL HOME JOURNAL (master_id: 34588)
+  - RURAL NEW-YORKER (master_id: 34589)
+  - SABBATH READING (master_id: 34590)
+  - SAILORS' MAGAZINE (master_id: 34591)
+  - SANITARY ENGINEER (master_id: 34592)
+  - SAWMILL GAZETTE (master_id: 34593)
+  - SCHAFT'S WEST SIDE SATURDAY NIGHT (master_id: 34594)
+  - SCHAU UND ZEITUNG (master_id: 34595)
+  - SCHOLAR'S COMPANION (master_id: 34596)
+  - SCHOOL AND HOME (master_id: 34597)
+  - SCHUETZEN UND JAGD ZEITUNG (master_id: 34598)
+  - SCIENCE (master_id: 34599)
+  - SCIENTIFIC AMERICAN SUPPLEMENT (master_id: 34600)
+  - SCIENTIFIC MAN (master_id: 34601)
+  - SCIENTIFIC TIMES (master_id: 34602)
+  - SCIENTIFIC TIMES AND MERCANTILE REGISTER (master_id: 34603)
+  - SCIENTIFIC WORLD (master_id: 34604)
+  - SEMI-MONTHLY (master_id: 34605)
+  - SEMIICAIN (master_id: 34606)
+  - SENTINEL (master_id: 34607)
+  - SENTRY (master_id: 34608)
+  - SEVEN LINKS (master_id: 34609)
+  - SHARP-SHOOTER (master_id: 34610)
+  - SHROUD (master_id: 34611)
+  - SILK CULTURE (master_id: 34612)
+  - SILVERSMITH AND WATCHMAKER (master_id: 34613)
+  - SMITH'S ILLUSTRATED TERN BAZAR (master_id: 34614)
+  - SMOKER'S COMPANION (master_id: 34615)
+  - SOCIETY GAZETTE (master_id: 34616)
+  - SONNTAGSBLATT DER VOLKSZEITUNG (master_id: 34617)
+  - SOUTH WEST (master_id: 34618)
+  - SOWER AND MISSION MONTHLY (master_id: 34619)
+  - SPORTING AND THEATRICAL JOURNAL (master_id: 34620)
+  - SPORTING GENTLEMAN (master_id: 34621)
+  - SQUARE (master_id: 34622)
+  - SQUARE.H STUDENT'S JOURNAL (master_id: 34623)
+  - ST. NICHOLAS (master_id: 34624)
+  - STAATEN ORDEN VEREINGTE UND VEREINS REVUE (master_id: 34625)
+  - STATE LINE BULLETIN (master_id: 34626)
+  - STATES INSURANCE UNITED GAZETTE AND MAGAZINE (master_id: 34627)
+  - STATES PAPERUNITED MAKER (master_id: 34628)
+  - STEAM NAVIGATION GUIDE (master_id: 34629)
+  - STEAMSHIP AND NATIONAL RAILWAY GAZETTE (master_id: 34630)
+  - STETRICS (master_id: 34631)
+  - STODDART'S ILLUSTRATED MAGAZINE (master_id: 34632)
+  - STREET RAILWAY JOURNAL (master_id: 34633)
+  - STUDIO (master_id: 34634)
+  - STYLE (master_id: 34635)
+  - SUFFRAGIST (master_id: 34636)
+  - SUNDAY (master_id: 34637)
+  - SUNDAY ADVERTISER (master_id: 34638)
+  - SUNDAY COURIER (master_id: 34639)
+  - SUNDAY FRANK LESLIE'S MAGAZINE (master_id: 34640)
+  - SUNDAY SCHOOL CLASSMATE (master_id: 34641)
+  - SUNDAY SCHOOL TEACHERS' FRIEND (master_id: 34642)
+  - SUNDAY SUN (master_id: 34643)
+  - SUNDAY UNION (master_id: 34644)
+  - SUNDAY UNION AND CATHOLIC TIMES (master_id: 34645)
+  - SURVEYING AND BUILDING NEWS (master_id: 34646)
+  - SVENSKA POSTEN (master_id: 34647)
+  - SWINTON'S STORY-TELLER (master_id: 34648)
+  - TAILORS ' REVIEW (master_id: 34649)
+  - TATLER (master_id: 34650)
+  - TEACHERS' COMPANION (master_id: 34651)
+  - TEACHERS' INSTITUTE (master_id: 34652)
+  - TEACHERS' SUNDAY SCHOOL FRIEND (master_id: 34653)
+  - TELEGRAPHER'S ADVOCATE (master_id: 34654)
+  - TEMPERANCE FRIEND (master_id: 34655)
+  - TEXAS SIFTINGS (master_id: 34656)
+  - THE FOREIGN MISSIONARY OF PRESBYTERIAN CHURCH (master_id: 34657)
+  - THE HEARTH (master_id: 34658)
+  - THOUGHTS AND EVENTS (master_id: 34659)
+  - TID BITS (master_id: 34660)
+  - TIDENS FRAGOR (master_id: 34661)
+  - TIONAL GUARDSMAN (master_id: 34662)
+  - TLERS' ADVOCATE (master_id: 34663)
+  - TOBACCO AND COTTON REPORTER (master_id: 34664)
+  - TOMAHAWK (master_id: 34665)
+  - TOURIST WORLD (master_id: 34666)
+  - TOWN TOPICS (master_id: 34667)
+  - TRADE FURNISHING GOODS REVIEW (master_id: 34668)
+  - TRADES' REVIEW (master_id: 34669)
+  - TRANSACTIONS OF THE AMERCAN SOCIETY OF CIVIL ENGINEERS (master_id: 34670)
+  - TRAVELER (master_id: 34671)
+  - TRAVELERS ' WORLD (master_id: 34672)
+  - TRAVELERS' OFFICAL RAILWAY GUIDE (master_id: 34673)
+  - TREASURE (master_id: 34674)
+  - TRIBUNE AND FARMER (master_id: 34675)
+  - TRIRTE ZEITUNG (master_id: 34676)
+  - TRUE CITIZEN (master_id: 34677)
+  - TRUTH (master_id: 34678)
+  - TURERS' REVIEW (master_id: 34679)
+  - TURF (master_id: 34680)
+  - U. S. TOBACCO JOURNAL (master_id: 34681)
+  - UND DER SCHWEIZ (master_id: 34682)
+  - UNDERWOOD'S BANK REPORTER (master_id: 34683)
+  - UNDERWOOD'S COUNTERFEIT REPORTER (master_id: 34684)
+  - UNG (master_id: 34685)
+  - UNITED IRISHMAN (master_id: 34686)
+  - UNITED PRINTERAND FANCY GOODS REPORTER (master_id: 34687)
+  - UNITED SERVICE (master_id: 34688)
+  - UNITED STATES BANKING AND MERCANTILE REGISTER (master_id: 34689)
+  - UNITED ZETTE AND MAGAZINE (master_id: 34690)
+  - UNIVERSAL PRACTICAL BREWER (master_id: 34691)
+  - UNIVERSE (master_id: 34692)
+  - UPTOWN NEWS (master_id: 34693)
+  - UPTOWN VISITOR (master_id: 34694)
+  - URRENT (master_id: 34695)
+  - VEREINIGTE STAATEN ORDEN UND VEREINS REVUE (master_id: 34696)
+  - VERTISER (master_id: 34697)
+  - VOICE (master_id: 34698)
+  - VOICE OF THE PEOPLE (master_id: 34699)
+  - VOLKS -BIBLIOTHEK (master_id: 34700)
+  - WAITERS' AND COOKS' WEEKLY (master_id: 34701)
+  - WALL STREET GAZETTE (master_id: 34702)
+  - WALL STREET NEWS (master_id: 34703)
+  - WANT (master_id: 34704)
+  - WARINGS ' X. Y. Z. RAILWAY GUIDE (master_id: 34705)
+  - WAY GUIDE (master_id: 34706)
+  - WEATHER SIGNAL (master_id: 34707)
+  - WEDDING BELLS (master_id: 34708)
+  - WESTCHESTER TIMES (master_id: 34709)
+  - WHEEL (master_id: 34710)
+  - WIDOW'S GUIDE (master_id: 34711)
+  - WILFORD'S MICROCOSM (master_id: 34712)
+  - WINE AND FRUIT GROWER (master_id: 34713)
+  - WINE AND SPIRIT REVIEW (master_id: 34714)
+  - WISSENSCHAFTSICHE WOCHENBLATTER (master_id: 34715)
+  - WIT AND WISDOM (master_id: 34716)
+  - WORLD OF FASHION (master_id: 34717)
+  - WORLD TRAVEL GAZETTE (master_id: 34718)
+  - X. Y. Z. RAILWAY AND STEAMBOAT GUIDE (master_id: 34719)
+  - XAVIER (master_id: 34720)
+  - YOUNG FOLKS VISITOR (master_id: 34721)
+  - YOUNG GEM AND LITTLE FOLKS' FAVORITE (master_id: 34722)
+  - YOUNG ISRAEL (master_id: 34723)
+  - YOUNG ISRAEL.H YOUNG SCIENTIST (master_id: 34724)
+  - YOUTHS' CABINET (master_id: 34725)
+  - ZAR (master_id: 34726)
+  - ZIONS' DAY STAR (master_id: 34727)
+  - Advocate and Family Guar- dian (master_id: 34926)
+  - Alblions (master_id: 34927)
+  - Aldine (master_id: 34928)
+  - American Age (master_id: 34929)
+  - American Agriculturist (master_id: 34930)
+  - American Art Journal (master_id: 34931)
+  - American Bibliopolist (master_id: 34932)
+  - American Bookseller's Guide (master_id: 34933)
+  - American Builder (master_id: 34934)
+  - American Cabinet-Maker (master_id: 34935)
+  - American Chemist (master_id: 34936)
+  - American Church Review (master_id: 34937)
+  - American Garden (master_id: 34938)
+  - American Gas Light Journal and Chemical Repertory (master_id: 34939)
+  - American Grocer (master_id: 34940)
+  - American Journal of Ob- stetrics (master_id: 34941)
+  - American Journal ofMicros- copy (master_id: 34942)
+  - American Law Times and Reports (master_id: 34943)
+  - American Life Assurance Magazine and Journal of Actuaries (master_id: 34944)
+  - American Messenger (master_id: 34945)
+  - American Missionary (master_id: 34946)
+  - American Newspaper Re- porter and Advertiser's Gazette (master_id: 34947)
+  - American Progress (master_id: 34948)
+  - American Railroad Journal (master_id: 34949)
+  - American Stationer (master_id: 34950)
+  - Amerikanische Bierbrauer (master_id: 34951)
+  - Amerikanischer Agricul- turist (master_id: 34952)
+  - Amerikanischer Botschafter (master_id: 34953)
+  - Animal Kingdom (master_id: 34954)
+  - Anthony's Photographic Bulletin (master_id: 34955)
+  - Appleton's Journal (master_id: 34956)
+  - Appleton's Railway and Steam Navigation Guide (master_id: 34957)
+  - Arcadian (master_id: 34958)
+  - Atlantische Blaetter und New Yorker Kladderadatsch (master_id: 34959)
+  - Atlas (master_id: 34960)
+  - Bankers' Magazine (master_id: 34961)
+  - Baptist Weekly (master_id: 34962)
+  - Bee Keeper's Magazine (master_id: 34963)
+  - Beobachter am Hudson (master_id: 34964)
+  - Bible Society Record (master_id: 34965)
+  - Bonfort's Wine and Liquor Circular (master_id: 34966)
+  - Boyd's Shipping Gazette and Travelers' Guide (master_id: 34967)
+  - Boys of the World (master_id: 34968)
+  - Boys ofNew York (master_id: 34969)
+  - Bulletin (master_id: 34970)
+  - Bulletin and Auction Ke- cord (master_id: 34971)
+  - Bulletin of the Hours of Closing the Foreign Mails (master_id: 34972)
+  - Carpet Trade (master_id: 34973)
+  - Carpet Trade Review (master_id: 34974)
+  - Carrier Dove (master_id: 34975)
+  - Catholic Book News (master_id: 34976)
+  - Catholic Review (master_id: 34977)
+  - Catholic World (master_id: 34978)
+  - Child's Paper (master_id: 34979)
+  - Childs World (master_id: 34980)
+  - Chimney Corner (master_id: 34981)
+  - Christian Advocate (master_id: 34982)
+  - Christian Leader (master_id: 34983)
+  - Christian Union (master_id: 34984)
+  - Christian World (master_id: 34985)
+  - Christian at Work (master_id: 34986)
+  - Chronicle (master_id: 34987)
+  - Church Gazette (master_id: 34988)
+  - Church Journal and Gospel Messenger (master_id: 34989)
+  - Churchman (master_id: 34990)
+  - Chureh Unions (master_id: 34991)
+  - City Record (master_id: 34992)
+  - Clipper (master_id: 34993)
+  - Clothier and Hatter (master_id: 34994)
+  - Coal Trade Journal (master_id: 34995)
+  - Commercial Advertiser (master_id: 34996)
+  - Commercial Bulletin (master_id: 34997)
+  - Commercial Pathfinder (master_id: 34998)
+  - Commercial and Financial Chronicle (master_id: 34999)
+  - Confectioner (master_id: 35000)
+  - Corner Stone (master_id: 35001)
+  - Counting-House Monitor (master_id: 35002)
+  - Courier (master_id: 35003)
+  - Courrier des Etats-Unis (master_id: 35004)
+  - Cricket on the Hearth (master_id: 35005)
+  - Critic (master_id: 35006)
+  - Crockery and Glass Journal (master_id: 35007)
+  - Cutters' Monthly Journal of American Fashions (master_id: 35008)
+  - Daily Star (master_id: 35009)
+  - Day-Book (master_id: 35010)
+  - Delineator (master_id: 35011)
+  - Democrat (master_id: 35012)
+  - Democratic Alliance (master_id: 35013)
+  - Demorest's Illustrated Monthly (master_id: 35014)
+  - Dental Cosmos (master_id: 35015)
+  - Der Freischutz (master_id: 35016)
+  - Deutsch-Amerikanische Gewerbe und Industrie Zeitung (master_id: 35017)
+  - Deutsch-Amerikanische Wein Zeitung (master_id: 35018)
+  - Deutscher Volksfreund (master_id: 35019)
+  - Die Welt (master_id: 35020)
+  - Digest (master_id: 35021)
+  - Dispatch (master_id: 35022)
+  - Dramatic World (master_id: 35023)
+  - Druggists' Advertiser (master_id: 35024)
+  - Druggists' Circular and Chemical Gazette (master_id: 35025)
+  - Druggists' Journal (master_id: 35026)
+  - Dry Goods Journal (master_id: 35027)
+  - Echo (master_id: 35028)
+  - Eclectic Magazine (master_id: 35029)
+  - El Ateneo (master_id: 35030)
+  - El Comercio (master_id: 35031)
+  - El Cronista (master_id: 35032)
+  - El Educador Popular (master_id: 35033)
+  - El Espejo (master_id: 35034)
+  - Engineering and Mining Journal (master_id: 35035)
+  - Episcopal Recorder (master_id: 35036)
+  - Era (master_id: 35037)
+  - Evangelist (master_id: 35038)
+  - Evening Express (master_id: 35039)
+  - Evening Mail (master_id: 35040)
+  - Evening Post (master_id: 35041)
+  - Evening Telegram (master_id: 35042)
+  - Examiner and Chronicle (master_id: 35043)
+  - Express (master_id: 35044)
+  - Family Journal (master_id: 35045)
+  - Family Story Paper (master_id: 35046)
+  - Far, Fin and Feather (master_id: 35047)
+  - Financial Record and In- vestor's Manual (master_id: 35048)
+  - Financial Report (master_id: 35049)
+  - Financier (master_id: 35050)
+  - Fire Record (master_id: 35051)
+  - Fireside Companion (master_id: 35052)
+  - Foreign Missionary (master_id: 35053)
+  - Forest and Stream (master_id: 35054)
+  - Fortschritt (master_id: 35055)
+  - Frank Leslie's Boys ofAmer- ica (master_id: 35056)
+  - Frank Leslie's Boys' and Girls' Weekly (master_id: 35057)
+  - Frank Leslie's Budget of Fun (master_id: 35058)
+  - Frank Leslie's Illustrated Newspaper (master_id: 35059)
+  - Frank Leslie's Illustrirte Zeitung (master_id: 35060)
+  - Frank Leslie's Lady's Jour- nal (master_id: 35061)
+  - Frank Leslie's Lady's Mag- azine (master_id: 35062)
+  - Frank Leslie's Popular Monthly (master_id: 35063)
+  - Freeman's Journal and Cath- olic Register (master_id: 35064)
+  - Galaxy (master_id: 35065)
+  - Germania (master_id: 35066)
+  - Girls and Boys of America (master_id: 35067)
+  - Globe (master_id: 35068)
+  - Graphic (master_id: 35069)
+  - Grocer (master_id: 35070)
+  - Grocers' Price Current (master_id: 35071)
+  - Guardian (master_id: 35072)
+  - Guide to Holiness (master_id: 35073)
+  - Guiding Star (master_id: 35074)
+  - Hall's Journal of Health (master_id: 35075)
+  - Handels Zeitung (master_id: 35076)
+  - Happy Hours (master_id: 35077)
+  - Hardware Price Current (master_id: 35078)
+  - Harness and Carriage Jour- nal (master_id: 35079)
+  - Harper's Bazar (master_id: 35080)
+  - Harper's Weekly (master_id: 35081)
+  - Hat, Cap and Fur Trade Ke- view (master_id: 35082)
+  - Haus und Herd (master_id: 35083)
+  - Heart and Hand (master_id: 35084)
+  - Hebrew Leader (master_id: 35085)
+  - Herald (master_id: 35086)
+  - Herald of Health (master_id: 35087)
+  - Home Journals (master_id: 35088)
+  - Home Missionary (master_id: 35089)
+  - Housekeeper (master_id: 35090)
+  - Hub (master_id: 35091)
+  - Illustrated Christian Weekly (master_id: 35092)
+  - Illustrated Weekly (master_id: 35093)
+  - Independents (master_id: 35094)
+  - Insurance Age (master_id: 35095)
+  - Insurance Law Journal (master_id: 35096)
+  - Insurance Monitor (master_id: 35097)
+  - Insurance Times (master_id: 35098)
+  - Insurance and Real Estate Journal (master_id: 35099)
+  - Internal Revenue Record and Customs Journal (master_id: 35100)
+  - Irish American (master_id: 35101)
+  - Irish Democrat (master_id: 35102)
+  - Irish World (master_id: 35103)
+  - Iron Ages (master_id: 35104)
+  - Jeweler's Circular and HorologicalReview (master_id: 35105)
+  - Jewish Gazette (master_id: 35106)
+  - Jewish Messengers (master_id: 35107)
+  - Johnston's Dental Miscel- lany (master_id: 35108)
+  - Journal of Commerce (master_id: 35109)
+  - Journal of the Telegraph (master_id: 35110)
+  - Kind Words (master_id: 35111)
+  - La Creme de la Creme (master_id: 35112)
+  - La Independencia (master_id: 35113)
+  - Ladies' Floral Cabinet and Pictorial Home Companion (master_id: 35114)
+  - Law and Equity Reporter (master_id: 35115)
+  - Le Messager Franco-Amer- icain (master_id: 35116)
+  - Ledger (master_id: 35117)
+  - Little Gem and Young Folks ' Favorite (master_id: 35118)
+  - Little Wanderer's Friend (master_id: 35119)
+  - Local Reporter (master_id: 35120)
+  - Lutherische Herold (master_id: 35121)
+  - Mackey's A. B. C. Guide (master_id: 35122)
+  - Mackey's Office Directory (master_id: 35123)
+  - Mail (master_id: 35124)
+  - Manufacturer and Builder (master_id: 35125)
+  - Manufacturers' Review and Industrial Record (master_id: 35126)
+  - Maritime Register (master_id: 35127)
+  - Matrimonial Advertiser (master_id: 35128)
+  - Medical Eclectic (master_id: 35129)
+  - Medical Gazette (master_id: 35130)
+  - Medical Journal (master_id: 35131)
+  - Medical Record (master_id: 35132)
+  - Mercantile Journal (master_id: 35133)
+  - Mercury (master_id: 35134)
+  - Merry Masker (master_id: 35135)
+  - Metal Worker (master_id: 35136)
+  - Methodist (master_id: 35137)
+  - Metropolitan (master_id: 35138)
+  - Miller's Journal (master_id: 35139)
+  - Millinery Trade Review (master_id: 35140)
+  - Mirror (master_id: 35141)
+  - Mirror of Fashion (master_id: 35142)
+  - Monthly Record of the Five Points House of Industry (master_id: 35143)
+  - Moore's Rural New Yorker (master_id: 35144)
+  - Morning (master_id: 35145)
+  - Morning Light (master_id: 35146)
+  - Mothers' Magazine (master_id: 35147)
+  - Munson's Phonographic News (master_id: 35148)
+  - Music Trade Review (master_id: 35149)
+  - Musical Monitor (master_id: 35150)
+  - Nachrichten aus Deutschland undder Schweiz (master_id: 35151)
+  - Nation (master_id: 35152)
+  - National Agriculturist and Working Farmer (master_id: 35153)
+  - National Car-Builder (master_id: 35154)
+  - National Journal (master_id: 35155)
+  - National Review (master_id: 35156)
+  - National Temperance Advo- cate (master_id: 35157)
+  - Nautical Gazette (master_id: 35158)
+  - New Jerusalem Messenger (master_id: 35159)
+  - New Remedies (master_id: 35160)
+  - New Yorker Journal (master_id: 35161)
+  - New Yorker Musik Zeitung (master_id: 35162)
+  - New Yorker Tages-Nach- richten (master_id: 35163)
+  - News (master_id: 35164)
+  - Norden (master_id: 35165)
+  - Nordstjernan (master_id: 35166)
+  - Normal Class (master_id: 35167)
+  - Northern Messenger (master_id: 35168)
+  - Notions and Fancy Goods Record (master_id: 35169)
+  - Novo Mundo (master_id: 35170)
+  - Observer (master_id: 35171)
+  - Oil, Paint and Drug Re- porter (master_id: 35172)
+  - Operator (master_id: 35173)
+  - Orpheus (master_id: 35174)
+  - Our Messenger (master_id: 35175)
+  - Painters' Magazine (master_id: 35176)
+  - Paper Trade Journal (master_id: 35177)
+  - Paper Trade Reporter (master_id: 35178)
+  - Parish Visitor (master_id: 35179)
+  - Patent Right Gazette (master_id: 35180)
+  - People's Pulpit (master_id: 35181)
+  - Peters' Parlor Music (master_id: 35182)
+  - Plymouth Pulpits (master_id: 35183)
+  - Presbyterian (master_id: 35184)
+  - Progress (master_id: 35185)
+  - Public (master_id: 35186)
+  - Publishers' Weekly (master_id: 35187)
+  - Railroad Gazette (master_id: 35188)
+  - Real Estate Record and Builders' Guide (master_id: 35189)
+  - Record of the Year (master_id: 35190)
+  - Register (master_id: 35191)
+  - Register of the American Church Missionary Society (master_id: 35192)
+  - Republican (master_id: 35193)
+  - Revolutions (master_id: 35194)
+  - Rod and Gun (master_id: 35195)
+  - Round Table (master_id: 35196)
+  - Safeguard (master_id: 35197)
+  - Sailor's Magazine and Sea- man's Friend (master_id: 35198)
+  - Sanitarian (master_id: 35199)
+  - Saturday Star Journal (master_id: 35200)
+  - Schnedderedengg (master_id: 35201)
+  - Scientific American (master_id: 35202)
+  - Scotsman and Caledonian Advertiser (master_id: 35203)
+  - Scottish American Journal (master_id: 35204)
+  - Scribner's Monthly (master_id: 35205)
+  - Season (master_id: 35206)
+  - Sewing Machine Journal (master_id: 35207)
+  - Sheldon's Dry Goods Price List (master_id: 35208)
+  - Sheltering Arms (master_id: 35209)
+  - Shipping and Commercial List and Price-Current (master_id: 35210)
+  - Shoe and Leather Reporter (master_id: 35211)
+  - Society Journal (master_id: 35212)
+  - Sonntags Nachrichten (master_id: 35213)
+  - South (master_id: 35214)
+  - Sower and Gospel Field (master_id: 35215)
+  - Spectator (master_id: 35216)
+  - Spirit of Missions (master_id: 35217)
+  - Spirit of the Times (master_id: 35218)
+  - Sportsman (master_id: 35219)
+  - Staats-Zeitung (master_id: 35220)
+  - Standard (master_id: 35221)
+  - Star (master_id: 35222)
+  - Stockholders (master_id: 35223)
+  - Students ' Journal (master_id: 35224)
+  - Sun (master_id: 35225)
+  - Sunday Citizen (master_id: 35226)
+  - Sunday Democrat (master_id: 35227)
+  - Sunday Mercury, (master_id: 35228)
+  - Sunday News (master_id: 35229)
+  - Sunday School Advocate (master_id: 35230)
+  - Sunday School Journal (master_id: 35231)
+  - Sunday Star (master_id: 35232)
+  - Sunday Times and Noah's Weekly Messenger (master_id: 35233)
+  - Tablet (master_id: 35234)
+  - Telegrapher (master_id: 35235)
+  - Temperance Magazine and Home Gem (master_id: 35236)
+  - Texas New Yorker (master_id: 35237)
+  - Thompson's Bank Note and Commercial Reporter (master_id: 35238)
+  - Times (master_id: 35239)
+  - Tobacco Leaf (master_id: 35240)
+  - Trade Bureau (master_id: 35241)
+  - Trade Journal (master_id: 35242)
+  - Trade Reporter (master_id: 35243)
+  - Treasure Trove (master_id: 35244)
+  - Tribune (master_id: 35245)
+  - Truth Seeker (master_id: 35246)
+  - Turf, Field and Farm (master_id: 35247)
+  - Typographic Messenger (master_id: 35248)
+  - Underwriter (master_id: 35249)
+  - Underwriter and General Joint Stock Register (master_id: 35250)
+  - Union (master_id: 35251)
+  - Union in Christ (master_id: 35252)
+  - United States Counterfeit Detector (master_id: 35253)
+  - United States Economist and Dry Goods Reporter (master_id: 35254)
+  - United States Official Postal Guide (master_id: 35255)
+  - Van Nostrand's Eclectic En- gineering Magazine (master_id: 35256)
+  - Vindicator (master_id: 35257)
+  - Voice from the OldBrewery (master_id: 35258)
+  - Wall Street Journal (master_id: 35259)
+  - Watchmaker and Jeweler (master_id: 35260)
+  - Weekly (master_id: 35261)
+  - Wild Oats (master_id: 35262)
+  - Wine and Fruit Reporter (master_id: 35263)
+  - Witness (master_id: 35264)
+  - Wood's Household Magazine (master_id: 35265)
+  - Working Church (master_id: 35266)
+  - World (master_id: 35267)
+  - Young Catholic (master_id: 35268)
+  - Young Christian Soldier (master_id: 35269)
+  - Youth's Temperance Banner (master_id: 35270)
+
+--- Entry 135 ---
+Name:  democratic enquirer
+Town:  m&#39;arthur
+State: Ohio
+ISSN:  2330-6203
+LCCN:  sn86079037
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 136 ---
+Name:  the warner weekly sun
+Town:  warner
+State: South Dakota
+ISSN:  2766-8185
+LCCN:  sn2001063566
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 137 ---
+Name:  wyandot county republican
+Town:  upper sandusky
+State: Ohio
+ISSN:  2379-3082
+LCCN:  sn85038238
+Town found in master: Yes
+Master candidates in town:
+  - CHIEF (master_id: 38972)
+  - WYANDOT UNION (master_id: 38973)
+  - WYWANDOT WYANDOT UNION (master_id: 38974)
+  - Wyandot Co. Repub- lican (master_id: 38985)
+  - Wyandot Democratic Union (master_id: 38986)
+
+--- Entry 138 ---
+Name:  the grenada gazette
+Town:  grenada
+State: MISS
+ISSN:  2575-4688
+LCCN:  sn88067090
+Town found in master: Yes
+Master candidates in town:
+  - ADVERTISER (master_id: 26835)
+  - COPIAHAN (master_id: 26836)
+  - HERALD (master_id: 26837)
+  - NEW SOUTH (master_id: 26838)
+  - SEA SHORE GAZETTE (master_id: 26839)
+  - Sentinel (master_id: 26840)
+
+--- Entry 139 ---
+Name:  madison times
+Town:  tallulah
+State: Louisiana
+ISSN:  2166-7985
+LCCN:  sn88064405
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 140 ---
+Name:  the wilmingtonian
+Town:  wilmington
+State: DEL
+ISSN:  2639-6289
+LCCN:  sn88053098
+Town found in master: Yes
+Master candidates in town:
+  - DELAWARE GAZETTE AND STATE JOURNAL (master_id: 11477)
+  - DELAWARE MORNING NEWS (master_id: 11478)
+  - DELAWARE PROHIBITIONIST (master_id: 11479)
+  - EVERY AND COMEVENING MERCIAL (master_id: 11480)
+  - EVERY EVENING AND COMMERCIAL (master_id: 11481)
+  - FREIE PRESSE (master_id: 11482)
+  - G G. SUNDAY TELEGRAM (master_id: 11483)
+  - GAZETTE (master_id: 11484)
+  - H. MORNING NEWS (master_id: 11485)
+  - J. CONFERENCE WORKER (master_id: 11486)
+  - JJ. CONFERENCE STANDARD (master_id: 11487)
+  - K. GAZETTE (master_id: 11488)
+  - PENINSULA METHODIST (master_id: 11489)
+  - PENINSULAR TRADE RECORD (master_id: 11490)
+  - SUNDAY DISPATCH (master_id: 11491)
+  - SUNDAY MORNING STAR (master_id: 11492)
+  - TIMES (master_id: 11493)
+  - WILMINGTONIAN (master_id: 11494)
+  - WORKER (master_id: 11495)
+  - Commercial (master_id: 11496)
+  - Delaware Gazette (master_id: 11497)
+  - Delaware Pioneer (master_id: 11498)
+  - Delaware Republican (master_id: 11499)
+  - Delaware State Journal (master_id: 11500)
+  - Delaware Tribune (master_id: 11501)
+  - Every Evening (master_id: 11502)
+  - Harkness ' Magazine (master_id: 11503)
+  - Morning Herald (master_id: 11504)
+  - Republican (master_id: 11505)
+  - Sunday School Worker (master_id: 11506)
+
+--- Entry 141 ---
+Name:  the delta independent
+Town:  delta
+State: COLO
+ISSN:  2578-2665
+LCCN:  sn86063206
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 142 ---
+Name:  the clifton clarion
+Town:  clifton
+State: arizona
+ISSN:  2375-0200
+LCCN:  sn94050557
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 143 ---
+Name:  the prison mirror
+Town:  stillwater
+State: MINN
+ISSN:  2694-4847
+LCCN:  sn86063465
+Town found in master: Yes
+Master candidates in town:
+  - CARLTON CO . JOURNAL OF EDUCATION (master_id: 26585)
+  - EVENING GAZETTE (master_id: 26586)
+  - JOURNAL (master_id: 26587)
+  - SAINT CROIX THAL -BOTE (master_id: 26588)
+  - ST . CROIX POST (master_id: 26589)
+  - SUN (master_id: 26590)
+  - Gazette (master_id: 26597)
+  - Lumberman (master_id: 26598)
+  - Messenger (master_id: 26599)
+
+--- Entry 144 ---
+Name:  workmen&#39;s advocate
+Town:  new haven
+State: CONN
+ISSN:  2643-6329
+LCCN:  sn90065027
+Town found in master: Yes
+Master candidates in town:
+  - ADVERTISER (master_id: 10626)
+  - AND LOOMIS' MASONIC MUSICAL JOURNAL (master_id: 10627)
+  - BEACON (master_id: 10628)
+  - CONNECTICUT BOTSCHAFTER (master_id: 10629)
+  - CRESCENT (master_id: 10630)
+  - EDUCATOR (master_id: 10631)
+  - ELM CITY PILOT (master_id: 10632)
+  - EXAMINER (master_id: 10633)
+  - FREE PRESS (master_id: 10634)
+  - G. YALE NEWS (master_id: 10635)
+  - H. MORNING NEWS (master_id: 10636)
+  - HERALD AND JOURNAL (master_id: 10637)
+  - HOME CHEER (master_id: 10638)
+  - HOME WORLD (master_id: 10639)
+  - HUBBARD'S NEWSPAPER ADVERTISER (master_id: 10640)
+  - J. A. O. H. RECORD (master_id: 10641)
+  - J. CRITIC (master_id: 10642)
+  - J. HIBERNIAN RECORD (master_id: 10643)
+  - JL. HUBBARD'S PRINTER-ADVERTISER (master_id: 10644)
+  - MORNING JOURNAL AND COURIER (master_id: 10645)
+  - MUSICAL AND LOOMIS' SONIC JOURNAL (master_id: 10646)
+  - NEW ENGLAND ANZEIGER (master_id: 10647)
+  - NEW ENGLAND PROTEST (master_id: 10648)
+  - NEW ENGLAND RAILWAY GUIDE (master_id: 10649)
+  - NING REGISTER (master_id: 10650)
+  - PHONOGRAPHER (master_id: 10651)
+  - REPUBLIKANER (master_id: 10652)
+  - REVEILLE (master_id: 10653)
+  - SEA WORLD (master_id: 10654)
+  - SEA WORLD AND FISHING GAZETTE (master_id: 10655)
+  - SHORE LINE TIMES (master_id: 10656)
+  - American Journal of Sci- ence and Arts (master_id: 10695)
+  - Columbian Register (master_id: 10696)
+  - Connecticut Herald and Journal (master_id: 10697)
+  - Connecticut Republikaner (master_id: 10698)
+  - Loomis' Musical and Ma- sonic Journal (master_id: 10699)
+  - New Englander (master_id: 10700)
+  - Palladium (master_id: 10701)
+  - Register (master_id: 10702)
+  - Yale Courant (master_id: 10703)
+  - Yale Literary Magazine (master_id: 10704)
+  - Yale Record (master_id: 10705)
+
+--- Entry 145 ---
+Name:  le meschaceìbeì
+Town:  la.
+State: LUCY
+ISSN:  1052-6900
+LCCN:  sn86079080
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 146 ---
+Name:  the western sentinel
+Town:  winston-salem
+State: N.C
+ISSN:  2475-0611
+LCCN:  sn92073232
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 147 ---
+Name:  the canton advocate
+Town:  canton
+State: South Dakota
+ISSN:  2376-3736
+LCCN:  sn83025440
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 148 ---
+Name:  turner county herald
+Town:  hurley
+State: South Dakota
+ISSN:  2473-0459
+LCCN:  sn2001063133
+Town found in master: Yes
+Master candidates in town:
+  - DAKOTA FARMER (master_id: 43123)
+  - DAKOTA HURONITE (master_id: 43124)
+  - HERALD -DEMOCRAT (master_id: 43125)
+  - HURONITE (master_id: 43126)
+  - TIMES (master_id: 43127)
+
+--- Entry 149 ---
+Name:  the lincoln county herald
+Town:  troy
+State: missouri
+ISSN:  2165-722X
+LCCN:  sn90061771
+Town found in master: Yes
+Master candidates in town:
+  - EYE OPENER (master_id: 29068)
+  - HELMET (master_id: 29069)
+  - MILLER CO . AUTOGRAM (master_id: 29070)
+  - MILLER CO. VIDETTE (master_id: 29071)
+  - RECORD (master_id: 29072)
+  - TEMPERANCE ADVOCATE (master_id: 29073)
+  - TRIBUNE (master_id: 29074)
+  - Herald (master_id: 29079)
+
+--- Entry 150 ---
+Name:  bismarck weekly tribune
+Town:  bismarck
+State: N.D
+ISSN:  2330-6041
+LCCN:  sn85042588
+Town found in master: Yes
+Master candidates in town:
+  - SETTLER (master_id: 36757)
+
+--- Entry 151 ---
+Name:  the laurens advertiser
+Town:  laurens
+State: South Carolina
+ISSN:  2166-9678
+LCCN:  sn93067760
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 152 ---
+Name:  juniata sentinel
+Town:  mifflintown
+State: Pennsylvania
+ISSN:  2333-1518
+LCCN:  sn84026118
+Town found in master: Yes
+Master candidates in town:
+  - J. JUNIATA HERALD (master_id: 40668)
+  - ROWELL & COS JUNIATA TRIBUNE (master_id: 40669)
+  - Democrat and Register (master_id: 40776)
+  - Juniata Sentineland Re- publican (master_id: 40777)
+
+--- Entry 153 ---
+Name:  mccook weekly tribune
+Town:  mccook
+State: NEB
+ISSN:  2157-8133
+LCCN:  sn94056414
+Town found in master: Yes
+Master candidates in town:
+  - CHRONICLE (master_id: 29751)
+
+--- Entry 154 ---
+Name:  the star of pascagoula
+Town:  pascagoula
+State: MISS
+ISSN:  2378-3265
+LCCN:  sn85034469
+Town found in master: Yes
+Master candidates in town:
+  - CALHOUN DEMOCRAT (master_id: 27035)
+  - Star of Pascagoula (master_id: 27056)
+
+--- Entry 155 ---
+Name:  the sweetwater enterprise
+Town:  sweetwater
+State: TENN
+ISSN:  2333-3030
+LCCN:  sn89058302
+Town found in master: Yes
+Master candidates in town:
+  - HIWASSEE COLLEGE REPORTER (master_id: 43793)
+  - MONROE DEMOCRAT (master_id: 43794)
+  - NEWS (master_id: 43795)
+  - NOLAN CO . RECORD (master_id: 44943)
+  - TEXAN (master_id: 44944)
+
+--- Entry 156 ---
+Name:  fergus county argus
+Town:  lewistown
+State: MONT
+ISSN:  2332-757X
+LCCN:  sn84036228
+Town found in master: Yes
+Master candidates in town:
+  - Gazette (master_id: 21974)
+
+--- Entry 157 ---
+Name:  the daily telegraph
+Town:  monroe
+State: Louisiana
+ISSN:  2163-6621
+LCCN:  sn88064499
+Town found in master: Yes
+Master candidates in town:
+  - ATTAKAPAS REGISTER (master_id: 21629)
+  - BULLETIN (master_id: 21630)
+  - FREE PRESS (master_id: 21631)
+  - INTELLIGENCER (master_id: 21632)
+  - KK. ST . MARY REVIEW (master_id: 21633)
+  - OBSERVER (master_id: 21634)
+  - PAS REGISTER (master_id: 21635)
+  - PIONEER OF ASSUMPTION (master_id: 21636)
+  - REVIEW (master_id: 21637)
+  - American Journal of Educa- tion (master_id: 21641)
+  - Ouachita Telegraph (master_id: 21642)
+
+--- Entry 158 ---
+Name:  the states and union
+Town:  ashland
+State: Ohio
+ISSN:  2372-2819
+LCCN:  sn83035174
+Town found in master: Yes
+Master candidates in town:
+  - BRETHREN'S EVANGELIST (master_id: 36884)
+  - NATIONAL POULTRY MONITOR (master_id: 36885)
+  - PROGRESSIVE CHRISTIAN (master_id: 36886)
+  - Press (master_id: 36920)
+  - MORNING ASTORIAN (master_id: 39248)
+  - PIONEER (master_id: 39249)
+  - TIDINGS (master_id: 39250)
+  - UNSI KOTIMAA (master_id: 39251)
+  - VALLEY RECORD (master_id: 39252)
+
+--- Entry 159 ---
+Name:  sturgis advertiser
+Town:  sturgis
+State: South Dakota
+ISSN:  2689-629X
+LCCN:  sn97065761
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 160 ---
+Name:  daily tombstone epitaph
+Town:  tombstone
+State: arizona
+ISSN:  2157-8028
+LCCN:  sn96060682
+Town found in master: Yes
+Master candidates in town:
+  - AND REPUBLICAN (master_id: 8101)
+  - COCHISE RECORD (master_id: 8102)
+  - INDEPENDENT (master_id: 8103)
+  - NUGGET (master_id: 8104)
+
+--- Entry 161 ---
+Name:  the black range
+Town:  robinson
+State: N.M
+ISSN:  2378-9956
+LCCN:  sn87090373
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 162 ---
+Name:  white cloud kansas chief
+Town:  white cloud
+State: Kansas
+ISSN:  2158-2599
+LCCN:  sn82015486
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 163 ---
+Name:  the athens post
+Town:  athens
+State: TENN
+ISSN:  2327-8773
+LCCN:  sn84024443
+Town found in master: Yes
+Master candidates in town:
+  - ATHENIAN AND FARMER (master_id: 43191)
+  - ATHENIAN EDUCATOR (master_id: 43192)
+  - CENTRAL STAR (master_id: 43193)
+  - ENTERPRISE (master_id: 43194)
+  - MUSICAL REVIEW (master_id: 43195)
+  - NEWS (master_id: 43196)
+  - POLK CO . NEWS (master_id: 43197)
+  - ATHENIAN (master_id: 43862)
+  - CITIZENS' JOURNAL (master_id: 43863)
+  - NARROW GAUGE (master_id: 43864)
+  - TYLER'S NEWS (master_id: 43865)
+
+--- Entry 164 ---
+Name:  roseburg review
+Town:  roseburg
+State: Oregon
+ISSN:  2470-9026
+LCCN:  sn93051663
+Town found in master: Yes
+Master candidates in town:
+  - DOUGLAS INDEPENDENT (master_id: 39441)
+  - J J. REVIEW (master_id: 39442)
+  - Plaindealer (master_id: 39443)
+
+--- Entry 165 ---
+Name:  raftsman&#39;s journal
+Town:  clearfield
+State: Pennsylvania
+ISSN:  2330-846X
+LCCN:  sn85054616
+Town found in master: Yes
+Master candidates in town:
+  - CITIZEN (master_id: 39856)
+
+--- Entry 166 ---
+Name:  new national era
+Town:  washington
+State: District of Columbia
+ISSN:  2471-6340
+LCCN:  sn84026753
+Town found in master: Yes
+Master candidates in town:
+  - AMERICAN FREEMAN (master_id: 11468)
+  - COMMERCIAL ADVERTISER (master_id: 11469)
+  - CRAFTSMAN (master_id: 11470)
+  - EVENING INTELLIGENCER (master_id: 11471)
+  - G. GRIT (master_id: 11472)
+  - G. HOTEL NEWS (master_id: 11473)
+  - HATCHET (master_id: 11474)
+  - J. AGITATOR (master_id: 11475)
+  - K.K. MORNING SUN (master_id: 11476)
+  - AMERICAN ANNALS OF THE DEAF AND DUMB (master_id: 11576)
+  - AMERICAN GENIUS (master_id: 11577)
+  - AMERICAN WATCHMAN (master_id: 11578)
+  - BEE (master_id: 11579)
+  - CATHOLIC (master_id: 11580)
+  - CLE (master_id: 11581)
+  - CONTRACTOR AND UNITED ADVERTISTATES OFFICIAL SER (master_id: 11582)
+  - EVENING CRITIC (master_id: 11583)
+  - F. UNIONVOLUNTEER (master_id: 11584)
+  - FORNEY'S SUNDAY CHRONICLE (master_id: 11585)
+  - G. POULTRY REVIEW AND STOCK JOURNAL (master_id: 11586)
+  - GG. COMMERCIAL (master_id: 11587)
+  - GG. ROUGH NOTES (master_id: 11588)
+  - GRAND ARMY RECORD (master_id: 11589)
+  - H. NATIONAL MONTHLY (master_id: 11590)
+  - H. SATURDAY ANVIL (master_id: 11591)
+  - H. SUNDAY ITEM (master_id: 11592)
+  - I I. UNITED STATES GAZETTE (master_id: 11593)
+  - I. AMERICA (master_id: 11594)
+  - J. AMERICAN PROTESTANT (master_id: 11595)
+  - J. AMERICAN REGISTER (master_id: 11596)
+  - J. ARMY AND NAVY REGISTER (master_id: 11597)
+  - J. BOARD OF TRADE GAZETTE AND CHAMBER OF COMMERCE JOURNAL (master_id: 11598)
+  - J. COUNCIL FIRE AND ARBITRATOR (master_id: 11599)
+  - J. DEPARTMENTAL REVIEW (master_id: 11600)
+  - J. NATIONAL GAZETTE (master_id: 11601)
+  - K. NATIONAL FREE PRESS (master_id: 11602)
+  - K. NATIONAL WEEKLY (master_id: 11603)
+  - K. ZINE (master_id: 11604)
+  - KK. NATIONAL FARMER (master_id: 11605)
+  - KNIGHTS OF PYTHIAS MAGADE ZINE (master_id: 11606)
+  - NATIONAL MEDICAL REVIEW (master_id: 11607)
+  - NATIONAL TRIBUNE (master_id: 11608)
+  - NATIONAL UNION (master_id: 11609)
+  - NATIONAL VIEW (master_id: 11610)
+  - PEOPLE'S ADVOCATE (master_id: 11611)
+  - REAL ESTATE REVIEW (master_id: 11612)
+  - SCIENTIFIC RECORD (master_id: 11613)
+  - SOLDIER'S TRUE FRIEND (master_id: 11614)
+  - SOVEREIGN BULLETIN (master_id: 11615)
+  - SOVEREIGN HERALD (master_id: 11616)
+  - SUNDAY CHRONICLE (master_id: 11617)
+  - TRUTH (master_id: 11618)
+  - VEDETTE (master_id: 11619)
+  - WOMAN'S WORDS (master_id: 11620)
+  - WORKER AND THINKER (master_id: 11621)
+  - WORLD (master_id: 11622)
+  - WORLD AND CITIZEN SOLDIER (master_id: 11623)
+  - X. NEW SOUTH (master_id: 11624)
+  - African Repository (master_id: 11625)
+  - American Engineer (master_id: 11626)
+  - Capital (master_id: 11627)
+  - Copp's Land Owner (master_id: 11628)
+  - Critic (master_id: 11629)
+  - Der Volks-Tribun (master_id: 11630)
+  - Enquirer (master_id: 11631)
+  - Evening Star (master_id: 11632)
+  - Field and Forest (master_id: 11633)
+  - Forney's Sunday Morn- ing Chronicle (master_id: 11634)
+  - Gazette (master_id: 11635)
+  - Grand Army Journal (master_id: 11636)
+  - Law Reporter (master_id: 11637)
+  - National (master_id: 11638)
+  - National Republican (master_id: 11639)
+  - Official Gazette (master_id: 11640)
+  - Post (master_id: 11641)
+  - Post Office Gazette (master_id: 11642)
+  - Real Estate Record (master_id: 11643)
+  - Republican (master_id: 11644)
+  - Sentinel (master_id: 11645)
+  - Silent World (master_id: 11646)
+  - Sunday Herald (master_id: 11647)
+  - Telegram (master_id: 11648)
+  - United States Record and Gazette (master_id: 11649)
+  - Washingtoner Journal (master_id: 11650)
+
+--- Entry 167 ---
+Name:  the bad lands cow boy
+Town:  little missouri
+State: I.E. N.D
+ISSN:  2470-4547
+LCCN:  sn84024777
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 168 ---
+Name:  delta chief
+Town:  delta
+State: colorado
+ISSN:  2578-2622
+LCCN:  sn86066893
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 169 ---
+Name:  western sentinel
+Town:  winston
+State: I.E. WINSTON-SALEM
+ISSN:  2472-2863
+LCCN:  sn84026526
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 170 ---
+Name:  the conservative
+Town:  m&#39;connelsville
+State: Ohio
+ISSN:  2166-7888
+LCCN:  sn87075001
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 171 ---
+Name:  the phoenix herald
+Town:  phoenix
+State: ARIZ
+ISSN:  2374-5975
+LCCN:  sn87062082
+Town found in master: Yes
+Master candidates in town:
+  - DRILL (master_id: 8079)
+  - EL PROGRESO CATOLICO (master_id: 8080)
+
+--- Entry 172 ---
+Name:  oregon republican
+Town:  dallas
+State: Oregon
+ISSN:  2470-895X
+LCCN:  sn93051636
+Town found in master: Yes
+Master candidates in town:
+  - POLK CO . ITEMIZER (master_id: 39293)
+  - VINDICATOR (master_id: 39294)
+  - Itemizer (master_id: 39305)
+
+--- Entry 173 ---
+Name:  jamestown weekly alert
+Town:  jamestown
+State: N.D
+ISSN:  2332-9998
+LCCN:  sn85042405
+Town found in master: Yes
+Master candidates in town:
+  - COURIER (master_id: 32926)
+  - EVENING JOURNAL (master_id: 32927)
+  - EVERY SATURDAY (master_id: 32928)
+  - I L STANDARD (master_id: 32929)
+  - J. DISTRICT REGISTER (master_id: 32930)
+  - MORNING NEWS (master_id: 32931)
+  - NEWS (master_id: 32932)
+  - OSTERUS VAKTARE (master_id: 32933)
+  - SUN AND STANDARD (master_id: 32934)
+  - WART NYA HEM (master_id: 32935)
+  - Chautauqua Democrat (master_id: 32951)
+  - Democrat (master_id: 32952)
+  - Folkets Rost (master_id: 32953)
+  - Journal (master_id: 32954)
+
+--- Entry 174 ---
+Name:  stevens county tribune
+Town:  morris
+State: MINN
+ISSN:  2694-4928
+LCCN:  sn91059517
+Town found in master: Yes
+Master candidates in town:
+  - SUN (master_id: 26300)
+  - TRIBUNE (master_id: 26301)
+
+--- Entry 175 ---
+Name:  the weekly arizonian
+Town:  tucson
+State: arizona
+ISSN:  2166-207X
+LCCN:  sn84024829
+Town found in master: Yes
+Master candidates in town:
+  - ARIZONA JOURNAL (master_id: 8105)
+  - ARIZONA LIVE STOCK JOURNAL (master_id: 8106)
+  - ARIZONA MINING INDEX (master_id: 8107)
+  - ARIZONA MINING JOURNAL (master_id: 8108)
+  - ARIZONA STAR (master_id: 8109)
+  - EL ECO DE SONORA (master_id: 8110)
+  - EL FRONTERIZO (master_id: 8111)
+  - K. EXPOSITOR (master_id: 8112)
+  - LAS DOS REPUBLICAS (master_id: 8113)
+  - SENTINEL (master_id: 8114)
+  - STAR (master_id: 8115)
+  - SUNSHINE AND SILVER (master_id: 8116)
+  - TAILINGS (master_id: 8117)
+  - Arizona Citizen (master_id: 8118)
+
+--- Entry 176 ---
+Name:  weekly phoenix herald
+Town:  phoenix
+State: ARIZ
+ISSN:  2372-1022
+LCCN:  sn83025459
+Town found in master: Yes
+Master candidates in town:
+  - DRILL (master_id: 8079)
+  - EL PROGRESO CATOLICO (master_id: 8080)
+
+--- Entry 177 ---
+Name:  western appeal
+Town:  saint paul
+State: MINN
+ISSN:  2163-7083
+LCCN:  sn83016811
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 178 ---
+Name:  iuka reporter
+Town:  iuka
+State: MISS
+ISSN:  2765-9429
+LCCN:  sn87065215
+Town found in master: Yes
+Master candidates in town:
+  - CLARION (master_id: 26881)
+  - COSMIC GALE (master_id: 26882)
+  - H. EDUCATIONAL JOURNAL (master_id: 26883)
+  - NEW MISSISSIPPIAN (master_id: 26884)
+  - PEOPLE'S ADVISER (master_id: 26885)
+  - STATE LEDGER (master_id: 26886)
+  - Mirror (master_id: 26887)
+
+--- Entry 179 ---
+Name:  the sully county watchman
+Town:  clifton
+State: South Dakota
+ISSN:  2577-5391
+LCCN:  sn99062858
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 180 ---
+Name:  the herald
+Town:  big stone city
+State: South Dakota
+ISSN:  2577-3364
+LCCN:  sn00065152
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 181 ---
+Name:  beaufort republican
+Town:  beaufort
+State: South Carolina
+ISSN:  2471-0318
+LCCN:  sn84026857
+Town found in master: Yes
+Master candidates in town:
+  - AND ROYAL TRIBUNE PORT COMMERCIAL (master_id: 42787)
+  - SUNDAY NEWS (master_id: 42788)
+  - TRIBUNE AND PORT ROYAL COMMERCIAL (master_id: 42789)
+
+--- Entry 182 ---
+Name:  the lafayette advertiser
+Town:  vermilionville
+State: I.E. LAFAYETTE
+ISSN:  2329-4205
+LCCN:  sn86079068
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 183 ---
+Name:  felt raabet
+Town:  minneapolis
+State: MINN
+ISSN:  2694-412X
+LCCN:  sn90059904
+Town found in master: Yes
+Master candidates in town:
+  - COMMERCIAL BULLETIN (master_id: 26266)
+  - DEMOCRAT (master_id: 26267)
+  - DIE PRESSE (master_id: 26268)
+  - ECHO DE L'OUEST (master_id: 26269)
+  - EVENING JOURNAL (master_id: 26270)
+  - FARMAND HOME (master_id: 26271)
+  - FARMERS' TRIBUNE (master_id: 26272)
+  - FARMERS' UNION AND TRIBUNE (master_id: 26273)
+  - FF. EVENING NEWS (master_id: 26274)
+  - FF. HERALD (master_id: 26275)
+  - FOLKEBLADET (master_id: 26276)
+  - FREE BAPTIST (master_id: 26277)
+  - FREE FLAG (master_id: 26278)
+  - HOTEL GAZETTE (master_id: 26279)
+  - I. MINNESOTA TRIBUNE (master_id: 26280)
+  - LE PROGRES (master_id: 26281)
+  - LIBERTY BLADE (master_id: 26282)
+  - MARKET REPORTER (master_id: 26283)
+  - MINNESOTA FARMER (master_id: 26284)
+  - MINNESOTA MIRROR (master_id: 26285)
+  - MINNESOTA STATS TIDNING (master_id: 26286)
+  - MIRROR (master_id: 26287)
+  - PIONEER PRESS (master_id: 26288)
+  - TIDNING (master_id: 26289)
+  - Budstikken (master_id: 26313)
+  - Citizen (master_id: 26314)
+  - Freie Presse (master_id: 26315)
+  - Tribune (master_id: 26316)
+
+--- Entry 184 ---
+Name:  emmons county record
+Town:  williamsport
+State: I.E. N.D
+ISSN:  2475-9783
+LCCN:  sn87096040
+Town found in master: Yes
+Master candidates in town:
+  - WABASH COMMERCIAL (master_id: 17429)
+  - Warren Republican (master_id: 17455)
+
+--- Entry 185 ---
+Name:  the elk mountain pilot
+Town:  irwin
+State: (RUBY CAMP
+ISSN:  2641-483X
+LCCN:  sn86063397
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 186 ---
+Name:  the hope pioneer
+Town:  hope
+State: N.D
+ISSN:  2470-5586
+LCCN:  sn87096037
+Town found in master: Yes
+Master candidates in town:
+  - EVENING TRIBUNE (master_id: 32802)
+  - GREENBACK CHAMPION (master_id: 32803)
+  - HERALD (master_id: 32804)
+  - HORNELL TIMES (master_id: 32805)
+  - I I. TIMES (master_id: 32806)
+  - STEUBEN SIGNAL (master_id: 32807)
+  - TRIBUNE (master_id: 32808)
+  - Hamilton Co. Press (master_id: 32854)
+
+--- Entry 187 ---
+Name:  the tribune
+Town:  beaufort
+State: South Carolina
+ISSN:  2471-0504
+LCCN:  sn85042623
+Town found in master: Yes
+Master candidates in town:
+  - AND ROYAL TRIBUNE PORT COMMERCIAL (master_id: 42787)
+  - SUNDAY NEWS (master_id: 42788)
+  - TRIBUNE AND PORT ROYAL COMMERCIAL (master_id: 42789)
+
+--- Entry 188 ---
+Name:  the wahpeton times
+Town:  wahpeton
+State: N.D
+ISSN:  2379-1306
+LCCN:  sn84024779
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 189 ---
+Name:  the teller
+Town:  lewiston
+State: NORTH IDAHO
+ISSN:  2381-1994
+LCCN:  sn82007025
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 190 ---
+Name:  tombstone epitaph
+Town:  tombstone
+State: arizona
+ISSN:  2157-6777
+LCCN:  sn95060905
+Town found in master: Yes
+Master candidates in town:
+  - AND REPUBLICAN (master_id: 8101)
+  - COCHISE RECORD (master_id: 8102)
+  - INDEPENDENT (master_id: 8103)
+  - NUGGET (master_id: 8104)
+
+--- Entry 191 ---
+Name:  the state chronicle
+Town:  raleigh
+State: N.C
+ISSN:  2474-459X
+LCCN:  sn91090200
+Town found in master: Yes
+Master candidates in town:
+  - ADVERTISER (master_id: 36579)
+  - AFRICAN EXPOSITOR (master_id: 36580)
+  - DISPATCH (master_id: 36581)
+  - EVENING VISITOR (master_id: 36582)
+  - G. BANNER (master_id: 36583)
+  - G. BANNER-ENTERPRISE (master_id: 36584)
+  - G. CHRISTIAN SUN (master_id: 36585)
+  - G. CHRONICLE (master_id: 36586)
+  - H. FARMER AND MECHANIC (master_id: 36587)
+  - I. FRIEND AND TEMPLAR (master_id: 36588)
+  - INSURANCE WATCHMAN (master_id: 36589)
+  - J. NEWS AND OBSERVER (master_id: 36590)
+  - J. SUNDAY SCHOOL WORKER (master_id: 36591)
+  - JOURNAL (master_id: 36592)
+  - KK. FARMER (master_id: 36593)
+  - NATIONAL (master_id: 36594)
+  - NORTH CAROLINA FARMER (master_id: 36595)
+  - NORTH CAROLINA GOOD TEMPLAR (master_id: 36596)
+  - NORTH CAROLINA TEACHER (master_id: 36597)
+  - OBSERVER (master_id: 36598)
+  - REGISTER (master_id: 36599)
+  - STATE JOURNAL (master_id: 36600)
+  - Biblical Recorders (master_id: 36621)
+  - Christian Advocate (master_id: 36622)
+  - Era (master_id: 36623)
+  - Friend of Temperance (master_id: 36624)
+  - News (master_id: 36625)
+  - Spirit of the Age (master_id: 36626)
+
+--- Entry 192 ---
+Name:  pokrok zaìpadu
+Town:  omaha
+State: NEB
+ISSN:  2469-2859
+LCCN:  sn83045348
+Town found in master: Yes
+Master candidates in town:
+  - CHURCH GUARDIAN (master_id: 29954)
+  - INDEPENDENT (master_id: 29955)
+  - NEBRASKA FREIE ZEITUNG (master_id: 29956)
+  - WESTERN JOURNAL OF COMMERCE (master_id: 29957)
+  - WESTERN MAGAZINE (master_id: 29958)
+  - WESTERN SCIENCE OF HEALTH (master_id: 29959)
+  - Bee (master_id: 29987)
+  - Danske Pioneer (master_id: 29988)
+  - Folkets Tidning (master_id: 29989)
+  - Herald (master_id: 29990)
+  - High School (master_id: 29991)
+  - Pokrok Zapadu (master_id: 29992)
+  - Post (master_id: 29993)
+  - Republican (master_id: 29994)
+
+--- Entry 193 ---
+Name:  the mccook tribune
+Town:  mccook
+State: NEB
+ISSN:  2157-8141
+LCCN:  sn94056415
+Town found in master: Yes
+Master candidates in town:
+  - CHRONICLE (master_id: 29751)
+
+--- Entry 194 ---
+Name:  bismarck tribune
+Town:  bismarck
+State: N.D
+ISSN:  2330-6009
+LCCN:  sn85042331
+Town found in master: Yes
+Master candidates in town:
+  - SETTLER (master_id: 36757)
+
+--- Entry 195 ---
+Name:  griggs courier
+Town:  cooperstown
+State: N.D
+ISSN:  2475-854X
+LCCN:  sn88076998
+Town found in master: Yes
+Master candidates in town:
+  - LEWIS CO . INDEPENDENT (master_id: 32345)
+  - NEW ERA (master_id: 32346)
+  - NEWS (master_id: 32347)
+  - OTSEGO REPUBLICAN (master_id: 32348)
+  - Freeman's Journal (master_id: 32417)
+  - Republican and Demo- crat (master_id: 32418)
+
+--- Entry 196 ---
+Name:  the mitchell capital
+Town:  mitchell
+State: South Dakota
+ISSN:  2474-1027
+LCCN:  sn2001063112
+Town found in master: Yes
+Master candidates in town:
+  - COURIER JOURNAL (master_id: 43136)
+  - DAVISON CO . GAZETTE (master_id: 43137)
+  - HERALD (master_id: 43138)
+  - PRAIRIE PICAYUNE (master_id: 43139)
+
+--- Entry 197 ---
+Name:  pioneer of assumption
+Town:  napoleonville
+State: Louisiana
+ISSN:  2332-5445
+LCCN:  sn88064275
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 198 ---
+Name:  the hillsdale standard
+Town:  hillsdale
+State: MICH
+ISSN:  2471-9153
+LCCN:  sn85033637
+Town found in master: Yes
+Master candidates in town:
+  - HERALD (master_id: 24969)
+  - J J. COLLEGE HERALD (master_id: 24970)
+  - LEADER (master_id: 24971)
+  - Business (master_id: 24995)
+  - Democrat (master_id: 24996)
+
+--- Entry 199 ---
+Name:  sierra county advocate
+Town:  kingston
+State: N.M
+ISSN:  2572-5718
+LCCN:  sn94057006
+Town found in master: Yes
+Master candidates in town:
+  - SHAFT (master_id: 31558)
+  - GAZETTE (master_id: 32976)
+  - GOLDEN ERA (master_id: 32977)
+  - SUNDAY REVIEW (master_id: 32978)
+  - Argus (master_id: 32983)
+  - Courier (master_id: 32984)
+  - Freeman (master_id: 32985)
+  - Journal (master_id: 32986)
+
+--- Entry 200 ---
+Name:  the louisiana cotton-boll
+Town:  vermilionville
+State: I.E. LAFAYETTE
+ISSN:  2377-8024
+LCCN:  sn86079083
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 201 ---
+Name:  the butte daily miner
+Town:  butte
+State: MONT
+ISSN:  2576-7127
+LCCN:  sn85053095
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 202 ---
+Name:  jamestown alert
+Town:  jamestown
+State: N.D
+ISSN:  2332-9947
+LCCN:  sn85042404
+Town found in master: Yes
+Master candidates in town:
+  - COURIER (master_id: 32926)
+  - EVENING JOURNAL (master_id: 32927)
+  - EVERY SATURDAY (master_id: 32928)
+  - I L STANDARD (master_id: 32929)
+  - J. DISTRICT REGISTER (master_id: 32930)
+  - MORNING NEWS (master_id: 32931)
+  - NEWS (master_id: 32932)
+  - OSTERUS VAKTARE (master_id: 32933)
+  - SUN AND STANDARD (master_id: 32934)
+  - WART NYA HEM (master_id: 32935)
+  - Chautauqua Democrat (master_id: 32951)
+  - Democrat (master_id: 32952)
+  - Folkets Rost (master_id: 32953)
+  - Journal (master_id: 32954)
+
+--- Entry 203 ---
+Name:  the grant county herald
+Town:  big stone city
+State: South Dakota
+ISSN:  2577-3348
+LCCN:  sn00065151
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 204 ---
+Name:  homer guardian
+Town:  homer
+State: Louisiana
+ISSN:  2163-6362
+LCCN:  sn88064119
+Town found in master: Yes
+Master candidates in town:
+  - Blackburn's Homer Iliad (master_id: 21598)
+
+--- Entry 205 ---
+Name:  the windham county reformer
+Town:  battleboro
+State: Vermont
+ISSN:  2473-4136
+LCCN:  sn96086441
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 206 ---
+Name:  fair play
+Town:  sainte genevieve
+State: missouri
+ISSN:  2166-7853
+LCCN:  sn87052181
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 207 ---
+Name:  sugar planter
+Town:  west baton rouge
+State: I.E. PORT ALLEN, WEST BATON ROUGE PARISH, LA
+ISSN:  2374-1856
+LCCN:  sn86079096
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 208 ---
+Name:  the greenville enterprise
+Town:  greenville
+State: South Carolina
+ISSN:  2472-8934
+LCCN:  sn83025799
+Town found in master: Yes
+Master candidates in town:
+  - ADVERTISER (master_id: 42910)
+  - BAPTIST COURIER (master_id: 42911)
+  - CHRONICLE (master_id: 42912)
+  - ENTERPRISE AND MOUNTAINEER (master_id: 42913)
+  - HAMPTON CO . GUARDIAN (master_id: 42914)
+  - NEW SOUTH (master_id: 42915)
+  - STAR (master_id: 42916)
+  - News (master_id: 42921)
+
+--- Entry 209 ---
+Name:  the philipsburg mail
+Town:  philipsburg
+State: MONT
+ISSN:  2329-5503
+LCCN:  sn83025320
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 210 ---
+Name:  skaffaren
+Town:  red wing
+State: MINN
+ISSN:  2640-611X
+LCCN:  sn90059653
+Town found in master: Yes
+Master candidates in town:
+  - ADVANCE (master_id: 26406)
+  - ADVANCE SUN (master_id: 26407)
+  - REDWOOD GAZETTE (master_id: 26408)
+  - REPUBLICAN (master_id: 26409)
+  - REVEILLE (master_id: 26410)
+  - SUN (master_id: 26411)
+  - Argus (master_id: 26431)
+  - Goodhue Co. Republican (master_id: 26432)
+  - Grange Advance (master_id: 26433)
+
+--- Entry 211 ---
+Name:  bismarck weekly tribune
+Town:  bismarck
+State: N.D
+ISSN:  2330-586X
+LCCN:  sn84022129
+Town found in master: Yes
+Master candidates in town:
+  - SETTLER (master_id: 36757)
+
+--- Entry 212 ---
+Name:  watauga democrat
+Town:  boone
+State: N.C
+ISSN:  0745-1903
+LCCN:  sn82007642
+Town found in master: No
+Master candidates in town: (none)
+
+--- Entry 213 ---
+Name:  the rutland weekly globe
+Town:  rutland
+State: Vermont
+ISSN:  2328-3475
+LCCN:  sn84022488
+Town found in master: Yes
+Master candidates in town:
+  - CALEDONIAN (master_id: 45308)
+  - EVENING TELEGRAM (master_id: 45309)
+  - H. DEMOCRAT AND COURIER (master_id: 45310)
+  - HERALD AND GLOBE (master_id: 45311)
+  - INQUIRER (master_id: 45312)
+  - KK. STANDARD (master_id: 45313)
+  - MERCHANT'S HOME VISITOR (master_id: 45314)
+  - MESSENGER (master_id: 45315)
+  - REVIEW (master_id: 45316)
+  - REVIEW -INQUIRER (master_id: 45317)
+  - SUNDAY SENTINEL (master_id: 45318)
+  - VERMONT BAPTIST (master_id: 45319)
+  - VERMONT FARMER (master_id: 45320)
+  - VERMONT JOURNAL (master_id: 45321)
+  - Heralds (master_id: 45322)
+
+--- Entry 214 ---
+Name:  the bismarck tribune
+Town:  bismarck
+State: N.D
+ISSN:  2331-0081
+LCCN:  sn84022127
+Town found in master: Yes
+Master candidates in town:
+  - SETTLER (master_id: 36757)
+
+--- Entry 215 ---
+Name:  sword and shield
+Town:  clinton
+State: MISS
+ISSN:  2575-534X
+LCCN:  sn87065018
+Town found in master: Yes
+Master candidates in town:
+  - AND WAYLAND ENTERPRISE REVIEW (master_id: 23307)
+  - FREEMAN (master_id: 23308)
+  - I. TIMES (master_id: 23309)
+  - JOURNAL OF SPECULATIVE PHILOSOPHY (master_id: 23310)
+  - RECORD (master_id: 23311)
+  - TUFTONIAN (master_id: 23312)
+  - Courant (master_id: 23331)
+  - EVENING STAR (master_id: 24481)
+  - LOCAL (master_id: 24482)
+  - NEWS (master_id: 24483)
+  - REPUBLICAN (master_id: 24484)
+  - SUN (master_id: 24485)
+  - BAPTIST RECORD (master_id: 26753)
+  - EYE (master_id: 27431)
+  - GOOD WAY (master_id: 27432)
+  - I. MESSENGER (master_id: 27433)
+  - Advocate (master_id: 27480)
+  - Bee (master_id: 27481)
+  - Henry Co. Democrat (master_id: 27482)
+
+--- Entry 216 ---
+Name:  the climax
+Town:  richmond
+State: Kentucky
+ISSN:  2151-4445
+LCCN:  sn86069161
+Town found in master: Yes
+Master candidates in town:
+  - TRANSYLVANIA PRESBYTERIAN (master_id: 21463)
+  - Kentucky Registers (master_id: 21470)
+
+--- Entry 217 ---
+Name:  the planters&#39; banner
+Town:  franklin
+State: LOU
+ISSN:  2332-5402
+LCCN:  sn86053688
+Town found in master: Yes
+Master candidates in town:
+  - DE SOTO MONITOR (master_id: 21579)
+  - ENTERPRISE (master_id: 21580)
+  - JEFFERSON SENTINEL (master_id: 21581)
+  - ST . CHARLES HERALD (master_id: 21582)
+  - ST . MARY HERALD (master_id: 21583)
+  - ST. MARY COURANT (master_id: 21584)
+
