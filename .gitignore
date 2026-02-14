@@ -1,2 +1,17 @@
 archive/
 data/
+
+# API Keys and Environment Variables
+.env
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Intermediate processing files
+data/timelines/
+data/api_errors.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
