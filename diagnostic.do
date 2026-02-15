@@ -2,10 +2,13 @@
 * Multi-Treatment DiD — Callaway & Sant'Anna (2021) Staggered Estimator
 * Editor & Publisher Change (Same Year) only
 * Three outcome measures: Y_it, Y_lifecycle, Y_vol
+* Drops treated cohorts with fewer than MIN_COHORT newspapers
 ********************************************************************************
 
 clear all
 set more off
+
+local MIN_COHORT 5
 
 * ── 1. LOAD DATA ─────────────────────────────────────────────────────────────
 import delimited "data/panel_structural_drift.csv", clear
@@ -29,6 +32,29 @@ replace gvar = anchor_year + 1 if is_treated == 1
 
 * Keep only editor+publisher (same year) treated + never-treated controls
 keep if is_both == 1 | is_treated == 0
+
+* ── 3b. DROP SMALL TREATED COHORTS ───────────────────────────────────────────
+* Count unique newspapers per cohort
+bysort gvar newspaper_id: gen _tag = (_n == 1)
+bysort gvar: egen cohort_n = total(_tag)
+drop _tag
+
+display _newline "Cohort sizes before filter:"
+tab gvar if cohort_n > 0 & gvar > 0, sort
+
+* Drop treated cohorts below threshold (keep all controls, gvar==0)
+drop if gvar > 0 & cohort_n < `MIN_COHORT'
+drop cohort_n
+
+display _newline "Remaining treated cohorts:"
+preserve
+bysort gvar newspaper_id: keep if _n == 1
+tab gvar if gvar > 0
+restore
+
+display _newline "Total obs: " _N
+display "Unique newspapers: " 
+codebook newspaper_id, compact
 
 
 ********************************************************************************
@@ -118,7 +144,7 @@ coefplot ///
     ytitle("ATT")                                               ///
     xtitle("Years Relative to Treatment")                       ///
     title("Editor & Publisher Change (Same Year)")              ///
-    subtitle("Callaway & Sant'Anna (2021), DR-IPW")             ///
+    subtitle("Callaway & Sant'Anna (2021), DR-IPW, cohort n≥`MIN_COHORT'") ///
     legend(order(2 4 6) rows(1) size(small) pos(6))             ///
     graphregion(margin(r=2))
 
