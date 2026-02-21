@@ -1,0 +1,45 @@
+Cell 1:
+# === 2-Class Labor Fallback (biased vs neutral) ===
+
+# LABOR_2C_MAP = {'pro_labor': 0, 'anti_labor': 0, 'neutral': 1}
+# train_data = load_json(os.path.join(DATA_DIR, 'labor_train.json'))
+# val_data = load_json(os.path.join(DATA_DIR, 'labor_val.json'))
+# train_df = pd.DataFrame([
+#     {'text': smart_truncate(i['text'], 'labor'), 'label': LABOR_2C_MAP[i['labor_sentiment']]}
+#     for i in train_data if i.get('labor_sentiment') in LABOR_2C_MAP
+# ])
+# val_df = pd.DataFrame([
+#     {'text': smart_truncate(i['text'], 'labor'), 'label': LABOR_2C_MAP[i['labor_sentiment']]}
+#     for i in val_data if i.get('labor_sentiment') in LABOR_2C_MAP
+# ])
+# train_ds = Dataset.from_pandas(train_df).map(tokenize_function, batched=True)
+# val_ds = Dataset.from_pandas(val_df).map(tokenize_function, batched=True)
+# labor_2c = train_and_evaluate(
+#     train_ds, val_ds,
+#     label_map={'biased': 0, 'neutral': 1}, label_names=['biased', 'neutral'],
+#     model_save_dir=os.path.join(MODEL_BASE_DIR, 'labor_stance_model_2class'),
+#     model_display_name='Labor Stance (2-class)', axis='labor',
+# )
+
+Cell 2:
+# === 2-Class Railroad Fallback (biased vs neutral) ===
+
+# RR_2C_MAP = {'optimistic': 0, 'pessimistic': 0, 'neutral': 1}
+# train_data = load_json(os.path.join(DATA_DIR, 'railroad_train.json'))
+# val_data = load_json(os.path.join(DATA_DIR, 'railroad_val.json'))
+# train_df = pd.DataFrame([
+#     {'text': smart_truncate(i['text'], 'railroad'), 'label': RR_2C_MAP[i['railroad_sentiment']]}
+#     for i in train_data if i.get('railroad_sentiment') in RR_2C_MAP
+# ])
+# val_df = pd.DataFrame([
+#     {'text': smart_truncate(i['text'], 'railroad'), 'label': RR_2C_MAP[i['railroad_sentiment']]}
+#     for i in val_data if i.get('railroad_sentiment') in RR_2C_MAP
+# ])
+# train_ds = Dataset.from_pandas(train_df).map(tokenize_function, batched=True)
+# val_ds = Dataset.from_pandas(val_df).map(tokenize_function, batched=True)
+# rr_2c = train_and_evaluate(
+#     train_ds, val_ds,
+#     label_map={'biased': 0, 'neutral': 1}, label_names=['biased', 'neutral'],
+#     model_save_dir=os.path.join(MODEL_BASE_DIR, 'railroad_outlook_model_2class'),
+#     model_display_name='Railroad Outlook (2-class)', axis='railroad',
+# )
