@@ -2,7 +2,7 @@
 A Python-based research project analyzing the financial interests of American newspaper owners during the Gilded Age (1870-1890).
 ## Project Overview
 This repository contains code and analysis for investigating the economic ties and financial interests of newspaper proprietors in late 19th-century America. The project combines historical data sources with modern computational methods to explore questions about media ownership and potential conflicts of interest during this formative period in American journalism.
-**Status:** Work in progress (as of February 10, 2026)
+**Status:** Work in progress (as of February 20, 2026)
 ## Current Components
 ### Data Collection
 - **Newspaper Directory Scraping**: Code for extracting information from historical newspaper directories
