@@ -1,0 +1,146 @@
+============================================================
+Whitelaw Reid (rid=1) — states=['New York'], dates=1868–1917
+  Variants: []
+  Results: 36 pages found
+    financial: 35
+    obituary: 1
+  - [obituary  ] 1899-01-03   Image 12 of New York journal and advertiser (New York [N.Y.]
+    https://www.loc.gov/resource/sn83030180/1899-01-03/ed-1/?sp=12&q=Whitelaw+Reid~2+died+obituary
+  - [financial ] 1897-08-04   Image 6 of The sun (New York [N.Y.]), August 4, 1897
+    https://www.loc.gov/resource/sn83030272/1897-08-04/ed-1/?sp=6&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1908-06-21   Image 5 of The sun (New York [N.Y.]), June 21, 1908
+    https://www.loc.gov/resource/sn83030272/1908-06-21/ed-1/?sp=5&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1907-01-30   Image 1 of The sun (New York [N.Y.]), January 30, 1907
+    https://www.loc.gov/resource/sn83030272/1907-01-30/ed-1/?sp=1&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1908-04-12   Image 9 of The sun (New York [N.Y.]), April 12, 1908
+    https://www.loc.gov/resource/sn83030272/1908-04-12/ed-1/?sp=9&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1907-07-07   Image 7 of The sun (New York [N.Y.]), July 7, 1907
+    https://www.loc.gov/resource/sn83030272/1907-07-07/ed-1/?sp=7&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1906-04-24   Image 6 of The sun (New York [N.Y.]), April 24, 1906
+    https://www.loc.gov/resource/sn83030272/1906-04-24/ed-1/?sp=6&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1908-01-12   Image 9 of The sun (New York [N.Y.]), January 12, 1908
+    https://www.loc.gov/resource/sn83030272/1908-01-12/ed-1/?sp=9&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1906-12-24   Image 2 of The sun (New York [N.Y.]), December 24, 1906
+    https://www.loc.gov/resource/sn83030272/1906-12-24/ed-1/?sp=2&q=Whitelaw+Reid~2+railroad+director
+  - [financial ] 1889-03-06   Image 1 of The evening world (New York, N.Y.), March 6, 1889
+    https://www.loc.gov/resource/sn83030193/1889-03-06/ed-2/?sp=1&q=Whitelaw+Reid~2+railroad+director
+  ... and 26 more
+
+============================================================
+Charles A. Dana (rid=2) — states=['New York'], dates=1864–1886
+  Variants: ['George Ripley', 'Bayard Taylor', 'Henry J. Raymond', 'Horace Greeley', 'Margaret Fuller']
+  Results: 191 pages found
+    financial: 91
+    variant:Bayard Taylor: 50
+    variant:George Ripley: 50
+  - [financial ] 1869-11-23   Image 3 of New-York tribune (New York [N.Y.]), November 23, 
+    https://www.loc.gov/resource/sn83030214/1869-11-23/ed-1/?sp=3&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1867-11-28   Image 7 of New-York tribune (New York [N.Y.]), November 28, 
+    https://www.loc.gov/resource/sn83030214/1867-11-28/ed-1/?sp=7&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1867-12-07   Image 7 of New-York tribune (New York [N.Y.]), December 7, 1
+    https://www.loc.gov/resource/sn83030214/1867-12-07/ed-1/?sp=7&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1868-08-12   Image 6 of New-York tribune (New York [N.Y.]), August 12, 18
+    https://www.loc.gov/resource/sn83030214/1868-08-12/ed-1/?sp=6&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1868-09-16   Image 6 of New-York tribune (New York [N.Y.]), September 16,
+    https://www.loc.gov/resource/sn83030214/1868-09-16/ed-1/?sp=6&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1867-12-26   Image 7 of New-York tribune (New York [N.Y.]), December 26, 
+    https://www.loc.gov/resource/sn83030214/1867-12-26/ed-1/?sp=7&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1867-11-23   Image 7 of New-York tribune (New York [N.Y.]), November 23, 
+    https://www.loc.gov/resource/sn83030214/1867-11-23/ed-1/?sp=7&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1872-03-07   Image 7 of New-York tribune (New York [N.Y.]), March 7, 1872
+    https://www.loc.gov/resource/sn83030214/1872-03-07/ed-1/?sp=7&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1866-11-13   Image 7 of New-York tribune (New York [N.Y.]), November 13, 
+    https://www.loc.gov/resource/sn83030214/1866-11-13/ed-1/?sp=7&q=Charles+A.+Dana~2+railroad+director
+  - [financial ] 1867-12-14   Image 7 of New-York tribune (New York [N.Y.]), December 14, 
+    https://www.loc.gov/resource/sn83030214/1867-12-14/ed-1/?sp=7&q=Charles+A.+Dana~2+railroad+director
+  ... and 181 more
+
+============================================================
+George Ripley (rid=3) — states=['New York'], dates=1864–1885
+  Variants: ['Charles A. Dana', 'Bayard Taylor', 'Henry J. Raymond', 'Horace Greeley', 'Margaret Fuller']
+  Results: 200 pages found
+    broad: 50
+    variant:Bayard Taylor: 50
+    variant:Charles A. Dana: 50
+    variant:Henry J. Raymond: 50
+  - [broad     ] 1880-07-08   Image 5 of New-York tribune (New York [N.Y.]), July 8, 1880
+    https://www.loc.gov/resource/sn83030214/1880-07-08/ed-1/?sp=5&q=George+Ripley
+  - [broad     ] 1880-08-08   Image 8 of New-York tribune (New York [N.Y.]), August 8, 188
+    https://www.loc.gov/resource/sn83030214/1880-08-08/ed-1/?sp=8&q=George+Ripley
+  - [broad     ] 1880-07-07   Image 5 of New-York tribune (New York [N.Y.]), July 7, 1880
+    https://www.loc.gov/resource/sn83030214/1880-07-07/ed-1/?sp=5&q=George+Ripley
+  - [broad     ] 1880-07-05   Image 1 of New-York tribune (New York [N.Y.]), July 5, 1880
+    https://www.loc.gov/resource/sn83030214/1880-07-05/ed-1/?sp=1&q=George+Ripley
+  - [broad     ] 1868-12-23   Image 4 of New-York tribune (New York [N.Y.]), December 23, 
+    https://www.loc.gov/resource/sn83030214/1868-12-23/ed-1/?sp=4&q=George+Ripley
+  - [broad     ] 1874-01-26   Image 4 of New-York tribune (New York [N.Y.]), January 26, 1
+    https://www.loc.gov/resource/sn83030214/1874-01-26/ed-1/?sp=4&q=George+Ripley
+  - [broad     ] 1881-11-05   Image 8 of New-York tribune (New York [N.Y.]), November 5, 1
+    https://www.loc.gov/resource/sn83030214/1881-11-05/ed-1/?sp=8&q=George+Ripley
+  - [broad     ] 1880-08-29   Image 12 of New-York tribune (New York [N.Y.]), August 29, 1
+    https://www.loc.gov/resource/sn83030214/1880-08-29/ed-1/?sp=12&q=George+Ripley
+  - [broad     ] 1875-02-23   Image 6 of New-York tribune (New York [N.Y.]), February 23, 
+    https://www.loc.gov/resource/sn83030214/1875-02-23/ed-1/?sp=6&q=George+Ripley
+  - [broad     ] 1866-04-26   Image 2 of New-York tribune (New York [N.Y.]), April 26, 186
+    https://www.loc.gov/resource/sn83030214/1866-04-26/ed-1/?sp=2&q=George+Ripley
+  ... and 190 more
+
+============================================================
+Bayard Taylor (rid=4) — states=['New York'], dates=1864–1883
+  Variants: ['Charles A. Dana', 'George Ripley', 'Henry J. Raymond', 'Horace Greeley', 'Margaret Fuller']
+  Results: 200 pages found
+    financial: 50
+    variant:Charles A. Dana: 50
+    variant:George Ripley: 50
+    variant:Henry J. Raymond: 50
+  - [financial ] 1879-01-06   Image 2 of New-York tribune (New York [N.Y.]), January 6, 18
+    https://www.loc.gov/resource/sn83030214/1879-01-06/ed-1/?sp=2&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1866-05-13   Image 8 of New York dispatch (New York [N.Y.]), May 13, 1866
+    https://www.loc.gov/resource/sn85026214/1866-05-13/ed-1/?sp=8&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1874-10-13   Image 14 of The New York herald (New York [N.Y.]), October 1
+    https://www.loc.gov/resource/sn83030313/1874-10-13/ed-1/?sp=14&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1878-12-21   Image 4 of New-York tribune (New York [N.Y.]), December 21, 
+    https://www.loc.gov/resource/sn83030214/1878-12-21/ed-1/?sp=4&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1879-03-15   Image 1 of New-York tribune (New York [N.Y.]), March 15, 187
+    https://www.loc.gov/resource/sn83030214/1879-03-15/ed-1/?sp=1&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1879-01-07   Image 1 of New-York tribune (New York [N.Y.]), January 7, 18
+    https://www.loc.gov/resource/sn83030214/1879-01-07/ed-1/?sp=1&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1873-03-07   Image 1 of New-York tribune (New York [N.Y.]), March 7, 1873
+    https://www.loc.gov/resource/sn83030214/1873-03-07/ed-1/?sp=1&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1879-07-12   Image 3 of New-York tribune (New York [N.Y.]), July 12, 1879
+    https://www.loc.gov/resource/sn83030214/1879-07-12/ed-1/?sp=3&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1875-11-22   Image 10 of New-York tribune (New York [N.Y.]), November 22,
+    https://www.loc.gov/resource/sn83030214/1875-11-22/ed-1/?sp=10&q=Bayard+Taylor~2+railroad+director
+  - [financial ] 1879-03-08   Image 1 of New-York tribune (New York [N.Y.]), March 8, 1879
+    https://www.loc.gov/resource/sn83030214/1879-03-08/ed-1/?sp=1&q=Bayard+Taylor~2+railroad+director
+  ... and 190 more
+
+============================================================
+Henry J. Raymond (rid=5) — states=['New York'], dates=1864–1886
+  Variants: ['Charles A. Dana', 'George Ripley', 'Bayard Taylor', 'Horace Greeley', 'Margaret Fuller']
+  Results: 200 pages found
+    broad: 50
+    variant:Bayard Taylor: 50
+    variant:Charles A. Dana: 50
+    variant:George Ripley: 50
+  - [broad     ] 1864-11-08   Image 5 of New-York daily tribune (New-York [N.Y.]), Novembe
+    https://www.loc.gov/resource/sn83030213/1864-11-08/ed-1/?sp=5&q=Henry+J.+Raymond
+  - [broad     ] 1864-11-06   Image 5 of New York dispatch (New York [N.Y.]), November 6, 
+    https://www.loc.gov/resource/sn85026214/1864-11-06/ed-1/?sp=5&q=Henry+J.+Raymond
+  - [broad     ] 1866-08-21   Image 4 of New-York tribune (New York [N.Y.]), August 21, 18
+    https://www.loc.gov/resource/sn83030214/1866-08-21/ed-1/?sp=4&q=Henry+J.+Raymond
+  - [broad     ] 1864-11-02   Image 5 of New-York daily tribune (New-York [N.Y.]), Novembe
+    https://www.loc.gov/resource/sn83030213/1864-11-02/ed-1/?sp=5&q=Henry+J.+Raymond
+  - [broad     ] 1864-11-05   Image 5 of New-York daily tribune (New-York [N.Y.]), Novembe
+    https://www.loc.gov/resource/sn83030213/1864-11-05/ed-1/?sp=5&q=Henry+J.+Raymond
+  - [broad     ] 1864-11-04   Image 5 of New-York daily tribune (New-York [N.Y.]), Novembe
+    https://www.loc.gov/resource/sn83030213/1864-11-04/ed-1/?sp=5&q=Henry+J.+Raymond
+  - [broad     ] 1864-06-12   Image 4 of New York dispatch (New York [N.Y.]), June 12, 186
+    https://www.loc.gov/resource/sn85026214/1864-06-12/ed-1/?sp=4&q=Henry+J.+Raymond
+  - [broad     ] 1866-01-26   Image 11 of The New York herald (New York [N.Y.]), January 2
+    https://www.loc.gov/resource/sn83030313/1866-01-26/ed-1/?sp=11&q=Henry+J.+Raymond
+  - [broad     ] 1865-09-21   Image 1 of The New York herald (New York [N.Y.]), September 
+    https://www.loc.gov/resource/sn83030313/1865-09-21/ed-1/?sp=1&q=Henry+J.+Raymond
+  - [broad     ] 1869-06-20   Image 4 of New York dispatch (New York [N.Y.]), June 20, 186
+    https://www.loc.gov/resource/sn85026214/1869-06-20/ed-1/?sp=4&q=Henry+J.+Raymond
+  ... and 190 more
