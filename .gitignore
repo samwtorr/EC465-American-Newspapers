@@ -17,3 +17,5 @@ owner_bio_scraping/assembled/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+owner_bio_scraping/railroad_pipeline.db
