@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Regression Results Summary</title>
+<style>
+  body { font-family: 'Georgia', serif; max-width: 850px; margin: 40px auto; padding: 0 20px; color: #222; line-height: 1.5; font-size: 15px; }
+  h1 { font-size: 1.6em; border-bottom: 2px solid #333; padding-bottom: 8px; }
+  h2 { font-size: 1.2em; margin-top: 2em; border-bottom: 1px solid #ccc; padding-bottom: 4px; }
+  h3 { font-size: 1.05em; margin-top: 1.5em; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 0.92em; }
+  th, td { border: 1px solid #ccc; padding: 5px 10px; text-align: center; }
+  th { background: #f5f5f5; font-weight: bold; }
+  td:first-child, th:first-child { text-align: left; }
+  .note { font-size: 0.88em; color: #555; margin-top: 4px; }
+  .sig { font-size: 0.85em; color: #666; margin-top: 16px; }
+  p { margin: 8px 0; }
+  code { background: #f0f0f0; padding: 1px 4px; font-size: 0.9em; }
+</style>
+</head>
+<body>
+
+<h1>Regression Results Summary</h1>
+
+<p>The dataset links American newspaper owners/editors (1870s&ndash;1890s) to their newspapers using hand-coded biographical data on railroad financial ties, political affiliation, and role (editor vs publisher). Newspaper-level labor sentiment is classified from Chronicling America full-text articles using an LLM sentiment pipeline, yielding anti-labor, pro-labor, and neutral counts per newspaper-year.</p>
+
+<p>Railroad financial ties include ownership of a railroad company, a seat on the board or corporate directorship at a railroad company, confirmed stock holdings of a railroad company, professional relationships with a railroad company (one case &mdash; lawyer for company), or direct family ties (i.e., spousal railroad ties, primarily the editor/owner&rsquo;s father-in-law).</p>
+
+<p><strong>Sample:</strong> 265 newspaper-years, 46 newspapers, 47 persons (21 treated, 26 controls)</p>
+
+<h2>Cross-Sectional Regressions (newspaper-level, HC3 SEs)</h2>
+
+<p>One observation per newspaper: total anti-labor / total labor articles across the owner&rsquo;s full tenure.</p>
+
+<table>
+  <tr><th></th><th>(0a) Bivariate</th><th>(0b) + Party</th><th>(0c) + Party + Pop</th></tr>
+  <tr><td>railroad_interest</td><td>0.080** (0.033)</td><td>0.096*** (0.036)</td><td>0.097** (0.038)</td></tr>
+  <tr><td>person_republican</td><td></td><td>0.062* (0.036)</td><td>0.073* (0.039)</td></tr>
+  <tr><td>log_county_pop</td><td></td><td></td><td>-0.026 (0.019)</td></tr>
+  <tr><td>N</td><td>46</td><td>38</td><td>36</td></tr>
+  <tr><td>R&sup2;</td><td>0.122</td><td>0.216</td><td>0.257</td></tr>
+</table>
+
+<h2>Anti-Labor Intensity Regressions (OLS, HC3 SEs)</h2>
+
+<p>Outcome: anti-labor articles / total labor articles per newspaper-year.</p>
+
+<table>
+  <tr><th></th><th>(1) Bivariate</th><th>(2) Year FE</th><th>(3) + Party</th><th>(4) + Party + Pop</th></tr>
+  <tr><td>railroad_interest</td><td>0.069*** (0.026)</td><td>0.061** (0.026)</td><td>0.062** (0.029)</td><td>0.063** (0.030)</td></tr>
+  <tr><td>person_republican</td><td></td><td></td><td>0.098*** (0.027)</td><td>0.112*** (0.031)</td></tr>
+  <tr><td>log_county_pop</td><td></td><td></td><td></td><td>-0.017 (0.013)</td></tr>
+  <tr><td>N</td><td>265</td><td>265</td><td>228</td><td>224</td></tr>
+  <tr><td>R&sup2;</td><td>0.026</td><td>0.169</td><td>0.216</td><td>0.224</td></tr>
+</table>
+
+<p class="note">N drops with party (missing coding) and county pop (missing Census match).</p>
+
+<h3>Editor vs Publisher Split (Year FE specification)</h3>
+
+<table>
+  <tr><th></th><th>Editors only</th><th>Publishers only</th></tr>
+  <tr><td>railroad_interest</td><td>0.043 (0.029)</td><td>0.061* (0.033)</td></tr>
+  <tr><td>N</td><td>227</td><td>203</td></tr>
+  <tr><td>R&sup2;</td><td>0.167</td><td>0.171</td></tr>
+</table>
+
+<h2>Robustness: WLS + Newspaper-Clustered SEs</h2>
+
+<p>WLS weighted by <code>total_labor</code>. Standard errors clustered at the newspaper level.</p>
+
+<table>
+  <tr><th></th><th>(1) Bivariate</th><th>(2) Year FE</th><th>(3) + Party</th><th>(4) + Party + Pop</th></tr>
+  <tr><td>railroad_interest</td><td>0.067*** (0.021)</td><td>0.053*** (0.019)</td><td>0.066*** (0.019)</td><td>0.060** (0.025)</td></tr>
+  <tr><td>person_republican</td><td></td><td></td><td>0.052*** (0.018)</td><td>0.057** (0.027)</td></tr>
+  <tr><td>log_county_pop</td><td></td><td></td><td></td><td>0.004 (0.010)</td></tr>
+  <tr><td>Clusters</td><td>46</td><td>46</td><td>38</td><td>36</td></tr>
+  <tr><td>N</td><td>265</td><td>265</td><td>228</td><td>224</td></tr>
+  <tr><td>R&sup2;</td><td>0.069</td><td>0.445</td><td>0.496</td><td>0.508</td></tr>
+</table>
+
+<p>Railroad interest significant at p&lt;.01 or better across all specifications; county population is not significant.</p>
+
+<h2>Coverage Volume Regressions</h2>
+
+<p>Outcome: labor articles / total articles per newspaper-year.</p>
+
+<table>
+  <tr><th></th><th>(1) Bivariate</th><th>(2) Year FE</th><th>(3) + Party</th><th>(4) + Party + Pop</th></tr>
+  <tr><td>railroad_interest</td><td>0.0001 (0.0002)</td><td>0.0001 (0.0002)</td><td>0.0001 (0.0002)</td><td>-0.0001 (0.0002)</td></tr>
+  <tr><td>person_republican</td><td></td><td></td><td>0.0000 (0.0002)</td><td>-0.0000 (0.0002)</td></tr>
+  <tr><td>log_county_pop</td><td></td><td></td><td></td><td>0.0003*** (0.0001)</td></tr>
+  <tr><td>N</td><td>265</td><td>265</td><td>228</td><td>224</td></tr>
+  <tr><td>R&sup2;</td><td>0.002</td><td>0.226</td><td>0.216</td><td>0.267</td></tr>
+</table>
+
+<p>No significant effect of railroad interest on coverage volume. County population positively predicts coverage share (larger counties produce proportionally more labor articles).</p>
+
+<p><strong>Sentiment classifier validity.</strong> Validation results: 69% accuracy vs hand labels (n=175; F1: anti=0.64, neutral=0.74, pro=0.67), 77% vs Gemini labels (n=2,380). Face validity confirmed on the <em>Workingman&rsquo;s Advocate</em> (known pro-labor paper): classifier assigns 76% pro-labor. Anti-labor recall is highest (77% vs hand), reducing concern that the outcome variable systematically undercounts anti-labor articles.</p>
+
+<h2>Non-LLM Robustness: Keyword and Term Frequency Analysis</h2>
+
+<p>A keyword hit-rate test using 24 pejorative labor terms (e.g., &ldquo;agitator,&rdquo; &ldquo;rioter,&rdquo; &ldquo;mob&rdquo;) shows a mixed pattern: railroad-tied papers over-index on terms like &ldquo;agitator&rdquo; and &ldquo;communist&rdquo;, but under-index on others like &ldquo;mob&rdquo; and &ldquo;lawless&rdquo;, with no clear aggregate directional effect. A separate TF-IDF comparison of labor article corpora finds that railroad-tied papers disproportionately use concrete industrial and conflict terms (&ldquo;strike,&rdquo; &ldquo;strikers,&rdquo; &ldquo;company,&rdquo; &ldquo;coal,&rdquo; &ldquo;miners&rdquo;), while control papers over-index on political terms (&ldquo;congress,&rdquo; &ldquo;government,&rdquo; &ldquo;united states,&rdquo; &ldquo;free trade&rdquo;). This may suggest that railroad-tied papers framed labor coverage around specific industrial disputes rather than broader political context.</p>
+
+<p class="sig">OLS models use robust standard errors. WLS models use newspaper-clustered SEs. * p&lt;.1, ** p&lt;.05, *** p&lt;.01</p>
+
+</body>
+</html>
