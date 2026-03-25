@@ -12,10 +12,5 @@ __pycache__/
 # Intermediate processing files
 data/timelines/
 data/api_errors.log
-owner_bio_scraping/ia_texts/
-owner_bio_scraping/assembled/
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-owner_bio_scraping/railroad_pipeline.db

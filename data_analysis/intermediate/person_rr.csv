@@ -8,12 +8,16 @@ person_id,name,railroad_interest
 24,Lewis Baker,1
 36,John C. New,0
 37,Berry R. Sulgrove,0
+40,Henry Rust Mighels,0
 44,Buckley B. Paddock | Walter Malone,1
 48,Alfred Doten,0
 52,John F. Morse,1
+62,Michael Hahn,1
 70,"John Bennett Carrington, Sr.",1
 71,J. H. Estill,1
+74,H. Estill,1
 88,George Vernon,0
+94,J. W. Potter,0
 103,H. Smith | A. J. Steinman | E. H. Thomas,1
 106,William Osman | Douglas Hapeman,0
 109,John M. Keating | Matthew Gallaway,0
@@ -25,6 +29,7 @@ person_id,name,railroad_interest
 228,William R. Mead,0
 231,Charles M. Stone,1
 245,H. Vanderford | W. H. Vanderford,0
+247,William A. Wade,0
 285,C. S. Douglas,0
 340,George M. Dewey,0
 366,Edward Scull,1
@@ -32,6 +37,7 @@ person_id,name,railroad_interest
 450,Levi G. Gould,1
 456,Wm. H. Simpson,1
 466,Alfales Young,1
+480,George E. Lemon,1
 506,Ignatius Donnelly,1
 512,William Young,0
 514,Marshall M. Murdock,0
