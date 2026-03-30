@@ -1,54 +1,59 @@
-person_id,name,railroad_interest
-3,Whitelaw Reid,1
-4,Charles A. Dana | George Ripley | Bayard Taylor | Henry J. Raymond | Horace Greeley | Margaret Fuller,0
-5,Crosby Noyes,0
-8,Edgar Snowden,1
-13,James Gordon Bennett,1
-22,Harlan P. Hall,0
-24,Lewis Baker,1
-36,John C. New,0
-37,Berry R. Sulgrove,0
-40,Henry Rust Mighels,0
-44,Buckley B. Paddock | Walter Malone,1
-48,Alfred Doten,0
-52,John F. Morse,1
-62,Michael Hahn,1
-70,"John Bennett Carrington, Sr.",1
-71,J. H. Estill,1
-74,H. Estill,1
-88,George Vernon,0
-94,J. W. Potter,0
-103,H. Smith | A. J. Steinman | E. H. Thomas,1
-106,William Osman | Douglas Hapeman,0
-109,John M. Keating | Matthew Gallaway,0
-131,William L. Norris,0
-148,A. McGregor,0
-152,Walter Murray Gibson,0
-179,Paul Fontaine | Albert L. Fontaine,0
-223,"Samuel Denison Harris, Jr.",0
-228,William R. Mead,0
-231,Charles M. Stone,1
-245,H. Vanderford | W. H. Vanderford,0
-247,William A. Wade,0
-285,C. S. Douglas,0
-340,George M. Dewey,0
-366,Edward Scull,1
-382,C. W. Willard,1
-450,Levi G. Gould,1
-456,Wm. H. Simpson,1
-466,Alfales Young,1
-480,George E. Lemon,1
-506,Ignatius Donnelly,1
-512,William Young,0
-514,Marshall M. Murdock,0
-545,Charles Hendley,0
-548,William Rule | Henry C. Tarwater,0
-561,Rollin C. Brown,0
-655,Andrew F. Sperry | Francis C. Barker,0
-757,General John M. Hedrick | Major Augustus H. Hamilton,1
-759,John M. Hedrick,1
-775,D. R. Anthony,1
-921,Jay Gould,1
-953,Wm. Ritezel | W. C. Gould,0
-982,Wilmer Atkinson | Howard Jenkins,1
-1083,Frederick Douglass,0
+person_id,name,railroad_interest,railroad_interest_level
+3,Whitelaw Reid,1,1
+4,Charles A. Dana | George Ripley | Bayard Taylor | Henry J. Raymond | Horace Greeley | Margaret Fuller,0,0
+5,Crosby Noyes,0,0
+8,Edgar Snowden,1,3
+13,James Gordon Bennett,1,4
+22,Harlan P. Hall,0,0
+24,Lewis Baker,1,1
+25,James A. Cowardin | William H. Davis,0,0
+27,James A. Cowardin,0,0
+36,John C. New,0,0
+37,Berry R. Sulgrove,0,0
+40,Henry Rust Mighels,0,0
+44,Buckley B. Paddock | Walter Malone,1,5
+48,Alfred Doten,0,0
+52,John F. Morse,1,5
+62,Michael Hahn,1,4
+70,"John Bennett Carrington, Sr.",1,4
+71,J. H. Estill,1,5
+74,H. Estill,1,5
+88,George Vernon,0,0
+94,J. W. Potter,0,0
+103,H. Smith | A. J. Steinman | E. H. Thomas,1,4
+106,William Osman | Douglas Hapeman,0,0
+109,John M. Keating | Matthew Gallaway,0,0
+131,William L. Norris,0,0
+148,A. McGregor,0,0
+152,Walter Murray Gibson,0,0
+179,Paul Fontaine | Albert L. Fontaine,0,0
+223,"Samuel Denison Harris, Jr.",0,0
+228,William R. Mead,0,0
+231,Charles M. Stone,1,1
+245,H. Vanderford | W. H. Vanderford,0,0
+247,William A. Wade,0,0
+285,C. S. Douglas,0,0
+287,J. Lute Christie,0,0
+294,George Ways Tippett,0,0
+340,George M. Dewey,0,0
+366,Edward Scull,1,1
+382,C. W. Willard,1,3
+450,Levi G. Gould,1,1
+456,Wm. H. Simpson,1,5
+466,Alfales Young,1,5
+480,George E. Lemon,1,5
+506,Ignatius Donnelly,1,4
+512,William Young,0,0
+514,Marshall M. Murdock,0,0
+545,Charles Hendley,0,0
+548,William Rule | Henry C. Tarwater,0,0
+561,Rollin C. Brown,0,0
+655,Andrew F. Sperry | Francis C. Barker,0,0
+757,General John M. Hedrick | Major Augustus H. Hamilton,1,6
+759,John M. Hedrick,1,6
+775,D. R. Anthony,1,5
+781,John G. Rankin,0,0
+921,Jay Gould,1,6
+953,Wm. Ritezel | W. C. Gould,0,0
+982,Wilmer Atkinson | Howard Jenkins,1,3
+1083,Frederick Douglass,0,0
